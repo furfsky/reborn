@@ -1,0 +1,7 @@
+{
+        "parent": "builtin/generated",
+    "textures": {
+        "layer0": "./null",
+        "layer1": "./active_effects_empty"
+    }
+}

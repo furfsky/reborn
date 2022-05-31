@@ -1,0 +1,7 @@
+{
+    "parent": "builtin/generated",
+    "textures": {
+        "layer0": "mcpatcher/cit/uielements/skyblock_menu/skills_progress/blank_texture",
+        "layer1": "./level_60_complete"
+    }
+}

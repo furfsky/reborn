@@ -1,0 +1,6 @@
+{
+        "parent": "builtin/generated",
+    "textures": {
+        "layer0": "./claim_all_auctions"
+    }
+}

@@ -1,0 +1,6 @@
+{
+        "parent": "builtin/generated",
+    "textures": {
+        "layer0": "./bz_need_cookie"
+    }
+}
