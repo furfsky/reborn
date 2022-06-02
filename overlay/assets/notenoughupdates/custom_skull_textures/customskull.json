@@ -310,6 +310,50 @@
 		{
 		"texture": "helmets/thunder_helmet"
 		},
+	"11bc9124-7c0b-3fff-aaa0-4502a328aa7a": 
+		{
+		"model": "helmets/true_warden_helmet/frame_1/true_warden_helmet"
+		},
+	"6e6d05e3-a5a5-3d51-a2de-9f37bf9a0589": 
+		{
+		"model": "helmets/true_warden_helmet/frame_2/true_warden_helmet"
+		},
+	"1751c88f-5643-3967-afff-cd69929870a1": 
+		{
+		"model": "helmets/true_warden_helmet/frame_3/true_warden_helmet"
+		},
+	"020c1759-e9b1-399d-980f-3745851eb076": 
+		{
+		"model": "helmets/true_warden_helmet/frame_4/true_warden_helmet"
+		},
+	"7fa6cb2f-de16-3a2c-a988-aae19304d1df": 
+		{
+		"model": "helmets/true_warden_helmet/frame_5/true_warden_helmet"
+		},
+	"cc4652ba-88f3-3b62-9ec3-066a08217baf": 
+		{
+		"model": "helmets/true_warden_helmet/frame_6/true_warden_helmet"
+		},
+	"e2679835-78dd-3e2e-bb75-89b149407e85": 
+		{
+		"model": "helmets/true_warden_helmet/frame_7/true_warden_helmet"
+		},
+	"cda2f75e-318f-324b-89a2-00f4ce72bde0": 
+		{
+		"model": "helmets/true_warden_helmet/frame_8/true_warden_helmet"
+		},
+	"0a246014-5192-32dd-b432-a4eea1ef7e82": 
+		{
+		"model": "helmets/true_warden_helmet/frame_9/true_warden_helmet"
+		},
+	"2698b6e1-7e71-3230-80eb-949621c32c3d": 
+		{
+		"model": "helmets/true_warden_helmet/frame_10/true_warden_helmet"
+		},
+	"9c79973e-26c0-3e8c-b4a4-402e1225301d": 
+		{
+		"model": "helmets/true_warden_helmet/frame_11/true_warden_helmet"
+		},
 	"163f66cb-f787-34c8-8861-f37c0d3d8bb3": 
 		{
 		"model": "items/treasurite/treasurite"

@@ -63,7 +63,7 @@
   "gui_light": "front",
   "display": {
         "thirdperson": {
-            "rotation": [ 180, -45, 0 ],
+            "rotation": [ 0, -45, 180 ],
             "translation": [ 0, 1, -2.5 ],
             "scale": [ 0.25, 0.25, 0.25 ]
         },
