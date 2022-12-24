@@ -1,8 +1,0 @@
-{
-    "parent": "builtin/generated",
-    "textures": {
-        "layer0": "mcpatcher/cit/uielements/scg/blank_texture",
-        "layer1": "mcpatcher/cit/uielements/scg/blank_texture",
-        "layer2": "./sea_walker"
-    }
-}

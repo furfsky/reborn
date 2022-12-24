@@ -1,0 +1,39 @@
+{
+    "textures": {
+        "particle": "blocks/planks_oak",
+        "bottom": "blocks/planks_oak",
+        "feet": "blocks/bed_feet"
+    },
+    "elements": [
+        {   "from": [ 0, 3, 0 ],
+            "to": [ 16, 9, 16 ],
+            "faces": {
+                "up":    { "uv": [ 0, 0,  8,  8 ], "texture": "#feet" },
+                "down":  { "uv": [ 0, 0, 16, 16 ], "texture": "#bottom" },
+                "north": { "uv": [ 8, 8, 16, 11 ], "texture": "#feet" },
+                "west":  { "uv": [ 8, 4, 16,  7 ], "texture": "#feet" },
+                "east":  { "uv": [ 0, 8,  8, 11 ], "texture": "#feet" }
+            }
+        },
+        {   "from": [ 0, 0, 0 ],
+            "to": [ 3, 3, 3 ],
+            "faces": {
+                "down":  { "uv": [  8, 0,  9.5, 1.5 ], "texture": "#feet" },
+                "north": { "uv": [  8, 2,  9.5, 3.5 ], "texture": "#feet" },
+                "west":  { "uv": [ 10, 2, 11.5, 3.5 ], "texture": "#feet" },
+                "south": { "uv": [ 12, 2, 13.5, 3.5 ], "texture": "#feet" },
+                "east":  { "uv": [ 14, 2, 15.5, 3.5 ], "texture": "#feet" }
+            }
+        },
+        {   "from": [ 13, 0, 0 ],
+            "to": [ 16, 3, 3 ],
+            "faces": {
+                "down":  { "uv": [ 10, 0, 11.5, 1.5 ], "texture": "#feet" },
+                "north": { "uv": [ 10, 2, 11.5, 3.5 ], "texture": "#feet" },
+                "west":  { "uv": [ 12, 2, 13.5, 3.5 ], "texture": "#feet" },
+                "south": { "uv": [ 14, 2, 15.5, 3.5 ], "texture": "#feet" },
+                "east":  { "uv": [  8, 2,  9.5, 3.5 ], "texture": "#feet" }
+            }
+        }
+    ]
+}

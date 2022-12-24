@@ -1,6 +1,0 @@
-{
-        "parent": "builtin/generated",
-    "textures": {
-        "layer0": "./i_pretend_i_do_not_see_them"
-    }
-}

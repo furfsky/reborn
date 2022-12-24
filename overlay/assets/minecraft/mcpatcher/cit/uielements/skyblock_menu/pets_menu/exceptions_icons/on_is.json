@@ -1,7 +1,0 @@
-{
-        "parent": "builtin/generated",
-    "textures": {
-        "layer0": "./on_is",
-        "layer1": "./on_is"
-    }
-}

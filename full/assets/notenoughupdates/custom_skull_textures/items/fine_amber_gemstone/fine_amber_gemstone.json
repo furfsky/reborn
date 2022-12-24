@@ -2,31 +2,32 @@
 	"textures": {
 		"0": "items/fine_amber_gemstone/fine_amber_gemstone"
 	},
-	"elements": [
-		{
+	"elements": [{
 			"from": [0, 0, 8],
 			"to": [16, 16, 8],
 			"faces": {
-				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
-				"south": {"uv": [16, 0, 0, 16], "texture": "#0"}
+				"north": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#0"
+				}
+			}
+		},
+		{
+			"from": [0, 0, 8.05],
+			"to": [16, 16, 8.05],
+			"faces": {
+				"south": {
+					"uv": [16, 0, 0, 16],
+					"texture": "#0"
+				}
 			}
 		}
 	],
 	"display": {
-    		"firstperson": {
-      			"rotation": [0, 70, -15],
-      			"translation": [0, -8, 4],
-      			"scale": [1.7, 1.7, 1.7]
-    		},
-		"thirdperson": {
-      			"rotation": [-90, 0, 0],
-      			"translation": [0, 1, -3],
-      			"scale": [0.55, 0.55, 0.55]
-    		},
 		"gui": {
-			"rotation": [30, -45, 0],
+			"rotation": [0, -45, 0],
 			"translation": [0, -10.5, 0],
-			"scale": [1.15, 1.14, 1]
+			"scale": [1.15, 1.3, 1]
 		},
 		"head": {
 			"scale": [0.5, 0.5, 0.5]
