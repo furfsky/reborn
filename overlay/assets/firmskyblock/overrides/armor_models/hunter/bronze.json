@@ -1,0 +1,13 @@
+{
+  "item_ids": [
+    "BRONZE_HUNTER_HELMET",
+    "BRONZE_HUNTER_CHESTPLATE",
+    "BRONZE_HUNTER_LEGGINGS",
+    "BRONZE_HUNTER_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:hunter/bronze_hunter"
+    }
+  ]
+}

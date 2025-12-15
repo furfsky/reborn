@@ -1,0 +1,8 @@
+{
+  "screen": "firmskyblock:catacombs_rewards",
+  "model": "cittofirmgenerated:ui/skyblock_menu/catacombs_skill",
+  "predicate": {
+    "firmament:item": "minecraft:player_head",
+    "firmament:display_name": "Catacombs"
+  }
+}

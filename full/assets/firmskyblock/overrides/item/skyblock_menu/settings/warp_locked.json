@@ -1,0 +1,10 @@
+{
+  "screen": [
+    "firmskyblock:fast_travel",
+    "firmskyblock:warps"
+  ],
+  "model": "cittofirmgenerated:ui/skyblock_menu/settings/island_locked",
+  "predicate": {
+    "firmament:lore": "Warp not unlocked!"
+  }
+}

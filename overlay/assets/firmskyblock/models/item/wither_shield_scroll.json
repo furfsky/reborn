@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/wither_shield"
+  },
+  "parent": "minecraft:item/handheld"
+}

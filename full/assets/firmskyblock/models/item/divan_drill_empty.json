@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/divan_drill_empty"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/drill"
+}

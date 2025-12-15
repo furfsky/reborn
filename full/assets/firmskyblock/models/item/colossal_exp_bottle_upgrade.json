@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/colossal_experience_bottle_upgrade"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

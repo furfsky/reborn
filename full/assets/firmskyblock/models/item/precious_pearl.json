@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/precious_pearl"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

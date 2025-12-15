@@ -1,0 +1,14 @@
+{
+	"parent": "minecraft:item/fishing_rod",
+	"textures": {
+		"layer0": "cittofirmgenerated:item/auger_rod"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"cast": 1
+			},
+			"model": "firmskyblock:item/auger_rod_cast"
+		}
+	]
+}

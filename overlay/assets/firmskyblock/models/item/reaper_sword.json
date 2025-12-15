@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/reaper_falchion"
+  },
+  "parent": "minecraft:item/handheld"
+}

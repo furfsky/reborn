@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/gauntlet_of_contagion"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

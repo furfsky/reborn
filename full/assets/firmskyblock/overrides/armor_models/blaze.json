@@ -1,0 +1,12 @@
+{
+  "item_ids": [
+    "BLAZE_CHESTPLATE",
+    "BLAZE_LEGGINGS",
+    "BLAZE_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:blaze"
+    }
+  ]
+}

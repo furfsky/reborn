@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/weak_wolf_catalyst"
+  },
+  "parent": "minecraft:item/handheld"
+}

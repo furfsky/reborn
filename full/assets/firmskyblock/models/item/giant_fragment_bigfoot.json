@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/bigfoot_lasso"
+  },
+  "parent": "minecraft:item/handheld"
+}

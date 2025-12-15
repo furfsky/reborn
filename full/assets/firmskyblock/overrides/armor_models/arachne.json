@@ -1,0 +1,12 @@
+{
+  "item_ids": [
+    "ARACHNE_CHESTPLATE",
+    "ARACHNE_LEGGINGS",
+    "ARACHNE_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:arachne"
+    }
+  ]
+}

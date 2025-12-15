@@ -1,0 +1,13 @@
+{
+  "item_ids": [
+    "FARM_ARMOR_HELMET",
+    "FARM_ARMOR_CHESTPLATE",
+    "FARM_ARMOR_LEGGINGS",
+    "FARM_ARMOR_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:farm_armor"
+    }
+  ]
+}

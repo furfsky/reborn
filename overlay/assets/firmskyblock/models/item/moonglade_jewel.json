@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/moonglade_jewel"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

@@ -1,0 +1,6 @@
+{
+	"textures": {
+		"layer0": "cittofirmgenerated:item/starter_lava_rod_cast"
+	},
+	"parent": "firmskyblock:item/starter_lava_rod"
+}

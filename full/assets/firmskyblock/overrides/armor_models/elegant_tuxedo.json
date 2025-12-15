@@ -1,0 +1,12 @@
+{
+  "item_ids": [
+    "ELEGANT_TUXEDO_CHESTPLATE",
+    "ELEGANT_TUXEDO_LEGGINGS",
+    "ELEGANT_TUXEDO_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:elegant_tuxedo"
+    }
+  ]
+}

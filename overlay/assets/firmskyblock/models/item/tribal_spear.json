@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/tribal_spear"
+  },
+  "parent": "minecraft:item/handheld"
+}

@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/flawed_topaz_gemstone"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

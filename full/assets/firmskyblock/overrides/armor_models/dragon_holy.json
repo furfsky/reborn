@@ -1,0 +1,12 @@
+{
+  "item_ids": [
+    "HOLY_DRAGON_CHESTPLATE",
+    "HOLY_DRAGON_LEGGINGS",
+    "HOLY_DRAGON_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:holy_dragon"
+    }
+  ]
+}

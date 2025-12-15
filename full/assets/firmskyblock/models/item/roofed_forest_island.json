@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/roofed_forest_island"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

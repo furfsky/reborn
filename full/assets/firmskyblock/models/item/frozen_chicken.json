@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/frozen_chicken"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/cheap_coffee"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/tidal_rune"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

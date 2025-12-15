@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/mana_ray_silver"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

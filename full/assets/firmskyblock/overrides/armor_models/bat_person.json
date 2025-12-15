@@ -1,0 +1,12 @@
+{
+  "item_ids": [
+    "BAT_PERSON_CHESTPLATE",
+    "BAT_PERSON_LEGGINGS",
+    "BAT_PERSON_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:bat_person"
+    }
+  ]
+}

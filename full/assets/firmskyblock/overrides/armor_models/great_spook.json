@@ -1,0 +1,14 @@
+{
+  "item_ids": [
+    "GREAT_SPOOK_HELMET",
+    "GREAT_SPOOK_CHESTPLATE",
+    "GREAT_SPOOK_LEGGINGS",
+    "GREAT_SPOOK_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:great_spook",
+      "tint": true
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+	"textures": {
+		"layer0": "cittofirmgenerated:item/polished_topaz_rod_cast"
+	},
+	"parent": "firmskyblock:item/polished_topaz_rod"
+}

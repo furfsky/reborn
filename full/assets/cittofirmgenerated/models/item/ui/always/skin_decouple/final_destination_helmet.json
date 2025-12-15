@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "cittofirmgenerated:item/final_destination_helmet"
+	},
+	"firmament:head_model": "cittofirmgenerated:item/helmet_icon/final_destination_helmet"
+}

@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/the_park"
+  },
+  "parent": "minecraft:item/handheld"
+}

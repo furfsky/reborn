@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/nibble_chocolate_stick"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

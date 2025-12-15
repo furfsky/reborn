@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/reforge_anvil"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

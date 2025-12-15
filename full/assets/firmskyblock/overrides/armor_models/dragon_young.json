@@ -1,0 +1,12 @@
+{
+  "item_ids": [
+    "YOUNG_DRAGON_CHESTPLATE",
+    "YOUNG_DRAGON_LEGGINGS",
+    "YOUNG_DRAGON_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:young_dragon"
+    }
+  ]
+}

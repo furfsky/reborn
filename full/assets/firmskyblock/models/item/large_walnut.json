@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/large_walnut"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

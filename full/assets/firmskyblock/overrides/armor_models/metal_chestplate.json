@@ -1,0 +1,10 @@
+{
+  "item_ids": [
+    "METAL_CHESTPLATE"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:metal_chestplate"
+    }
+  ]
+}

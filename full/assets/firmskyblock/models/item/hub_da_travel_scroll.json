@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/dark_auction"
+  },
+  "parent": "minecraft:item/handheld"
+}

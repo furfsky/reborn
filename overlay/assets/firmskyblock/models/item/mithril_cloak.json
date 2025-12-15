@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/mithril_cloak"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/phone"
+}

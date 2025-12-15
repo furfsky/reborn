@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "cittofirmgenerated:item/amber_polished_drill_engine"
+  }
+}

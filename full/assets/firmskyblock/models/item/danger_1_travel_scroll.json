@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/spider_den"
+  },
+  "parent": "minecraft:item/handheld"
+}

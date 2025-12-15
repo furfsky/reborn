@@ -1,0 +1,10 @@
+{
+  "screen": "firmskyblock:profile",
+  "model": "cittofirmgenerated:ui/profile_viewer/visit_island",
+  "predicate": {
+    "firmament:item": "minecraft:feather",
+    "firmament:display_name": {
+      "regex": "Visit Island"
+    }
+  }
+}

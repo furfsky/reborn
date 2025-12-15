@@ -1,0 +1,12 @@
+{
+  "item_ids": [
+    "UNSTABLE_DRAGON_CHESTPLATE",
+    "UNSTABLE_DRAGON_LEGGINGS",
+    "UNSTABLE_DRAGON_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:unstable_dragon"
+    }
+  ]
+}

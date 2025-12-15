@@ -1,0 +1,12 @@
+{
+  "item_ids": [
+    "CHEAP_TUXEDO_CHESTPLATE",
+    "CHEAP_TUXEDO_LEGGINGS",
+    "CHEAP_TUXEDO_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:cheap_tuxedo"
+    }
+  ]
+}

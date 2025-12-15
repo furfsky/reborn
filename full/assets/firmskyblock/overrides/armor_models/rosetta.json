@@ -1,0 +1,13 @@
+{
+  "item_ids": [
+    "ROSETTA_HELMET",
+    "ROSETTA_CHESTPLATE",
+    "ROSETTA_LEGGINGS",
+    "ROSETTA_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:rosetta"
+    }
+  ]
+}

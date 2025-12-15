@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/scavenged_golden_hammer"
+  },
+  "parent": "minecraft:item/handheld"
+}

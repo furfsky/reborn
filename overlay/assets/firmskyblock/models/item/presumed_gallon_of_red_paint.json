@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/presumed_gallon_of_red_paint"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

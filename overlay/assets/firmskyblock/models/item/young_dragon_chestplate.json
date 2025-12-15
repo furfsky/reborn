@@ -1,0 +1,7 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/young_dragon_chestplate",
+    "layer1": "cittofirmgenerated:item/young_dragon_chestplate"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

@@ -1,0 +1,7 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/miner_outfit_boots",
+    "layer1": "cittofirmgenerated:item/miner_outfit_boots"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

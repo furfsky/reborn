@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/pure_mithril"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

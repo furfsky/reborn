@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/nurse_shark_tooth"
+  },
+  "parent": "minecraft:item/handheld"
+}

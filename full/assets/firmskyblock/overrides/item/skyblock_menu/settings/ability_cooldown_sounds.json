@@ -1,0 +1,8 @@
+{
+  "screen": "firmskyblock:settings",
+  "model": "cittofirmgenerated:ui/skyblock_menu/settings/ability_cooldown_sounds",
+  "predicate": {
+    "firmament:item": "minecraft:music_disc_cat",
+    "firmament:display_name": "Ability Cooldown Sounds"
+  }
+}

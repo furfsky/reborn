@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/end_stone_geode"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

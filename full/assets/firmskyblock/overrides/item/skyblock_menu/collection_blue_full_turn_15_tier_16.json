@@ -1,0 +1,10 @@
+{
+  "screen": "firmskyblock:collection_mining_tier_16",
+  "model": "cittofirmgenerated:ui/skyblock_menu/bar_blue_full_up_right",
+  "predicate": {
+    "firmament:item": "minecraft:lime_stained_glass_pane",
+    "firmament:display_name": {
+      "regex": ".* XV"
+    }
+  }
+}

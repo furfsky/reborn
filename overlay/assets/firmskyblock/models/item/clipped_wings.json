@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/clipped_wings"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/burning_kuudra_key"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/key"
+}

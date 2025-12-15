@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/golem_sword"
+  },
+  "parent": "minecraft:item/handheld"
+}

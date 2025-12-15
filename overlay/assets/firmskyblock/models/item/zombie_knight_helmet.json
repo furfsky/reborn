@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/zombie_knight_helmet"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

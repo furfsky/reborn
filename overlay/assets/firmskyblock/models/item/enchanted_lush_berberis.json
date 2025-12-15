@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/lush_berberis"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

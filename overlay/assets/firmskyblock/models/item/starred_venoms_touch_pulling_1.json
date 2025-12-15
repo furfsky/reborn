@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/bow",
+  "textures": {
+    "layer0": "cittofirmgenerated:item/starred_venom_touch_pulling_1"
+  }
+}

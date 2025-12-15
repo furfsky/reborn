@@ -1,0 +1,14 @@
+{
+  "parent": "cittofirmgenerated:item/skyblock/item",
+  "textures": {
+    "layer0": "cittofirmgenerated:item/handy_blood_chalice_off"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "firmament:lore": "Enabled: On"
+      },
+      "model": "firmskyblock:item/handy_blood_chalice_on"
+    }
+  ]
+}

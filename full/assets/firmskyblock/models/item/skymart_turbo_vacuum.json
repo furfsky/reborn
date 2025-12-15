@@ -1,0 +1,6 @@
+{
+  "parent": "cittofirmgenerated:item/skyblock/vacuum",
+  "textures": {
+    "layer0": "cittofirmgenerated:item/skymart_turbo_vacuum"
+  }
+}

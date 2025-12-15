@@ -1,0 +1,29 @@
+{
+  "item_ids": [
+    "FIERY_CRIMSON_CHESTPLATE",
+    "FIERY_CRIMSON_LEGGINGS",
+    "FIERY_CRIMSON_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:crimson/fiery_crimson"
+    }
+  ],
+  "overrides": [
+    {
+      "layers": [
+        {
+          "identifier": "cittofirmgenerated:treacherous"
+        }
+      ],
+      "predicate": {
+        "firmament:extra_attributes": {
+          "path": "uuid",
+          "string": {
+            "regex": "(2600b3c5-b094-4411-ae26-40f508422d96)|(ba3c6f94-438b-4841-8137-d873721d7a81)|(055e23c8-9301-49bc-85c1-723d046bb405)"
+          }
+        }
+      }
+    }
+  ]
+}

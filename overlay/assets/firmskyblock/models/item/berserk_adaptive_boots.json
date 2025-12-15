@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "cittofirmgenerated:item/berserker_adaptive_boots",
+    "layer1": "cittofirmgenerated:item/berserker_adaptive_boots"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/horseman_candle"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

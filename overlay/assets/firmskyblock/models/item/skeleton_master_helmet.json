@@ -1,0 +1,7 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/skeleton_master_helmet",
+    "layer1": "cittofirmgenerated:item/skeleton_master_helmet"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

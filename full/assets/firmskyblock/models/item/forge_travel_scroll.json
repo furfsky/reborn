@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/dwarven_forge"
+  },
+  "parent": "minecraft:item/handheld"
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "firmskyblock:block/iron_ore"
+    }
+}

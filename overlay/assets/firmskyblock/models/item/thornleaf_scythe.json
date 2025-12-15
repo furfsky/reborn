@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/thornleaf_scythe"
+  },
+  "parent": "minecraft:item/handheld"
+}

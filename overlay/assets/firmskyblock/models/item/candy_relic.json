@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/candy_relic"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

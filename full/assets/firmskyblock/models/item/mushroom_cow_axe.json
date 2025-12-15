@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/mushroom_cow_axe"
+  },
+  "parent": "minecraft:item/handheld"
+}

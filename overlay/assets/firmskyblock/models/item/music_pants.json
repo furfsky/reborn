@@ -1,0 +1,7 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/stereo_pants",
+    "layer1": "cittofirmgenerated:item/stereo_pants"
+  },
+  "parent": "minecraft:item/handheld"
+}

@@ -1,0 +1,12 @@
+{
+  "item_ids": [
+    "BURNING_CRIMSON_CHESTPLATE",
+    "BURNING_CRIMSON_LEGGINGS",
+    "BURNING_CRIMSON_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:crimson/burning_crimson"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/subzero_inverter"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

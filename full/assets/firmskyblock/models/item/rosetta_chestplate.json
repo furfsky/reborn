@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/rosetta_chestplate"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

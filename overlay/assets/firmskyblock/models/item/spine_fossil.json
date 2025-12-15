@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/spine_fossil"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

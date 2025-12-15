@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/pig_foot"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

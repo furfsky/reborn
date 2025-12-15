@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/fire_veil_wand"
+  },
+  "parent": "minecraft:item/handheld"
+}

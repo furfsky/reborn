@@ -1,0 +1,9 @@
+{
+  "screen": "firmskyblock:auctions_browser",
+  "model": "cittofirmgenerated:ui/skyblock_menu/auction_browser_accessories",
+  "predicate": {
+    "firmament:item": "minecraft:player_head",
+    "firmament:display_name": "Accessories",
+    "firmament:lore": "Click to view items!"
+  }
+}

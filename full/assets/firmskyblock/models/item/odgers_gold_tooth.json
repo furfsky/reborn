@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/odger_gold_tooth"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

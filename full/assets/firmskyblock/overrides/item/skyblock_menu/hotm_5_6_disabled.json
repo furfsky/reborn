@@ -1,0 +1,8 @@
+{
+  "screen": "firmskyblock:heart_of_the_mountain",
+  "model": "cittofirmgenerated:ui/skyblock_menu/hotm_5_6_disabled",
+  "predicate": {
+    "firmament:display_name": "Daily Powder",
+    "firmament:item": "minecraft:redstone_block"
+  }
+}

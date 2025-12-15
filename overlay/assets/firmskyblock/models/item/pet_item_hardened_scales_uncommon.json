@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/hardened_scales"
+  },
+  "parent": "minecraft:item/handheld"
+}

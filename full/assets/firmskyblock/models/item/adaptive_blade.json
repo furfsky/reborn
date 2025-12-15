@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "cittofirmgenerated:item/adaptive_blade"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "firmament:lore": "Selected class: Berserk"
+      },
+      "model": "firmskyblock:item/berserk_adaptive_blade"
+    },
+    {
+      "predicate": {
+        "firmament:lore": "Selected class: Healer"
+      },
+      "model": "firmskyblock:item/healer_adaptive_blade"
+    },
+    {
+      "predicate": {
+        "firmament:lore": "Selected class: Mage"
+      },
+      "model": "firmskyblock:item/mage_adaptive_blade"
+    },
+    {
+      "predicate": {
+        "firmament:lore": "Selected class: Tank"
+      },
+      "model": "firmskyblock:item/tank_adaptive_blade"
+    },
+    {
+      "predicate": {
+        "firmament:lore": "Selected class: Archer"
+      },
+      "model": "firmskyblock:item/archer_adaptive_blade"
+    }
+  ]
+}

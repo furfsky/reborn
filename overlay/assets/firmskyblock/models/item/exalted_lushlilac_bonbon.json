@@ -1,0 +1,6 @@
+{
+  "parent": "cittofirmgenerated:item/skyblock/item",
+  "textures": {
+    "layer0": "cittofirmgenerated:item/exalted_lushlilac_bonbon"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/teleporter_pill"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

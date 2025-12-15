@@ -1,0 +1,18 @@
+{
+  "parent": "cittofirmgenerated:item/skyblock/item",
+  "textures": {
+    "layer0": "cittofirmgenerated:item/infernal_crimson_leggings",
+    "layer1": "cittofirmgenerated:item/infernal_crimson_leggings"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "firmament:extra_attributes": {
+          "path": "uuid",
+          "string": "ba3c6f94-438b-4841-8137-d873721d7a81"
+        }
+      },
+      "model": "firmskyblock:item/treacherous_leggings"
+    }
+  ]
+}

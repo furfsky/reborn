@@ -1,0 +1,7 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/farm_armor_boots",
+    "layer1": "cittofirmgenerated:item/farm_armor_boots"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

@@ -1,0 +1,15 @@
+{
+  "screen": [
+    "firmskyblock:skill_farming",
+    "firmskyblock:skill_carpentry",
+    "firmskyblock:healer_class_perks",
+    "firmskyblock:skill_farming_garden"
+  ],
+  "model": "cittofirmgenerated:ui/skyblock_menu/bar_yellow_full_up_down",
+  "predicate": {
+    "firmament:item": "minecraft:lime_stained_glass_pane",
+    "firmament:display_name": {
+      "regex": ".* ((II)|(2)|(VI)|(6)|(VII)|(7)|(XI)|(11)|(XII)|(12)|(XVI)|(16)|(XVII)|(17)|(XXI)|(21)|(XXII)|(22)|(XXIII)|(23)|(XXIV)|(24)|(XXVI)|(26)|(XXVII)|(27)|(XXXI)|(31)|(XXXII)|(32)|(XXXVI)|(36)|(XXXVII)|(37)|(XLI)|(41)|(XLII)|(42)|(XLVI)|(46)|(XLVII)|(47)|(XLVIII)|(48)|(XLIX)|(49)|(LII)|(52)|(LVI)|(56)|(LVII)|(57))"
+    }
+  }
+}

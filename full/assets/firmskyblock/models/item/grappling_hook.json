@@ -1,0 +1,14 @@
+{
+  "parent": "cittofirmgenerated:item/skyblock/grappling_hook",
+  "textures": {
+    "layer0": "cittofirmgenerated:item/grappling_hook"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "cast": 1
+      },
+      "model": "firmskyblock:item/grappling_hook_cast"
+    }
+  ]
+}

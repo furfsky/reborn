@@ -1,0 +1,15 @@
+{
+  "screen": "firmskyblock:collections",
+  "model": "cittofirmgenerated:ui/skyblock_menu/locked_collection",
+  "predicate": {
+    "firmament:item": "minecraft:gray_dye",
+    "firmament:any": [
+      {
+        "firmament:lore": "Find this item to add it to your"
+      },
+      {
+        "firmament:lore": "Kill this boss once to view collection"
+      }
+    ]
+  }
+}

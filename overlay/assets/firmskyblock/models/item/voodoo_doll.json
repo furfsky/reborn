@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/voodoo_doll"
+  },
+  "parent": "minecraft:item/handheld"
+}

@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/wood_affinity_talisman"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

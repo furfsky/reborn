@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/nearly_whole_carrot"
+  },
+  "parent": "minecraft:item/handheld"
+}

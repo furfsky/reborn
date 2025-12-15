@@ -1,0 +1,8 @@
+{
+  "screen": "firmskyblock:island_browser",
+  "model": "cittofirmgenerated:ui/always/globe",
+  "predicate": {
+    "firmament:item": "minecraft:player_head",
+    "firmament:display_name": "Island Browse Menu"
+  }
+}

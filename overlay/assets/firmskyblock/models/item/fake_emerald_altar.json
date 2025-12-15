@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/fake_emerald_altar"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

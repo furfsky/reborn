@@ -1,0 +1,10 @@
+{
+  "screen": "firmament:always",
+  "model": "cittofirmgenerated:ui/always/locked",
+  "predicate": {
+    "firmament:item": "minecraft:gray_dye",
+    "firmament:lore": {
+      "regex": ".*Requires.*"
+    }
+  }
+}

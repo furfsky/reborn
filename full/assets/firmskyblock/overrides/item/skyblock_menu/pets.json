@@ -1,0 +1,15 @@
+{
+  "screen": [
+    "firmskyblock:skyblock_menu",
+    "firmskyblock:pets",
+    "firmskyblock:widgets_in_location",
+    "firmskyblock:level_guide"
+  ],
+  "model": "cittofirmgenerated:ui/skyblock_menu/pets",
+  "predicate": {
+    "firmament:item": "minecraft:bone",
+    "firmament:display_name": {
+      "regex": "(. )?Pet(s)?.*"
+    }
+  }
+}

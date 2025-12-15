@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/melody_hair"
+  },
+  "parent": "minecraft:item/handheld"
+}

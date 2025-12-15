@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/speedy_line"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

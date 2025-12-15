@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/precursor_apparatus"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

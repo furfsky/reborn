@@ -1,0 +1,10 @@
+{
+  "screen": "firmskyblock:challenges",
+  "model": "cittofirmgenerated:ui/dojo/test_of_tenacity",
+  "predicate": {
+    "firmament:item": "minecraft:fire_charge",
+    "firmament:display_name": {
+      "regex": "Test of Tenacity"
+    }
+  }
+}

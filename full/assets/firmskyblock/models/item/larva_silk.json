@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/larva_silk"
+  },
+  "parent": "minecraft:item/handheld"
+}

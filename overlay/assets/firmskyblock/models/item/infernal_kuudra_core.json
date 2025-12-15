@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/infernal_kuudra_core"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

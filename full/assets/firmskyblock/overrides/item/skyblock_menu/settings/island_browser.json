@@ -1,0 +1,8 @@
+{
+  "screen": "firmskyblock:fast_travel",
+  "model": "cittofirmgenerated:ui/always/globe",
+  "predicate": {
+    "firmament:item": "minecraft:blaze_powder",
+    "firmament:display_name": "Island Browser"
+  }
+}

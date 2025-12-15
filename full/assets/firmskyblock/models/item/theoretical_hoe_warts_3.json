@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/newton_nether_warts_hoe_tier_3"
+  },
+  "parent": "minecraft:item/handheld"
+}

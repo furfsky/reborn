@@ -1,0 +1,14 @@
+{
+  "parent": "cittofirmgenerated:item/skyblock/dagger",
+  "textures": {
+    "layer0": "cittofirmgenerated:item/deathripper_dagger_crystal"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "firmament:lore": "Attuned: Spirit"
+      },
+      "model": "firmskyblock:item/heartmaw_dagger_spirit"
+    }
+  ]
+}

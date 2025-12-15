@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/karate_fish_gold"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

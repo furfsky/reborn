@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/filet_o_fortune"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

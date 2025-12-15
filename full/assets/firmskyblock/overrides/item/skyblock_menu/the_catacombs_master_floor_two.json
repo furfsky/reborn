@@ -1,0 +1,35 @@
+{
+  "screen": [
+    "firmskyblock:catacombs_gate",
+    "firmskyblock:catacombs_profile",
+    "firmskyblock:complete_dungeons_master",
+    "firmskyblock:select_floor",
+    "firmskyblock:group_builder",
+    "firmskyblock:search_settings",
+    "firmskyblock:level_guide",
+    "firmskyblock:ways_to_level_up",
+    "firmskyblock:dungeon_floors"
+  ],
+  "model": "cittofirmgenerated:ui/skyblock_menu/the_catacombs_master_floor_two",
+  "predicate": {
+    "firmament:item": "minecraft:player_head",
+    "firmament:display_name": {
+      "regex": "((([\u2716\u2714] Master|MM |Master Mode )?(The|Complete)?) Catacombs( -)? )?Floor II|Select Floor"
+    },
+    "firmament:lore": {
+      "regex": "(Complete.*?)|Currently Selected: Floor II|Click to (select|join|view)!"
+    },
+    "firmament:any": [
+      {
+        "firmament:skull": {
+          "textureValue": "ewogICJ0aW1lc3RhbXAiIDogMTYxNzExMDcxNzIxMywKICAicHJvZmlsZUlkIiA6ICI5MzZmMTA3MTEzOGM0YjMyYTg0OGY2NmE5Nzc2NDJhMiIsCiAgInByb2ZpbGVOYW1lIiA6ICIwMDAwMDAwMDAwMDAwMDB4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzMyMjkyZTRlMGZhNjI2NjcyNTZlZjhkYTBmMDE5ODJhOTk2NDk5ZjRkNWQ4OTRiZDA1OGMzZTZmM2QyZmIyZDkiCiAgICB9CiAgfQp9"
+        }
+      },
+      {
+        "firmament:skull": {
+          "textureValue": "ewogICJ0aW1lc3RhbXAiIDogMTYwMjAzOTQ4MTEzMywKICAicHJvZmlsZUlkIiA6ICJjNTBhZmE4YWJlYjk0ZTQ1OTRiZjFiNDI1YTk4MGYwMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUd29FQmFlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE3YjhlZjdlOGUwYWYxOTM5OWNjMzI0ODVmMmVlNDdiMmJiNGQ1ODAyYzcxYjMwMjFmNGQ1ZDZiNWYzYWZlMDMiCiAgICB9CiAgfQp9"
+        }
+      }
+    ]
+  }
+}

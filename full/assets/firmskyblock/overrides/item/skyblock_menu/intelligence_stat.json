@@ -1,0 +1,13 @@
+{
+  "screen": [
+    "firmskyblock:your_stats_breakdown",
+    "firmskyblock:stats"
+  ],
+  "model": "cittofirmgenerated:ui/skyblock_menu/intelligence_stat",
+  "predicate": {
+    "firmament:item": "minecraft:enchanted_book",
+    "firmament:display_name": {
+      "regex": "✎ Intelligence.*"
+    }
+  }
+}

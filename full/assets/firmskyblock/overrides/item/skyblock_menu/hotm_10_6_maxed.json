@@ -1,0 +1,8 @@
+{
+  "screen": "firmskyblock:heart_of_the_mountain",
+  "model": "cittofirmgenerated:ui/skyblock_menu/hotm_10_6_maxed",
+  "predicate": {
+    "firmament:display_name": "Vanguard Seeker",
+    "firmament:item": "minecraft:diamond"
+  }
+}

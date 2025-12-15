@@ -1,0 +1,13 @@
+{
+  "item_ids": [
+    "ROTTEN_HELMET",
+    "ROTTEN_CHESTPLATE",
+    "ROTTEN_LEGGINGS",
+    "ROTTEN_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:rotten"
+    }
+  ]
+}

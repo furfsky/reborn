@@ -1,0 +1,15 @@
+{
+  "screen": [
+    "firmskyblock:collection_combat_tier_7",
+    "firmskyblock:collection_combat_tier_8",
+    "firmskyblock:collection_combat_tier_9",
+    "firmskyblock:collection_combat_tier_10"
+  ],
+  "model": "cittofirmgenerated:ui/skyblock_menu/bar_red_partial_left",
+  "predicate": {
+    "firmament:item": "minecraft:yellow_stained_glass_pane",
+    "firmament:display_name": {
+      "regex": ".* ((II)|(III)|(IV)|(V)|(VI))"
+    }
+  }
+}

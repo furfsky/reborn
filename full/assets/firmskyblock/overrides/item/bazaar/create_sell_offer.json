@@ -1,0 +1,8 @@
+{
+  "screen": "firmskyblock:bazaar_level_subcategory",
+  "model": "cittofirmgenerated:ui/bazaar/create_sell_offer",
+  "predicate": {
+    "firmament:item": "minecraft:map",
+    "firmament:display_name": "Create Sell Offer"
+  }
+}

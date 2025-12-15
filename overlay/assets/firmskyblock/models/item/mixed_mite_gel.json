@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/mixed_mite_gel"
+  },
+  "parent": "minecraft:item/handheld"
+}

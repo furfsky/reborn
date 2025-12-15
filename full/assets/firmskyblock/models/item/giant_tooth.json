@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/giant_tooth"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

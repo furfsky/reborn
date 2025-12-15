@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/dirt_bottle"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

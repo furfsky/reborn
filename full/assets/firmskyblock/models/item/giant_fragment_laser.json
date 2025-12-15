@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/lasr_eye"
+  },
+  "parent": "minecraft:item/handheld"
+}

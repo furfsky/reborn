@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/hoe_of_greater_tilling"
+  },
+  "parent": "minecraft:item/handheld"
+}

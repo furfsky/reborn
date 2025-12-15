@@ -1,0 +1,12 @@
+{
+  "predicates": {
+    "label": "Garden Levels"
+  },
+  "background": {
+    "texture": "firmskyblock:textures/screen_layout/skill_farming_garden.png",
+    "x": 0,
+    "y": 0,
+    "width": 176,
+    "height": 221
+  }
+}

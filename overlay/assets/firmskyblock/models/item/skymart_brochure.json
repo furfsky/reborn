@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/skymart_brochure"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

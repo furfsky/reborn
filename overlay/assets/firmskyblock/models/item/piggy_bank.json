@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/piggy_bank"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

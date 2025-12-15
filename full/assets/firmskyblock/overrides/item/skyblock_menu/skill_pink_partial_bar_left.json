@@ -1,0 +1,10 @@
+{
+  "screen": "firmskyblock:skill_runecrafting",
+  "model": "cittofirmgenerated:ui/skyblock_menu/bar_pink_partial_left",
+  "predicate": {
+    "firmament:item": "minecraft:yellow_stained_glass_pane",
+    "firmament:display_name": {
+      "regex": ".* ((IV)|(4)|(IX)|(9)|(XIV)|(14)|(XIX)|(19)|(XXVI)|(26)|(XXIX)|(29)|(XXXIV)|(34)|(XXXIX)|(39)|(XLIV)|(44)|(LI)|(51)|(LIV)|(54)|(LIX)|(59))"
+    }
+  }
+}

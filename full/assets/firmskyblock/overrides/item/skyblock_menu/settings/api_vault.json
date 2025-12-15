@@ -1,0 +1,8 @@
+{
+  "screen": "firmskyblock:settings",
+  "model": "cittofirmgenerated:ui/skyblock_menu/settings/api_vault",
+  "predicate": {
+    "firmament:item": "minecraft:ender_chest",
+    "firmament:display_name": "API: Personal Bank and Vault"
+  }
+}

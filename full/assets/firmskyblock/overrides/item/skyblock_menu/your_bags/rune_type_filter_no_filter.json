@@ -1,0 +1,8 @@
+{
+  "screen": "firmskyblock:runes_sack",
+  "model": "cittofirmgenerated:ui/skyblock_menu/your_bags/rune_type_filter_no_filter",
+  "predicate": {
+    "firmament:item": "minecraft:painting",
+    "firmament:display_name": "Rune Type Filter"
+  }
+}

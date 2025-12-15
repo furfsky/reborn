@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/worm_membrane"
+  },
+  "parent": "minecraft:item/handheld"
+}

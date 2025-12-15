@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/metaphoric_egg"
+  },
+  "parent": "minecraft:item/handheld"
+}

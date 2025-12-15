@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/pocket_iceberg"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

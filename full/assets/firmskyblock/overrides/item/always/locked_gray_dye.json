@@ -1,0 +1,22 @@
+{
+  "screen": "firmament:always",
+  "model": "cittofirmgenerated:ui/always/locked",
+  "predicate": {
+    "firmament:item": "minecraft:gray_dye",
+    "firmament:any": [
+      {
+        "firmament:display_name": "???"
+      },
+      {
+        "firmament:lore": {
+          "regex": ".*inventory to unlock!"
+        }
+      },
+      {
+        "firmament:lore": {
+          "regex": ".*Requires.*"
+        }
+      }
+    ]
+  }
+}

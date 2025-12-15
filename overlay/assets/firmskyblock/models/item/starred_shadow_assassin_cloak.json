@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/shadow_assassin_cloak_fragged"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

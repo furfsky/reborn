@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/spider_egg_mixin"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

@@ -1,0 +1,12 @@
+{
+  "item_ids": [
+    "SHARK_SCALE_CHESTPLATE",
+    "SHARK_SCALE_LEGGINGS",
+    "SHARK_SCALE_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:shark_scale"
+    }
+  ]
+}

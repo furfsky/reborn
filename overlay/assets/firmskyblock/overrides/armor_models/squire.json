@@ -1,0 +1,13 @@
+{
+  "item_ids": [
+    "SQUIRE_HELMET",
+    "SQUIRE_CHESTPLATE",
+    "SQUIRE_LEGGINGS",
+    "SQUIRE_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:squire"
+    }
+  ]
+}

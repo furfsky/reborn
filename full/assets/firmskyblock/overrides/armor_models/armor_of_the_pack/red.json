@@ -1,0 +1,13 @@
+{
+  "item_ids": [
+    "_HELMET",
+    "_CHESTPLATE",
+    "_LEGGINGS",
+    "_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:superior_dragon"
+    }
+  ]
+}

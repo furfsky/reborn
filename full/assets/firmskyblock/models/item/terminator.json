@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/terminator"
+  },
+  "parent": "minecraft:item/bow"
+}

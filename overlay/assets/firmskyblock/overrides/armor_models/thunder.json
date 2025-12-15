@@ -1,0 +1,12 @@
+{
+  "item_ids": [
+    "THUNDER_CHESTPLATE",
+    "THUNDER_LEGGINGS",
+    "THUNDER_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:thunder"
+    }
+  ]
+}

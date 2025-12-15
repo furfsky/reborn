@@ -1,0 +1,8 @@
+{
+  "screen": "firmskyblock:sacks",
+  "model": "cittofirmgenerated:ui/skyblock_menu/your_bags/insert_inventory",
+  "predicate": {
+    "firmament:item": "minecraft:chest",
+    "firmament:display_name": "Insert inventory"
+  }
+}

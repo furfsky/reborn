@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/redstone_tipped_arrow"
+  },
+  "parent": "minecraft:item/handheld"
+}

@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/fire_spiral_rune"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

@@ -1,0 +1,7 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/hot_aurora_leggings",
+    "layer1": "cittofirmgenerated:item/hot_aurora_leggings"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

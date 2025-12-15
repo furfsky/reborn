@@ -1,0 +1,46 @@
+{
+  "predicates": {
+    "label": {
+      "regex": "Bazaar \u279C (Farming|Mining|Combat|Woods & Fishes|Oddities|\".*\")"
+    }
+  },
+  "background": {
+    "texture": "firmskyblock:textures/screen_layout/vendor_bazaar.png",
+    "x": 0,
+    "y": 0,
+    "width": 176,
+    "height": 221
+  },
+  "slots": [
+    {
+      "index": "1",
+      "x": "-5000",
+      "y": "-5000"
+    },
+    {
+      "index": "10",
+      "x": "-5000",
+      "y": "-5000"
+    },
+    {
+      "index": "19",
+      "x": "-5000",
+      "y": "-5000"
+    },
+    {
+      "index": "28",
+      "x": "-5000",
+      "y": "-5000"
+    },
+    {
+      "index": "37",
+      "x": "-5000",
+      "y": "-5000"
+    },
+    {
+      "index": "46",
+      "x": "-5000",
+      "y": "-5000"
+    }
+  ]
+}

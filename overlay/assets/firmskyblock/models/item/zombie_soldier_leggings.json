@@ -1,0 +1,7 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/zombie_soldier_leggings",
+    "layer1": "cittofirmgenerated:item/zombie_soldier_leggings"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

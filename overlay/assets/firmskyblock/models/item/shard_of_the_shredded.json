@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/shard_of_the_shredded"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

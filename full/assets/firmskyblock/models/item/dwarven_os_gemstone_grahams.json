@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/dwarven_os_gemstone_grahams"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

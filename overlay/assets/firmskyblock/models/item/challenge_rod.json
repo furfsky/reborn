@@ -1,0 +1,14 @@
+{
+	"textures": {
+		"layer0": "cittofirmgenerated:item/challenging_rod"
+	},
+	"parent": "minecraft:item/fishing_rod",
+	"overrides": [
+		{
+			"predicate": {
+				"cast": 1
+			},
+			"model": "firmskyblock:item/challenge_rod_cast"
+		}
+	]
+}

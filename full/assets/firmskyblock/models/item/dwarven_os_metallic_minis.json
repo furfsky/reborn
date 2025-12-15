@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/dwarven_os_metallic_minis"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

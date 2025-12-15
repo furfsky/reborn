@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/glacite_amalgamation"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

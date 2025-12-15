@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/condensed_fermento"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

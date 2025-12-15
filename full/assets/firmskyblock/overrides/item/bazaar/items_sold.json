@@ -1,0 +1,8 @@
+{
+  "screen": "firmskyblock:confirm",
+  "model": "cittofirmgenerated:ui/bazaar/items_sold",
+  "predicate": {
+    "firmament:item": "minecraft:lime_terracotta",
+    "firmament:display_name": "Confirm"
+  }
+}

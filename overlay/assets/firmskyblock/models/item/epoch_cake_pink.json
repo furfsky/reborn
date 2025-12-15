@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/crab_colored_century_cake"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

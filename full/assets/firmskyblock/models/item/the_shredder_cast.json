@@ -1,0 +1,6 @@
+{
+	"textures": {
+		"layer0": "cittofirmgenerated:item/the_shredder_cast"
+	},
+	"parent": "firmskyblock:item/the_shredder"
+}

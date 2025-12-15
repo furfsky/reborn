@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/bow",
+  "textures": {
+    "layer0": "cittofirmgenerated:item/starred_spider_queen_stinger_pulling_1"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "screen": "firmskyblock:challenges",
+  "model": "cittofirmgenerated:ui/dojo/test_of_control",
+  "predicate": {
+    "firmament:item": "minecraft:ender_eye",
+    "firmament:display_name": {
+      "regex": "Test of Control"
+    }
+  }
+}

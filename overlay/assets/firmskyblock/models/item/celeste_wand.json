@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/celeste_wand"
+  },
+  "parent": "minecraft:item/handheld"
+}

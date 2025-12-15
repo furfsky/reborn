@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/cat_talisman"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

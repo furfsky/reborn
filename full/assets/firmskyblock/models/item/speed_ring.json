@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/speed_ring"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

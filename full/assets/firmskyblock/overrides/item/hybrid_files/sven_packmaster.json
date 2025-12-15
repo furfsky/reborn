@@ -1,0 +1,14 @@
+{
+  "screen": [
+    "firmskyblock:slayer",
+    "firmskyblock:slayer_bz",
+    "firmskyblock:slayer_recipes",
+    "firmskyblock:slaying"
+  ],
+  "model": "cittofirmgenerated:ui/hybrid_files/sven_packmaster",
+  "predicate": {
+    "firmament:display_name": {
+      "regex": ".*Sven Packmaster.*"
+    }
+  }
+}

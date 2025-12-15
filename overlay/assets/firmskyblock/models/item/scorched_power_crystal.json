@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/scorched_power_crystal"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

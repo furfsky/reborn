@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/diver_shirt"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

@@ -1,0 +1,12 @@
+{
+  "item_ids": [
+    "GLACITE_CHESTPLATE",
+    "GLACITE_LEGGINGS",
+    "GLACITE_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:glacite"
+    }
+  ]
+}

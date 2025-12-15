@@ -1,0 +1,12 @@
+{
+  "screen": [
+    "firmskyblock:catacombs_gate"
+  ],
+  "model": "cittofirmgenerated:ui/skyblock_menu/the_catacombs_entrance_locked",
+  "predicate": {
+    "firmament:item": "minecraft:player_head",
+    "firmament:lore": {
+      "regex": "✗.*"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/wand_of_atonement"
+  },
+  "parent": "minecraft:item/handheld"
+}

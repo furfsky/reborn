@@ -1,0 +1,10 @@
+{
+  "screen": ["firmskyblock:your_stats_breakdown", "firmskyblock:stats"],
+  "model": "cittofirmgenerated:ui/skyblock_menu/mending_stat",
+  "predicate": {
+    "firmament:item": "minecraft:ghast_tear",
+    "firmament:display_name": {
+      "regex": "\u2604 Mending.*"
+    }
+  }
+}

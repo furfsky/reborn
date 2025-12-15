@@ -1,0 +1,7 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/unstable_dragon_leggings",
+    "layer1": "cittofirmgenerated:item/unstable_dragon_leggings"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

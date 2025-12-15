@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/magical_lava_bucket"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

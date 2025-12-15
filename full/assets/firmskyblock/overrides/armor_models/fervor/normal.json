@@ -1,0 +1,12 @@
+{
+  "item_ids": [
+    "FERVOR_CHESTPLATE",
+    "FERVOR_LEGGINGS",
+    "FERVOR_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:fervor/fervor"
+    }
+  ]
+}

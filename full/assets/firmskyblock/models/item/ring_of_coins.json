@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/ring_of_coins"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

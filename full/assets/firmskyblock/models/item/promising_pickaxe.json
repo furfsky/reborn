@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/promising_pickaxe"
+  },
+  "parent": "minecraft:item/handheld"
+}

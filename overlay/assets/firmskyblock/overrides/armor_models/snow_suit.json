@@ -1,0 +1,12 @@
+{
+  "item_ids": [
+    "SNOW_SUIT_CHESTPLATE",
+    "SNOW_SUIT_LEGGINGS",
+    "SNOW_SUIT_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:snow_suit"
+    }
+  ]
+}

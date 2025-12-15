@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/premium_flesh"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

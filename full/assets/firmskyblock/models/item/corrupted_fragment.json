@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/corrupted_fragment"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

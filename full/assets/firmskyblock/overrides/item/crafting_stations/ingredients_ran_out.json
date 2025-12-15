@@ -1,0 +1,10 @@
+{
+  "screen": "firmskyblock:quick_crafting",
+  "model": "cittofirmgenerated:ui/crafting_stations/ingredients_ran_out",
+  "predicate": {
+    "firmament:item": "minecraft:barrier",
+    "firmament:lore": {
+      "regex": "You no longer have the ingredients"
+    }
+  }
+}

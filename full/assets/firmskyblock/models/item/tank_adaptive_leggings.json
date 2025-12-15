@@ -1,0 +1,7 @@
+{
+  "parent": "cittofirmgenerated:item/skyblock/item",
+  "textures": {
+    "layer0": "cittofirmgenerated:item/tank_adaptive_leggings",
+    "layer1": "cittofirmgenerated:item/tank_adaptive_leggings"
+  }
+}

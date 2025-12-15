@@ -1,0 +1,12 @@
+{
+  "item_ids": [
+    "ABYSSAL_CHESTPLATE",
+    "ABYSSAL_LEGGINGS",
+    "ABYSSAL_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:abyssal"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/skeleton_grunt_chestplate",
+    "layer1": "cittofirmgenerated:item/skeleton_grunt_chestplate"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

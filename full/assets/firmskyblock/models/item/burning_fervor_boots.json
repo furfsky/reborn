@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "cittofirmgenerated:item/burning_fervor_boots",
+    "layer1": "cittofirmgenerated:item/burning_fervor_boots"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "item_ids": [
+    "SKELETON_MASTER_HELMET",
+    "SKELETON_MASTER_CHESTPLATE",
+    "SKELETON_MASTER_LEGGINGS",
+    "SKELETON_MASTER_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:skeleton_master"
+    }
+  ],
+  "overrides": [
+    {
+      "layers": [
+        {
+          "identifier": "cittofirmgenerated:dungeon_master"
+        }
+      ],
+      "predicate": {
+        "firmament:extra_attributes": {
+          "path": "uuid",
+          "string": {
+            "regex": "25d5d15c-eedd-49b5-aa51-eee4e97a88e7"
+          }
+        }
+      }
+    }
+  ]
+}

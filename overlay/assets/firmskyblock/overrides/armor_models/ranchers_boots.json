@@ -1,0 +1,10 @@
+{
+  "item_ids": [
+    "RANCHERS_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:rancher_boots"
+    }
+  ]
+}

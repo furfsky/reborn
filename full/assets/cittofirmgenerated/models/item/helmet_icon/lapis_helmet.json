@@ -1,0 +1,50 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "top": "cittofirmgenerated:item/lapis_helmet_top",
+    "front": "cittofirmgenerated:item/lapis_helmet_front",
+    "side": "cittofirmgenerated:item/lapis_helmet_side"
+  },
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [0, 45.0, -160.0],
+      "translation": [0, 1, -2.75],
+      "scale": [0.35, 0.35, 0.35]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [0, -45.0, 160.0],
+      "translation": [0, 1, -2.75],
+      "scale": [0.35, 0.35, 0.35]
+    },
+    "firstperson_righthand": {
+      "rotation": [0, -45.0, 0.0],
+      "translation": [0, 0, 0],
+      "scale": [0.25, 0.25, 0.25]
+    },
+    "firstperson_lefthand": {
+      "rotation": [0, 45.0, -0.0],
+      "translation": [0, 0, 0],
+      "scale": [0.25, 0.25, 0.25]
+    },
+    "gui_righthand": {
+      "rotation": [0, 45.0, 0.0],
+      "scale": [0.25, 0.25, 0.25]
+    },
+    "gui_lefthand": {
+      "rotation": [0, -45.0, -0.0],
+      "scale": [0.25, 0.25, 0.25]
+    },
+    "gui": {
+      "rotation": [30, -135, 0],
+      "scale": [0.5, 0.5, 0.5]
+    },
+    "ground": {
+      "rotation": [0, 0, 0],
+      "scale": [0.25, 0.25, 0.25]
+    },
+    "fixed": {
+      "rotation": [0, 0, 0],
+      "scale": [0.75, 0.75, 0.75]
+    }
+  }
+}

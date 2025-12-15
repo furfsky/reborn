@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/tesselated_ender_pearl"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

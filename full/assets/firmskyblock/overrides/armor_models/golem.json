@@ -1,0 +1,13 @@
+{
+  "item_ids": [
+    "GOLEM_ARMOR_HELMET",
+    "GOLEM_ARMOR_CHESTPLATE",
+    "GOLEM_ARMOR_LEGGINGS",
+    "GOLEM_ARMOR_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:golem"
+    }
+  ]
+}

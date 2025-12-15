@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/florid_zombie_sword"
+  },
+  "parent": "minecraft:item/handheld"
+}

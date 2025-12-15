@@ -1,0 +1,13 @@
+{
+  "item_ids": [
+    "SKELETON_LORD_HELMET",
+    "SKELETON_LORD_CHESTPLATE",
+    "SKELETON_LORD_LEGGINGS",
+    "SKELETON_LORD_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:skeleton_lord"
+    }
+  ]
+}

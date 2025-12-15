@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/perfect_amber_gemstone"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

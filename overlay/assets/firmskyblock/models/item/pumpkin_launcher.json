@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/pumpkin_launcher"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/gun"
+}

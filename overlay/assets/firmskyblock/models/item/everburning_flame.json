@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/everburning_flame"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

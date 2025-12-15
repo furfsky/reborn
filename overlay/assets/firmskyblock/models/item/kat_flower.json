@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/kat_flower"
+  },
+  "parent": "minecraft:item/handheld"
+}

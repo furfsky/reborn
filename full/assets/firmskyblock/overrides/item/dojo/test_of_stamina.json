@@ -1,0 +1,10 @@
+{
+  "screen": "firmskyblock:challenges",
+  "model": "cittofirmgenerated:ui/dojo/test_of_stamina",
+  "predicate": {
+    "firmament:item": "minecraft:rabbit_foot",
+    "firmament:display_name": {
+      "regex": "Test of Stamina"
+    }
+  }
+}

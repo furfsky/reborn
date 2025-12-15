@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "cittofirmgenerated:item/maxor_helmet"
+  },
+  "firmament:head_model": "cittofirmgenerated:item/helmet_icon/maxor_helmet"
+}

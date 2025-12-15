@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/desert_island"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

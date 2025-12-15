@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/extremely_real_shuriken"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

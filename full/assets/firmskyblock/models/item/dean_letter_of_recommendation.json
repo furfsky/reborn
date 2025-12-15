@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/letter_of_recommendation"
+  },
+  "parent": "minecraft:item/handheld"
+}

@@ -1,0 +1,7 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/ghostly_boots",
+    "layer1": "cittofirmgenerated:item/ghostly_boots"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

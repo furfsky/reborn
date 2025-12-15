@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/dragon_nest"
+  },
+  "parent": "minecraft:item/handheld"
+}

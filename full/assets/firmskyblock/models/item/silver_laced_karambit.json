@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/silver_laced_karambit"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/dagger"
+}

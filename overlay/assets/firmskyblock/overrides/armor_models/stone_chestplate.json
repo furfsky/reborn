@@ -1,0 +1,10 @@
+{
+  "item_ids": [
+    "STONE_CHESTPLATE"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:stone_chestplate"
+    }
+  ]
+}

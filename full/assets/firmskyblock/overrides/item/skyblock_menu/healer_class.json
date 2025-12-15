@@ -1,0 +1,14 @@
+{
+  "screen": [
+    "firmskyblock:class_perks_healer",
+    "firmskyblock:dungeon_classes",
+    "firmskyblock:dungeoneering"
+  ],
+  "model": "cittofirmgenerated:ui/skyblock_menu/healer_class",
+  "predicate": {
+    "firmament:item": "minecraft:splash_potion",
+    "firmament:display_name": {
+      "regex": ".*(\\])?Healer( Class| [0-9]+)?"
+    }
+  }
+}

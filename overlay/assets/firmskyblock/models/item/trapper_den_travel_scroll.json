@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/trapper_den"
+  },
+  "parent": "minecraft:item/handheld"
+}

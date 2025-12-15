@@ -1,0 +1,7 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/infernal_fervor_leggings",
+    "layer1": "cittofirmgenerated:item/infernal_fervor_leggings"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "cittofirmgenerated:item/skyblock/generic_scale_2",
+  "textures": {
+    "layer0": "cittofirmgenerated:item/hotm_7_2_unlocked"
+  }
+}

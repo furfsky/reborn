@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/gabagool_distillate"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

@@ -1,0 +1,12 @@
+{
+  "item_ids": [
+    "INFERNAL_AURORA_CHESTPLATE",
+    "INFERNAL_AURORA_LEGGINGS",
+    "INFERNAL_AURORA_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:aurora/infernal_aurora"
+    }
+  ]
+}

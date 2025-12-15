@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/guardian_lucky_block"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

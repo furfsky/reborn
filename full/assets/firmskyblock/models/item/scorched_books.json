@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/scorched_books"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

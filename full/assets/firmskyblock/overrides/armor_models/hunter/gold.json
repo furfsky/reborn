@@ -1,0 +1,13 @@
+{
+  "item_ids": [
+    "GOLD_HUNTER_HELMET",
+    "GOLD_HUNTER_CHESTPLATE",
+    "GOLD_HUNTER_LEGGINGS",
+    "GOLD_HUNTER_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:hunter/gold_hunter"
+    }
+  ]
+}

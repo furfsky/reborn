@@ -1,0 +1,15 @@
+{
+  "screen": [
+    "firmskyblock:collection_combat_tier_7",
+    "firmskyblock:collection_combat_tier_8",
+    "firmskyblock:collection_combat_tier_9",
+    "firmskyblock:collection_combat_tier_10"
+  ],
+  "model": "cittofirmgenerated:ui/skyblock_menu/milestone_red_full_right_end",
+  "predicate": {
+    "firmament:item": "minecraft:lime_stained_glass_pane",
+    "firmament:display_name": {
+      "regex": ".* I"
+    }
+  }
+}

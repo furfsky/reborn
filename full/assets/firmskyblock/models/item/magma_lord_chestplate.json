@@ -1,0 +1,7 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/magma_lord_chestplate",
+    "layer1": "cittofirmgenerated:item/magma_lord_chestplate"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

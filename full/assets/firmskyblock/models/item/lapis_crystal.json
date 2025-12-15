@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/lapis_crystal"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

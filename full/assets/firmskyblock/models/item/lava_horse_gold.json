@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/lavahorse_gold"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

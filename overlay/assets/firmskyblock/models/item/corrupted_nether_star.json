@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/nether_star"
+  },
+  "parent": "minecraft:item/handheld"
+}

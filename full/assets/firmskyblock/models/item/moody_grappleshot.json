@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/moody_grappleshot"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/gun"
+}

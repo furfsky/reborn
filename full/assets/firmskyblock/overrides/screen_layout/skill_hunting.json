@@ -1,0 +1,36 @@
+{
+  "predicates": {
+    "label": {
+      "regex": "Hunting Skill"
+    }
+  },
+  "background": {
+    "texture": "firmskyblock:textures/screen_layout/skill_background_hunting.png",
+    "x": 0,
+    "y": 0,
+    "width": 176,
+    "height": 221
+  },
+  "slots": [
+    {
+      "index": 39,
+      "x": 26,
+      "y": 108
+    },
+    {
+      "index": 41,
+      "x": 44,
+      "y": 108
+    },
+    {
+      "index": 46,
+      "x": -5000,
+      "y": -5000
+    },
+    {
+      "index": 47,
+      "x": -5000,
+      "y": -5000
+    }
+  ]
+}

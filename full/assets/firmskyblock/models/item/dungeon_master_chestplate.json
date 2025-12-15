@@ -1,0 +1,7 @@
+{
+  "parent": "cittofirmgenerated:item/skyblock/item",
+  "textures": {
+    "layer0": "cittofirmgenerated:item/dungeon_master_chestplate",
+    "layer1": "cittofirmgenerated:item/dungeon_master_chestplate"
+  }
+}

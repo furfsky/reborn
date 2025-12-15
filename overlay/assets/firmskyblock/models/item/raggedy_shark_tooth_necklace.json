@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/raggedy_shark_tooth_necklace"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

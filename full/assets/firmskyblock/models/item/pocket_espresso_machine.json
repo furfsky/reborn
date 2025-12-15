@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/pocket_espresso_machine"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

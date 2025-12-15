@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/starfall"
+  },
+  "parent": "minecraft:item/handheld"
+}

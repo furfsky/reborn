@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/dreadlord_sword"
+  },
+  "parent": "minecraft:item/handheld"
+}

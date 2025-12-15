@@ -1,0 +1,12 @@
+{
+  "item_ids": [
+    "WYLD_CHESTPLATE",
+    "WYLD_LEGGINGS",
+    "WYLD_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:wyld"
+    }
+  ]
+}

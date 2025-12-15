@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/century_cake_of_the_next_dungeon_floor"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/dark_queen_soul_drop"
+  },
+  "parent": "minecraft:item/handheld"
+}

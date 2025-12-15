@@ -1,0 +1,11 @@
+{
+  "screen": "firmament:always",
+  "model": "cittofirmgenerated:ui/always/go_back",
+  "predicate": {
+    "firmament:item": "minecraft:arrow",
+    "firmament:display_name": "Go Back",
+    "firmament:lore": {
+      "regex": "To (?!Bazaar).*"
+    }
+  }
+}

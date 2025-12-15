@@ -1,0 +1,11 @@
+{
+  "screen": "firmskyblock:dungeoneering",
+  "model": "cittofirmgenerated:ui/skyblock_menu/catacombs_skill",
+  "predicate": {
+    "firmament:item": "minecraft:player_head",
+    "firmament:display_name": {
+      "regex": "The Catacombs.*"
+    },
+    "firmament:lore": "Complete this dungeon to"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "modes": ["crystal_hollows"],
+  "replacements": {
+    "minecraft:stone": {
+      "block": "firmskyblock:hard_stone",
+      "sound": "minecraft:block.deepslate.hit"
+    },
+    "minecraft:coal_ore": {
+      "block": "firmskyblock:coal_ore",
+      "sound": "minecraft:block.deepslate.hit"
+    },
+    "minecraft:iron_ore": {
+      "block": "firmskyblock:iron_ore",
+      "sound": "minecraft:block.deepslate.hit"
+    },
+    "minecraft:gold_ore": {
+      "block": "firmskyblock:gold_ore",
+      "sound": "minecraft:block.deepslate.hit"
+    },
+    "minecraft:redstone_ore": {
+      "block": "firmskyblock:redstone_ore",
+      "sound": "minecraft:block.deepslate.hit"
+    },
+    "minecraft:lit_redstone_ore": {
+      "block": "firmskyblock:lit_redstone_ore",
+      "sound": "minecraft:block.deepslate.hit"
+    },
+    "minecraft:emerald_ore": {
+      "block": "firmskyblock:emerald_ore",
+      "sound": "minecraft:block.deepslate.hit"
+    },
+    "minecraft:diamond_ore": {
+      "block": "firmskyblock:diamond_ore",
+      "sound": "minecraft:block.deepslate.hit"
+    },
+    "minecraft:emerald_ore": {
+      "block": "firmskyblock:emerald_ore",
+      "sound": "minecraft:block.deepslate.hit"
+    },
+    "minecraft:emerald_ore": {
+      "block": "firmskyblock:emerald_ore",
+      "sound": "minecraft:block.deepslate.hit"
+    },
+    "minecraft:dark_prismarine": {
+      "block": "firmskyblock:mithril_tier1",
+      "sound": "minecraft:block.deepslate.hit"
+    },
+    "minecraft:prismarine_bricks": {
+      "block": "firmskyblock:mithril_tier1",
+      "sound": "minecraft:block.deepslate.hit"
+    },
+    "minecraft:prismarine": {
+      "block": "firmskyblock:mithril_tier1",
+       "sound": "minecraft:block.deepslate.hit"
+    },
+    "minecraft:light_blue_wool": {
+      "block": "firmskyblock:mithril_tier2",
+      "sound": "minecraft:block.deepslate.hit"
+    },
+    "minecraft:red_stained_glass": {
+      "block": "firmskyblock:gemstone_ruby",
+      "sound": "minecraft:block.amethyst_block.hit"
+    },
+    "minecraft:orange_stained_glass": {
+      "block": "firmskyblock:gemstone_amber",
+      "sound": "minecraft:block.amethyst_block.hit"
+    },
+    "minecraft:purple_stained_glass": {
+      "block": "firmskyblock:gemstone_amethyst",
+      "sound": "minecraft:block.amethyst_block.hit"
+    },
+    "minecraft:lime_stained_glass": {
+      "block": "firmskyblock:gemstone_jade",
+      "sound": "minecraft:block.amethyst_block.hit"
+    },
+    "minecraft:light_blue_stained_glass": {
+      "block": "firmskyblock:gemstone_sapphire",
+      "sound": "minecraft:block.amethyst_block.hit"
+    },
+    "minecraft:yellow_stained_glass": {
+      "block": "firmskyblock:gemstone_topaz",
+      "sound": "minecraft:block.amethyst_block.hit"
+    },
+    "minecraft:pink_stained_glass": {
+      "block": "firmskyblock:gemstone_jasper",
+      "sound": "minecraft:block.amethyst_block.hit"
+    }
+  }
+}

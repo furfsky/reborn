@@ -1,0 +1,12 @@
+{
+  "item_ids": [
+    "DIVAN_CHESTPLATE",
+    "DIVAN_LEGGINGS",
+    "DIVAN_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:divan"
+    }
+  ]
+}

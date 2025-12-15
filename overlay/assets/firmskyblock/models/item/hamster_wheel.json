@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/hamster_wheel"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

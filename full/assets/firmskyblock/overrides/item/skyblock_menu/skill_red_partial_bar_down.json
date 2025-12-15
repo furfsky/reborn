@@ -1,0 +1,14 @@
+{
+  "screen": [
+    "firmskyblock:skill_combat",
+    "firmskyblock:skill_hunting",
+    "firmskyblock:class_perks_berserk"
+  ],
+  "model": "cittofirmgenerated:ui/skyblock_menu/bar_red_partial_down",
+  "predicate": {
+    "firmament:item": "minecraft:yellow_stained_glass_pane",
+    "firmament:display_name": {
+      "regex": ".* ((VI)|(6)|(VII)|(7)|(XVI)|(VIII)|(8)|(16)|(XVII)|(17)|(XVIII)|(18)|(XXXI)|(31)|(XXXII)|(32)|(XXXIII)|(33)|(XLI)|(41)|(XLII)|(42)|(XLIII)|(43)|(LVI)|(56)|(LVII)|(57)|(LVIII)|(58))"
+    }
+  }
+}

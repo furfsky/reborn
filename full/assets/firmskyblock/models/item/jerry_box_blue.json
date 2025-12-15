@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/blue_jerry_box"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

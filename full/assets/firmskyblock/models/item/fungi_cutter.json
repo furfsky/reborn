@@ -1,0 +1,16 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "cittofirmgenerated:item/fungi_cutter_brown"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "firmament:lore": {
+          "regex": "Mode: Red Mushrooms"
+        }
+      },
+      "model": "firmskyblock:item/fungi_cutter_red"
+    }
+  ]
+}

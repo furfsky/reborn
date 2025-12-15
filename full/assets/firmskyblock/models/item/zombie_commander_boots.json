@@ -1,0 +1,7 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/zombie_commander_boots",
+    "layer1": "cittofirmgenerated:item/zombie_commander_boots"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

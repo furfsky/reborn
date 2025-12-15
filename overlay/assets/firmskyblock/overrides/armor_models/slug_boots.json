@@ -1,0 +1,10 @@
+{
+  "item_ids": [
+    "SLUG_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:slug_boots"
+    }
+  ]
+}

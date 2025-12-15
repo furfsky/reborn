@@ -1,0 +1,10 @@
+{
+  "screen": "firmskyblock:heart_of_the_mountain",
+  "model": "cittofirmgenerated:ui/skyblock_menu/hotm_tier_1_to_9_partial",
+  "predicate": {
+    "firmament:display_name": {
+      "regex": "Tier [\\d]$"
+    },
+    "firmament:item": "minecraft:yellow_stained_glass_pane"
+  }
+}

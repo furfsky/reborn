@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/flyfish_diamond"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

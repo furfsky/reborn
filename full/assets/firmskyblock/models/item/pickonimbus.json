@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/pickonimbus_2000"
+  },
+  "parent": "minecraft:item/handheld"
+}

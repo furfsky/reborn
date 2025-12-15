@@ -1,0 +1,8 @@
+{
+  "screen": "firmskyblock:collections",
+  "model": "cittofirmgenerated:ui/skyblock_menu/combat_collections",
+  "predicate": {
+    "firmament:item": "minecraft:stone_sword",
+    "firmament:display_name": "Combat Collections"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "item_ids": [
+    "LEAFLET_CHESTPLATE",
+    "LEAFLET_LEGGINGS",
+    "LEAFLET_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:leaflet"
+    }
+  ]
+}

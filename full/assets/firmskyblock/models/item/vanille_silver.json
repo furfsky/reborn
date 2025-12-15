@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/vanille_silver"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

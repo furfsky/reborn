@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/magic_8_ball"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

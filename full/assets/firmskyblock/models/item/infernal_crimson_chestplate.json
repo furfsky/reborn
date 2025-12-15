@@ -1,0 +1,18 @@
+{
+  "parent": "cittofirmgenerated:item/skyblock/item",
+  "textures": {
+    "layer0": "cittofirmgenerated:item/infernal_crimson_chestplate",
+    "layer1": "cittofirmgenerated:item/infernal_crimson_chestplate"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "firmament:extra_attributes": {
+          "path": "uuid",
+          "string": "055e23c8-9301-49bc-85c1-723d046bb405"
+        }
+      },
+      "model": "firmskyblock:item/treacherous_chestplate"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/red_scarf"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

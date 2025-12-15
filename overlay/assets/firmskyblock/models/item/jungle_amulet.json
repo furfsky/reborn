@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/jungle_amulet"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

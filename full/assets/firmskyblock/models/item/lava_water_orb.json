@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/lava_water_orb"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

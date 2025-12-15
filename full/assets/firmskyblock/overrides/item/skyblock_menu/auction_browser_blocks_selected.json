@@ -1,0 +1,9 @@
+{
+  "screen": "firmskyblock:auctions_browser",
+  "model": "cittofirmgenerated:ui/skyblock_menu/auction_browser_blocks_selected",
+  "predicate": {
+    "firmament:item": "minecraft:cobblestone",
+    "firmament:display_name": "Blocks",
+    "firmament:lore": "Currently browsing!"
+  }
+}

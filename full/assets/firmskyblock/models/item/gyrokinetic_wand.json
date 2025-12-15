@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/gyrokinetic_wand"
+  },
+  "parent": "minecraft:item/handheld"
+}

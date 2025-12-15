@@ -1,0 +1,7 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/great_spook_helmet",
+    "layer1": "cittofirmgenerated:item/great_spook_helmet_overlay"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

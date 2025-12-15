@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/undead_sword"
+  },
+  "parent": "minecraft:item/handheld"
+}

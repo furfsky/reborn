@@ -1,0 +1,13 @@
+{
+  "item_ids": [
+    "SKELETON_HELMET",
+    "GUARDIAN_CHESTPLATE",
+    "CREEPER_LEGGINGS",
+    "SPIDER_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:monster_hunter"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/grizzly_bait"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

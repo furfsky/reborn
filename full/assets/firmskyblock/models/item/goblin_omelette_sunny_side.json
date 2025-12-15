@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/sunny_side_goblin_omelette"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

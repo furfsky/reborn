@@ -1,0 +1,13 @@
+{
+  "item_ids": [
+    "PUMPKIN_HELMET",
+    "PUMPKIN_CHESTPLATE",
+    "PUMPKIN_LEGGINGS",
+    "PUMPKIN_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:pumpkin"
+    }
+  ]
+}

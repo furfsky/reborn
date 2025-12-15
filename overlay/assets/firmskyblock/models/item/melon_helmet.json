@@ -1,0 +1,7 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/melon_helmet"
+  },
+  "parent": "cittofirmgenerated:item/helmet_icon/melon_helmet",
+  "firmament:head_model": "cittofirmgenerated:item/helmet_icon/melon_helmet"
+}

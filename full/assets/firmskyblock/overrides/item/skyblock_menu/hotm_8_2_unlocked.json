@@ -1,0 +1,8 @@
+{
+  "screen": "firmskyblock:heart_of_the_mountain",
+  "model": "cittofirmgenerated:ui/skyblock_menu/hotm_8_2_unlocked",
+  "predicate": {
+    "firmament:display_name": "No Stone Unturned",
+    "firmament:item": "minecraft:emerald"
+  }
+}

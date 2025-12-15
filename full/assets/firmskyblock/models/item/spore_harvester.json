@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/spore_harvester"
+  },
+  "parent": "minecraft:item/handheld"
+}

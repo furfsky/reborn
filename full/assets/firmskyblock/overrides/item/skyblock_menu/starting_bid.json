@@ -1,0 +1,10 @@
+{
+  "screen": "firmskyblock:create_auction",
+  "model": "cittofirmgenerated:ui/skyblock_menu/starting_bid",
+  "predicate": {
+    "firmament:item": "minecraft:powered_rail",
+    "firmament:display_name": {
+      "regex": "Starting bid:.*"
+    }
+  }
+}

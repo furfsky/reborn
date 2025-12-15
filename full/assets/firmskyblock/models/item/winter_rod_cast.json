@@ -1,0 +1,6 @@
+{
+	"textures": {
+		"layer0": "cittofirmgenerated:item/winter_rod_cast"
+	},
+	"parent": "firmskyblock:item/winter_rod"
+}

@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/weather_node"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

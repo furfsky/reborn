@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/pumpkin_dicer_3"
+  },
+  "parent": "minecraft:item/handheld"
+}

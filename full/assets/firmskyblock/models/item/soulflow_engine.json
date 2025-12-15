@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/soulflow_engine"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

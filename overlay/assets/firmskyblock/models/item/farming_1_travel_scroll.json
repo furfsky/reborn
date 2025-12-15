@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/the_barn"
+  },
+  "parent": "minecraft:item/handheld"
+}

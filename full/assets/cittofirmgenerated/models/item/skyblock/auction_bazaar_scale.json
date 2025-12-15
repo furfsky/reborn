@@ -1,0 +1,12 @@
+{
+  "parent": "builtin/generated",
+  "display": {
+    "gui": {
+      "scale": [
+        2,
+        2,
+        2
+      ]
+    }
+  }
+}

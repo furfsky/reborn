@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/hardened_diamond_leggings"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

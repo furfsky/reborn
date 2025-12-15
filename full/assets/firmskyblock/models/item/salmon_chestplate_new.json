@@ -1,0 +1,7 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/salmon_chestplate",
+    "layer1": "cittofirmgenerated:item/salmon_chestplate"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

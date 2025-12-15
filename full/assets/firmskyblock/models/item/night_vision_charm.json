@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/night_vision_charm"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

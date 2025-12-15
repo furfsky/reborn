@@ -1,0 +1,12 @@
+{
+  "item_ids": [
+    "FINAL_DESTINATION_CHESTPLATE",
+    "FINAL_DESTINATION_LEGGINGS",
+    "FINAL_DESTINATION_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:final_destination"
+    }
+  ]
+}

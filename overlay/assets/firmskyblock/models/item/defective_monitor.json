@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/defective_monitor"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

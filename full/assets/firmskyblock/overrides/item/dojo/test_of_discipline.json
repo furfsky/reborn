@@ -1,0 +1,10 @@
+{
+  "screen": "firmskyblock:challenges",
+  "model": "cittofirmgenerated:ui/dojo/test_of_discipline",
+  "predicate": {
+    "firmament:item": "minecraft:diamond_sword",
+    "firmament:display_name": {
+      "regex": "Test of Discipline"
+    }
+  }
+}

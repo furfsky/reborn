@@ -1,0 +1,14 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/voidedge_katana"
+  },
+  "parent": "minecraft:item/handheld",
+  "overrides": [
+    {
+      "predicate": {
+        "firmament:item": "minecraft:golden_sword"
+      },
+      "model": "firmskyblock:item/voidedge_katana_ability"
+    }
+  ]
+}

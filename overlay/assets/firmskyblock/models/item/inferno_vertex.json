@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/inferno_vertex"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

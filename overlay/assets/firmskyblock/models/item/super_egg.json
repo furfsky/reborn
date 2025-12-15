@@ -1,0 +1,9 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/super_enchanted_egg"
+  },
+  "parent": "minecraft:item/generated",
+  "firmament:tint_overrides": {
+        "0": -1
+    }
+}

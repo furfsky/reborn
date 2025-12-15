@@ -1,0 +1,13 @@
+{
+  "item_ids": [
+    "GROWTH_HELMET",
+    "GROWTH_CHESTPLATE",
+    "GROWTH_LEGGINGS",
+    "GROWTH_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:armor_of_growth"
+    }
+  ]
+}

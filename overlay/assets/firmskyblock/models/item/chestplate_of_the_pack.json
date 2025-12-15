@@ -1,0 +1,7 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/blue_chestplate_of_the_pack",
+    "layer1": "cittofirmgenerated:item/blue_chestplate_of_the_pack"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

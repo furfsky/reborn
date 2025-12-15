@@ -1,0 +1,11 @@
+{
+  "screen": [
+    "firmskyblock:your_equipment_and_stats",
+    "firmskyblock:active_effects"
+  ],
+  "model": "cittofirmgenerated:ui/skyblock_menu/active_effects",
+  "predicate": {
+    "firmament:item": "minecraft:potion",
+    "firmament:display_name": "Active Effects"
+  }
+}

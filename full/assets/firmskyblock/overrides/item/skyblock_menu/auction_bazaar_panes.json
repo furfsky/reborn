@@ -1,0 +1,7 @@
+{
+  "screen": ["firmskyblock:auctions_browser", "firmskyblock:bazaar_browser"],
+  "model": "cittofirmgenerated:ui/always/background",
+  "predicate": {
+    "firmament:display_name": " "
+  }
+}

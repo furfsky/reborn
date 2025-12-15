@@ -1,0 +1,8 @@
+{
+  "screen": "firmskyblock:bazaar_level_subcategory",
+  "model": "cittofirmgenerated:ui/bazaar/sell_sacks_now",
+  "predicate": {
+    "firmament:item": "minecraft:cauldron",
+    "firmament:display_name": "Sell Sacks Now"
+  }
+}

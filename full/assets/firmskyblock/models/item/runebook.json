@@ -1,0 +1,35 @@
+{
+  "parent": "cittofirmgenerated:item/skyblock/item",
+  "textures": {
+    "layer0": "cittofirmgenerated:item/runebook_common"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "firmament:lore": "UNCOMMON ACCESSORY"
+      },
+      "model": "firmskyblock:item/runebook_uncommon"
+    },
+
+    {
+      "predicate": {
+        "firmament:lore": "RARE ACCESSORY"
+      },
+      "model": "firmskyblock:item/runebook_rare"
+    },
+
+    {
+      "predicate": {
+        "firmament:lore": "EPIC ACCESSORY"
+      },
+      "model": "firmskyblock:item/runebook_epic"
+    },
+
+    {
+      "predicate": {
+        "firmament:lore": "LEGENDARY ACCESSORY"
+      },
+      "model": "firmskyblock:item/runebook_legendary"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "screen": "firmskyblock:bazaar_level_subcategory",
+  "model": "cittofirmgenerated:ui/bazaar/sell_instantly",
+  "predicate": {
+    "firmament:item": "minecraft:hopper",
+    "firmament:display_name": "Sell Instantly"
+  }
+}

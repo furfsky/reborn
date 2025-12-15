@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/eternal_hoof"
+  },
+  "parent": "minecraft:item/handheld"
+}

@@ -1,0 +1,13 @@
+{
+  "item_ids": [
+    "ARMOR_OF_YOG_HELMET",
+    "ARMOR_OF_YOG_CHESTPLATE",
+    "ARMOR_OF_YOG_LEGGINGS",
+    "ARMOR_OF_YOG_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:yog"
+    }
+  ]
+}

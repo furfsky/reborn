@@ -1,0 +1,12 @@
+{
+  "item_ids": [
+    "WEREWOLF_CHESTPLATE",
+    "WEREWOLF_LEGGINGS",
+    "WEREWOLF_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:werewolf"
+    }
+  ]
+}

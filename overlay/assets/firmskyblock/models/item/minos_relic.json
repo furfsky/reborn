@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/minos_relic"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

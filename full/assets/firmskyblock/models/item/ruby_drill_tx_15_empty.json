@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/ruby_drill_tx_15_empty"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/drill"
+}

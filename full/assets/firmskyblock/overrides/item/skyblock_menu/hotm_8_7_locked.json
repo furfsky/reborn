@@ -1,0 +1,8 @@
+{
+  "screen": "firmskyblock:heart_of_the_mountain",
+  "model": "cittofirmgenerated:ui/skyblock_menu/hotm_8_7_locked",
+  "predicate": {
+    "firmament:display_name": "Mineshaft Mayhem",
+    "firmament:item": "minecraft:coal"
+  }
+}

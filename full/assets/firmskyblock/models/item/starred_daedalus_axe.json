@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/starred_daedalus_blade"
+  },
+  "parent": "minecraft:item/handheld"
+}
