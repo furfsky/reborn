@@ -1,0 +1,7 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/fiery_aurora_boots",
+    "layer1": "cittofirmgenerated:item/fiery_aurora_boots"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

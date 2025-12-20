@@ -1,0 +1,12 @@
+{
+  "item_ids": [
+    "SUPERIOR_DRAGON_CHESTPLATE",
+    "SUPERIOR_DRAGON_LEGGINGS",
+    "SUPERIOR_DRAGON_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:superior_dragon"
+    }
+  ]
+}

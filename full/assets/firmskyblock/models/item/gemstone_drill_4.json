@@ -1,0 +1,14 @@
+{
+  "parent": "cittofirmgenerated:item/skyblock/drill",
+  "textures": {
+    "layer0": "cittofirmgenerated:item/jasper_drill_x"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "firmament:lore": "EMPTY! Refuel to gain back"
+      },
+      "model": "firmskyblock:item/jasper_drill_x_empty"
+    }
+  ]
+}

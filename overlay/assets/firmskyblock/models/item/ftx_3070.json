@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/ftx_3070"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

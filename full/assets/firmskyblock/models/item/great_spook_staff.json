@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/great_spook_staff"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/staff"
+}

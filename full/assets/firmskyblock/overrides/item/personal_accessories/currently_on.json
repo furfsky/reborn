@@ -1,0 +1,10 @@
+{
+  "screen": "firmskyblock:personal_accessory",
+  "model": "cittofirmgenerated:ui/personal_accessories/currently_on",
+  "predicate": {
+    "firmament:item": "minecraft:green_terracotta",
+    "firmament:display_name": {
+      "regex": ".*Currently ON!"
+    }
+  }
+}

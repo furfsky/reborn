@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/slayer_energy_drink"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

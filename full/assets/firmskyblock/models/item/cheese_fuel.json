@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/tasty_cheese"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

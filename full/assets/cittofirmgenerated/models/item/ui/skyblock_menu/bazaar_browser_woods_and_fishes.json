@@ -1,0 +1,6 @@
+{
+  "parent": "cittofirmgenerated:item/skyblock/auction_bazaar_scale",
+  "textures": {
+    "layer0": "cittofirmgenerated:item/bazaar_browser_woods_and_fishes"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/prestige_chocolate_realm"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

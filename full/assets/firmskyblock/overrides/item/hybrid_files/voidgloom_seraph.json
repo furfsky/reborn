@@ -1,0 +1,14 @@
+{
+  "screen": [
+    "firmskyblock:slayer",
+    "firmskyblock:slayer_bz",
+    "firmskyblock:slayer_recipes",
+    "firmskyblock:slaying"
+  ],
+  "model": "cittofirmgenerated:ui/hybrid_files/voidgloom_seraph",
+  "predicate": {
+    "firmament:display_name": {
+      "regex": ".*Voidgloom Seraph.*"
+    }
+  }
+}

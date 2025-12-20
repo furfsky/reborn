@@ -1,0 +1,13 @@
+{
+  "item_ids": [
+    "PERFECT_HELMET_12",
+    "PERFECT_CHESTPLATE_12",
+    "PERFECT_LEGGINGS_12",
+    "PERFECT_BOOTS_12"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:perfect/perfect_12"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "item_ids": [
+    "STARRED_SHADOW_ASSASSIN_HELMET",
+    "STARRED_SHADOW_ASSASSIN_CHESTPLATE",
+    "STARRED_SHADOW_ASSASSIN_LEGGINGS",
+    "STARRED_SHADOW_ASSASSIN_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:shadow_assassin/starred_shadow_assassin"
+    }
+  ]
+}

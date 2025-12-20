@@ -1,0 +1,13 @@
+{
+  "item_ids": [
+    "ZOMBIE_COMMANDER_HELMET",
+    "ZOMBIE_COMMANDER_CHESTPLATE",
+    "ZOMBIE_COMMANDER_LEGGINGS",
+    "ZOMBIE_COMMANDER_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:zombie_commander"
+    }
+  ]
+}

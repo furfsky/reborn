@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/sea_emperor_century_cake"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/perfect_aquamarine_gemstone"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

@@ -1,0 +1,14 @@
+{
+	"textures": {
+		"layer0": "cittofirmgenerated:item/phantom_rod"
+	},
+	"parent": "minecraft:item/fishing_rod",
+	"overrides": [
+		{
+			"predicate": {
+				"cast": 1
+			},
+			"model": "firmskyblock:item/phantom_rod_cast"
+		}
+	]
+}

@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/thunder_shards"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

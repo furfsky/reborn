@@ -1,0 +1,11 @@
+{
+  "screen": [
+    "firmskyblock:your_equipment_and_stats",
+    "firmskyblock:your_stats_breakdown"
+  ],
+  "model": "cittofirmgenerated:ui/skyblock_menu/combat_stats",
+  "predicate": {
+    "firmament:item": "minecraft:diamond_sword",
+    "firmament:display_name": "Combat Stats"
+  }
+}

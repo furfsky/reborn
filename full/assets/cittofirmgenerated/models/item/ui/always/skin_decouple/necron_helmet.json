@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "cittofirmgenerated:item/necron_helmet"
+  },
+  "firmament:head_model": "cittofirmgenerated:item/helmet_icon/necron_helmet"
+}

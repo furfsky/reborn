@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "cittofirmgenerated:item/canopy_mask"
+	},
+	"firmament:head_model": "cittofirmgenerated:item/helmet_icon/canopy_mask"
+}

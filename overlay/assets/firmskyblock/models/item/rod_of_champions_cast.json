@@ -1,0 +1,6 @@
+{
+	"textures": {
+		"layer0": "cittofirmgenerated:item/rod_of_champions_cast"
+	},
+	"parent": "firmskyblock:item/rod_of_champions"
+}

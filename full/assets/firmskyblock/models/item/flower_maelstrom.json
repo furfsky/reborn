@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/flower_maelstrom"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

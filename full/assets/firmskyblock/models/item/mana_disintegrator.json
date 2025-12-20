@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/mana_disintegrator"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

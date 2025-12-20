@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/bow",
+  "textures": {
+    "layer0": "cittofirmgenerated:item/savanna_bow_pulling_1"
+  }
+}

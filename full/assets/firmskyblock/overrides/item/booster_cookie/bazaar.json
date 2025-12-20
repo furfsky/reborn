@@ -1,0 +1,8 @@
+{
+  "screen": "firmskyblock:booster_cookie",
+  "model": "cittofirmgenerated:ui/booster_cookie/bazaar",
+  "predicate": {
+    "firmament:item": "minecraft:player_head",
+    "firmament:display_name": "Bazaar"
+  }
+}

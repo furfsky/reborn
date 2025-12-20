@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/zorros_cape"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

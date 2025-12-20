@@ -1,0 +1,12 @@
+{
+  "item_ids": [
+    "CANOPY_CHESTPLATE",
+    "CANOPY_LEGGINGS",
+    "CANOPY_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:canopy"
+    }
+  ]
+}

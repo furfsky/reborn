@@ -1,0 +1,10 @@
+{
+  "screen": "firmament:always",
+  "model": "cittofirmgenerated:ui/always/essence/diamond_essence",
+  "predicate": {
+    "firmament:item": "minecraft:player_head",
+    "firmament:display_name": {
+      "regex": ".*Diamond Essence.*"
+    }
+  }
+}

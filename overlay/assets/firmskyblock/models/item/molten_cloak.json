@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/molten_cloak"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

@@ -1,0 +1,13 @@
+{
+  "screen": [
+    "firmskyblock:your_stats_breakdown",
+    "firmskyblock:stats"
+  ],
+  "model": "cittofirmgenerated:ui/skyblock_menu/bonus_pest_chance_stat",
+  "predicate": {
+    "firmament:item": "minecraft:dirt",
+    "firmament:display_name": {
+      "regex": "ൠ Bonus Pest Chance.*"
+    }
+  }
+}

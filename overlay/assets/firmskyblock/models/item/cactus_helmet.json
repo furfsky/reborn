@@ -1,0 +1,7 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/cactus_helmet",
+    "layer1": "cittofirmgenerated:item/cactus_helmet"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

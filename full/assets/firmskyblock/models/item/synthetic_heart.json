@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/synthetic_heart"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

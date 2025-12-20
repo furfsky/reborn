@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/obfuscated_2_fish_diamond"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

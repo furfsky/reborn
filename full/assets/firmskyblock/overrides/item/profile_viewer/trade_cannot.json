@@ -1,0 +1,8 @@
+{
+  "screen": "firmskyblock:profile",
+  "model": "cittofirmgenerated:ui/profile_viewer/trade_cannot",
+  "predicate": {
+    "firmament:item": "minecraft:barrier",
+    "firmament:display_name": "Trade Request"
+  }
+}

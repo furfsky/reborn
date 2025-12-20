@@ -1,0 +1,6 @@
+{
+  "parent": "cittofirmgenerated:item/skyblock/phone",
+  "textures": {
+    "layer0": "cittofirmgenerated:item/abiphone_xiii_pro_giga"
+  }
+}

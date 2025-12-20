@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/generals_medallion"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/ghoul_buster"
+  },
+  "parent": "minecraft:item/handheld"
+}

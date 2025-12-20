@@ -1,0 +1,8 @@
+{
+  "screen": "firmskyblock:skyblock_menu",
+  "model": "cittofirmgenerated:ui/always/globe",
+  "predicate": {
+    "firmament:item": "minecraft:player_head",
+    "firmament:display_name": "Fast Travel"
+  }
+}

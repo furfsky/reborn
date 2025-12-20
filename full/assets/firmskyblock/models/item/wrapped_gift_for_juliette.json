@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/secret_gift_for_juliette"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

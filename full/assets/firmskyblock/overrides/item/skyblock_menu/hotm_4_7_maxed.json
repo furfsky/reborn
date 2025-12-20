@@ -1,0 +1,8 @@
+{
+  "screen": "firmskyblock:heart_of_the_mountain",
+  "model": "cittofirmgenerated:ui/skyblock_menu/hotm_4_7_maxed",
+  "predicate": {
+    "firmament:display_name": "Front Loaded",
+    "firmament:item": "minecraft:diamond"
+  }
+}

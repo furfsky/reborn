@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "cittofirmgenerated:item/dwarven_metal_fortune_stat"
+  }
+}

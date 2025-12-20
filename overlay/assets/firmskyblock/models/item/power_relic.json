@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/relic_of_power"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

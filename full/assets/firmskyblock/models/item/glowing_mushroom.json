@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/glowing_mushroom"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

@@ -1,0 +1,8 @@
+{
+  "screen": "firmskyblock:collections",
+  "model": "cittofirmgenerated:ui/skyblock_menu/mining_collections",
+  "predicate": {
+    "firmament:item": "minecraft:stone_pickaxe",
+    "firmament:display_name": "Mining Collections"
+  }
+}

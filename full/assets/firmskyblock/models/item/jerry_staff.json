@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/jerry_chine_gun"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/gun"
+}

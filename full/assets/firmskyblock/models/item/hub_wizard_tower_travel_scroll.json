@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/wizard_portal"
+  },
+  "parent": "minecraft:item/handheld"
+}

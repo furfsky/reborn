@@ -1,0 +1,15 @@
+{
+  "modes": ["crimson_isle"],
+  "area": [
+    {
+      "min": [-380, 129, -1050],
+      "max": [-210, 10, -940]
+    }
+  ],
+  "replacements": {
+    "minecraft:white_stained_glass": {
+      "block": "firmskyblock:gemstone_opal",
+      "sound": "minecraft:block.amethyst_block.hit"
+    }
+  }
+}

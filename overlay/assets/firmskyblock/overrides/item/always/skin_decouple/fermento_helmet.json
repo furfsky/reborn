@@ -1,0 +1,9 @@
+{
+  "screen": "firmament:always",
+  "model": "cittofirmgenerated:ui/always/skin_decouple/fermento_helmet",
+  "predicate": {
+    "firmament:skull": {
+      "textureValue": "ewogICJ0aW1lc3RhbXAiIDogMTY2Mzc1Mzg3MDIxMiwKICAicHJvZmlsZUlkIiA6ICIyMWUzNjdkNzI1Y2Y0ZTNiYjI2OTJjNGEzMDBhNGRlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJHZXlzZXJNQyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81MDg2ZGRiZTk2MGYzMzQ4MGNhMjI5ZGE3NDAyMzkxYWI0MTdkMzJlYmIyMTc3MDQzMGVhNjEwZGU1ODAxZmUzIgogICAgfQogIH0KfQ=="
+    }
+  }
+}

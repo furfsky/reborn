@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/wishing_compass"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

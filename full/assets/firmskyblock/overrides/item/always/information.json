@@ -1,0 +1,8 @@
+{
+  "screen": "firmament:always",
+  "model": "cittofirmgenerated:ui/always/information",
+  "predicate": {
+    "firmament:item": "minecraft:redstone_torch",
+    "firmament:display_name": "Information"
+  }
+}

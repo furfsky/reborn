@@ -1,0 +1,8 @@
+{
+  "screen": "firmskyblock:booster_cookie",
+  "model": "cittofirmgenerated:ui/booster_cookie/anvil",
+  "predicate": {
+    "firmament:item": "minecraft:anvil",
+    "firmament:display_name": "Anvil"
+  }
+}

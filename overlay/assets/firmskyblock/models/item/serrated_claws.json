@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/serrated_claws"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

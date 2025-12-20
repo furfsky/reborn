@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/sos_flare"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/staff"
+}

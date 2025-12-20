@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/combat_exp_boost_40"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

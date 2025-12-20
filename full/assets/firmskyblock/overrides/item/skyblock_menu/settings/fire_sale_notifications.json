@@ -1,0 +1,8 @@
+{
+  "screen": "firmskyblock:settings",
+  "model": "cittofirmgenerated:ui/skyblock_menu/settings/fire_sale_notifications",
+  "predicate": {
+    "firmament:item": "minecraft:blaze_powder",
+    "firmament:display_name": "Fire Sale Notifications"
+  }
+}

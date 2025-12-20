@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/kuudra_follower_relic"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

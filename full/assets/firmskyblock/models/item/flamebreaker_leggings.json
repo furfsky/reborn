@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/ember_ash_leggings"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

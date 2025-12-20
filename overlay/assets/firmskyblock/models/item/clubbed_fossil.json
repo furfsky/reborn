@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/clubbed_fossil"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

@@ -1,0 +1,8 @@
+{
+  "screen": "firmskyblock:booster_cookie",
+  "model": "cittofirmgenerated:ui/booster_cookie/toggle_potion_affects",
+  "predicate": {
+    "firmament:item": "minecraft:potion",
+    "firmament:display_name": "Toggle Potion Effects"
+  }
+}

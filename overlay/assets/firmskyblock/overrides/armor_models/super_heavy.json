@@ -1,0 +1,13 @@
+{
+  "item_ids": [
+    "SUPER_HEAVY_HELMET",
+    "SUPER_HEAVY_CHESTPLATE",
+    "SUPER_HEAVY_LEGGINGS",
+    "SUPER_HEAVY_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:super_heavy"
+    }
+  ]
+}

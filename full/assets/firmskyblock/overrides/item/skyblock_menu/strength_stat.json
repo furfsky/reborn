@@ -1,0 +1,13 @@
+{
+  "screen": [
+    "firmskyblock:your_stats_breakdown",
+    "firmskyblock:stats"
+  ],
+  "model": "cittofirmgenerated:ui/skyblock_menu/strength_stat",
+  "predicate": {
+    "firmament:item": "minecraft:blaze_powder",
+    "firmament:display_name": {
+      "regex": "❁ Strength.*"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "cittofirmgenerated:item/flaming_flay"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "firmament:extra_attributes": {
+          "path": "uuid",
+          "string": "8695910e-9d0d-43be-9b8f-4a52a4f6a424"
+        }
+      },
+      "model": "firmskyblock:item/treacherous_polearm"
+    }
+  ]
+}

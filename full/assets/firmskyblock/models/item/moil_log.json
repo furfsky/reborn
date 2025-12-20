@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/moil_log"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

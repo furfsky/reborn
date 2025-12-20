@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/explosive_arrow"
+  },
+  "parent": "minecraft:item/handheld"
+}

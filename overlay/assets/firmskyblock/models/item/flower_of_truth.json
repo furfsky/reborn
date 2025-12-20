@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/flower_of_truth"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/staff"
+}

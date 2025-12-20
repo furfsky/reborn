@@ -1,0 +1,8 @@
+{
+  "screen": "firmskyblock:heart_of_the_mountain",
+  "model": "cittofirmgenerated:ui/skyblock_menu/hotm_10_7_disabled",
+  "predicate": {
+    "firmament:display_name": "Sheer Force",
+    "firmament:item": "minecraft:redstone_block"
+  }
+}

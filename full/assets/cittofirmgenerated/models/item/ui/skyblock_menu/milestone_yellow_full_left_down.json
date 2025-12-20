@@ -1,0 +1,6 @@
+{
+  "parent": "cittofirmgenerated:item/skyblock/auction_bazaar_scale",
+  "textures": {
+    "layer0": "cittofirmgenerated:item/milestone_yellow_full_left_down"
+  }
+}

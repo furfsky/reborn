@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/chili_pepper"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

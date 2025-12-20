@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/revenant_viscera"
+  },
+  "parent": "minecraft:item/handheld"
+}

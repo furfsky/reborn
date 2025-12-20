@@ -1,0 +1,12 @@
+{
+  "item_ids": [
+    "FIERY_TERROR_CHESTPLATE",
+    "FIERY_TERROR_LEGGINGS",
+    "FIERY_TERROR_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:terror/fiery_terror"
+    }
+  ]
+}

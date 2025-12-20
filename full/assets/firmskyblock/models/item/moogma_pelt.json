@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/moogma_pelt"
+  },
+  "parent": "minecraft:item/handheld"
+}

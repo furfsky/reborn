@@ -1,0 +1,13 @@
+{
+  "item_ids": [
+    "SILVER_HUNTER_HELMET",
+    "SILVER_HUNTER_CHESTPLATE",
+    "SILVER_HUNTER_LEGGINGS",
+    "SILVER_HUNTER_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:hunter/silver_hunter"
+    }
+  ]
+}

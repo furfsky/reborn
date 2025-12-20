@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/white_gift"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

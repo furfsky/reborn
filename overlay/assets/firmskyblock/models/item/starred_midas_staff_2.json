@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "cittofirmgenerated:item/starred_midas_staff_2"
+  }
+}

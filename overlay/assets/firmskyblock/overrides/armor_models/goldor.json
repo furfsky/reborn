@@ -1,0 +1,12 @@
+{
+  "item_ids": [
+    "TANK_WITHER_CHESTPLATE",
+    "TANK_WITHER_LEGGINGS",
+    "TANK_WITHER_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:goldor"
+    }
+  ]
+}

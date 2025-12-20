@@ -1,0 +1,10 @@
+{
+  "screen": ["firmskyblock:your_stats_breakdown", "firmskyblock:stats"],
+  "model": "cittofirmgenerated:ui/skyblock_menu/health_regen_stat",
+  "predicate": {
+    "firmament:item": "minecraft:potion",
+    "firmament:display_name": {
+      "regex": "\u2763 Health Regen.*"
+    }
+  }
+}

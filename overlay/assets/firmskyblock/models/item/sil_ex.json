@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/silex"
+  },
+  "parent": "minecraft:item/handheld"
+}

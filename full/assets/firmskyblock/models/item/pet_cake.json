@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/pet_cake"
+  },
+  "parent": "minecraft:item/handheld"
+}

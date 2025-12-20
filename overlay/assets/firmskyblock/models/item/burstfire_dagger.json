@@ -1,0 +1,14 @@
+{
+  "parent": "cittofirmgenerated:item/skyblock/dagger",
+  "textures": {
+    "layer0": "cittofirmgenerated:item/kindlebane_dagger_ashen"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "firmament:lore": "Attuned: Auric"
+      },
+      "model": "firmskyblock:item/burstfire_dagger_auric"
+    }
+  ]
+}

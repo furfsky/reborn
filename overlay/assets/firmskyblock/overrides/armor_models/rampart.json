@@ -1,0 +1,13 @@
+{
+  "item_ids": [
+    "RAMPART_HELMET",
+    "RAMPART_CHESTPLATE",
+    "RAMPART_LEGGINGS",
+    "RAMPART_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:rampart"
+    }
+  ]
+}

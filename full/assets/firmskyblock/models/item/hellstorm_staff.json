@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/hellstorm_wand"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/staff"
+}

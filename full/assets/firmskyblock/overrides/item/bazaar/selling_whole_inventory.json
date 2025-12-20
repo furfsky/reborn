@@ -1,0 +1,8 @@
+{
+  "screen": "firmskyblock:are_you_sure",
+  "model": "cittofirmgenerated:ui/bazaar/selling_whole_inventory",
+  "predicate": {
+    "firmament:item": "minecraft:hopper",
+    "firmament:display_name": "Selling whole inventory"
+  }
+}

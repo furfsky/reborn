@@ -1,0 +1,12 @@
+{
+  "item_ids": [
+    "MINERAL_CHESTPLATE",
+    "MINERAL_LEGGINGS",
+    "MINERAL_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:mineral"
+    }
+  ]
+}

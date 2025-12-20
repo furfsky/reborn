@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/livid_dagger"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/dagger"
+}

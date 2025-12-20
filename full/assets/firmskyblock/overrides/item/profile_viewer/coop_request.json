@@ -1,0 +1,8 @@
+{
+  "screen": "firmskyblock:profile",
+  "model": "cittofirmgenerated:ui/profile_viewer/coop_request",
+  "predicate": {
+    "firmament:item": "minecraft:diamond",
+    "firmament:display_name": "Co-op Request"
+  }
+}

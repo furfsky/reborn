@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/chunk_of_the_moon"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

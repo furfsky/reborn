@@ -1,0 +1,9 @@
+{
+  "screen": "firmament:always",
+  "model": "cittofirmgenerated:ui/always/skin_decouple/snorkeling_visor",
+  "predicate": {
+    "firmament:skull": {
+      "textureValue": "ewogICJ0aW1lc3RhbXAiIDogMTcxNjMyMzY3Njc4MiwKICAicHJvZmlsZUlkIiA6ICI0NDAzZGM1NDc1YmM0YjE1YTU0OGNmZGE2YjBlYjdkOSIsCiAgInByb2ZpbGVOYW1lIiA6ICI4Qml0czFCeXRlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzg3NTQ3OGY5MWE1MWMyODEyNTU1NDVmZDcwMGQzMTU1ZDk2MjhhYzdmNmVjYWNiOTYxMTA0MTZjYmMzODQ5ZDMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+    }
+  }
+}

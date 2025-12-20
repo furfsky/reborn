@@ -1,0 +1,28 @@
+{
+  "item_ids": [
+    "REAPER_CHESTPLATE",
+    "REAPER_LEGGINGS",
+    "REAPER_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:reaper/reaper"
+    }
+  ],
+  "overrides": [
+    {
+      "layers": [
+        {
+          "identifier": "cittofirmgenerated:reaper/enraged_reaper"
+        }
+      ],
+      "predicate": {
+        "firmament:component": {
+          "path": "rgb",
+          "component": "minecraft:dyed_color",
+          "int": 16711680
+        }
+      }
+    }
+  ]
+}

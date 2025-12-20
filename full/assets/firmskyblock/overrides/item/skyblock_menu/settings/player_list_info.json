@@ -1,0 +1,8 @@
+{
+  "screen": "firmskyblock:settings",
+  "model": "cittofirmgenerated:ui/skyblock_menu/settings/player_list_info",
+  "predicate": {
+    "firmament:item": "minecraft:filled_map",
+    "firmament:display_name": "Player List Info"
+  }
+}

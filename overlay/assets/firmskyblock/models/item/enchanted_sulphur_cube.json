@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/enchanted_sulphur_cube"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

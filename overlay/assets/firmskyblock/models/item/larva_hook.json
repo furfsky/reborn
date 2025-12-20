@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/larva_hook"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/staff"
+}

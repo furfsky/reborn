@@ -1,0 +1,12 @@
+{
+  "item_ids": [
+    "REVENANT_CHESTPLATE",
+    "REVENANT_LEGGINGS",
+    "REVENANT_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:revenant"
+    }
+  ]
+}

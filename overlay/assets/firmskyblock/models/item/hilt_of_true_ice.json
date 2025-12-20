@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/hilt_of_true_ice"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

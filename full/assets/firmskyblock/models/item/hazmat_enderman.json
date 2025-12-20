@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/hazmat_enderman"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

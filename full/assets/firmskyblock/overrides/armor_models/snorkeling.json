@@ -1,0 +1,12 @@
+{
+  "item_ids": [
+    "SNORKELING_CHESTPLATE",
+    "SNORKELING_LEGGINGS",
+    "SNORKELING_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:snorkeling"
+    }
+  ]
+}

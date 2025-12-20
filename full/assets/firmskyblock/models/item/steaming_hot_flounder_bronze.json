@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/steaming_hot_flounder_bronze"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

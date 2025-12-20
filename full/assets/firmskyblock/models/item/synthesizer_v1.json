@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/synthesizer_v1"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

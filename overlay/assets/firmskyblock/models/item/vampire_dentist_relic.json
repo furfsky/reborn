@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/vampire_dentist_relic"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

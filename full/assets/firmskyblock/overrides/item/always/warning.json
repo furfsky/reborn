@@ -1,0 +1,8 @@
+{
+  "screen": "firmament:always",
+  "model": "cittofirmgenerated:ui/always/warning",
+  "predicate": {
+    "firmament:item": "minecraft:barrier",
+    "firmament:display_name": "WARNING"
+  }
+}

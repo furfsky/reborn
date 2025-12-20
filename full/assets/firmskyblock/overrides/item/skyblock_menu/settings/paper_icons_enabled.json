@@ -1,0 +1,8 @@
+{
+  "screen": "firmskyblock:fast_travel",
+  "model": "cittofirmgenerated:ui/skyblock_menu/settings/click_to_enable",
+  "predicate": {
+    "firmament:display_name": "Paper Icons",
+    "firmament:lore": "Enabled: ON"
+  }   
+}

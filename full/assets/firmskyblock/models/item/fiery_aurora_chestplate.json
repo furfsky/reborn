@@ -1,0 +1,7 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/fiery_aurora_chestplate",
+    "layer1": "cittofirmgenerated:item/fiery_aurora_chestplate"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

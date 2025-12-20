@@ -1,0 +1,7 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/heavy_helmet",
+    "layer1": "cittofirmgenerated:item/heavy_helmet"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

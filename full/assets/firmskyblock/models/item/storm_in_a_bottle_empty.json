@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/storm_bottle_empty"
+  },
+  "parent": "minecraft:item/handheld"
+}

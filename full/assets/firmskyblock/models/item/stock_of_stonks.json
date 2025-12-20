@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/stock_of_stonks"
+  },
+  "parent": "minecraft:item/handheld"
+}

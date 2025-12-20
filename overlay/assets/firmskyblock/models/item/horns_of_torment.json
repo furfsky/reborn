@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/horns_of_torment"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

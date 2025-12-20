@@ -1,0 +1,6 @@
+{
+	"textures": {
+		"layer0": "cittofirmgenerated:item/phantom_rod_cast"
+	},
+	"parent": "firmskyblock:item/phantom_rod"
+}

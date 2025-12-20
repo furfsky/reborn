@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/bow",
+  "textures": {
+    "layer0": "cittofirmgenerated:item/super_undead_bow_pulling_1"
+  }
+}

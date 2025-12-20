@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/staff_of_the_rising_sun"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/staff"
+}

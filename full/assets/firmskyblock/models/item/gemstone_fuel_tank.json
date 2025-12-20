@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/gemstone_fuel_tank"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "cittofirmgenerated:item/fig_cap"
+	},
+	"firmament:head_model": "cittofirmgenerated:item/helmet_icon/fig_cap"
+}

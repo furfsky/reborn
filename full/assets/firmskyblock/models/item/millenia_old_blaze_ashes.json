@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/millenia_old_blaze_ashes"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

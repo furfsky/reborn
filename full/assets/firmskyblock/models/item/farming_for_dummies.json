@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/farming_for_dummies"
+  },
+  "parent": "minecraft:item/handheld"
+}

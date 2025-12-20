@@ -1,0 +1,6 @@
+{
+  "parent": "builtin/generated",
+  "textures": {
+    "layer0": "cittofirmgenerated:item/health_regen_stat"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "screen": "firmskyblock:heart_of_the_mountain",
+  "model": "cittofirmgenerated:ui/skyblock_menu/hotm_8_6_locked",
+  "predicate": {
+    "firmament:display_name": "Surveyor",
+    "firmament:item": "minecraft:coal"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "screen": "firmament:always",
+  "model": "cittofirmgenerated:ui/always/cancel_red",
+  "predicate": {
+    "firmament:item": "minecraft:barrier",
+    "firmament:any": [
+      {
+        "firmament:display_name": "Close"
+      },
+      {
+        "firmament:display_name": "Cancel"
+      },
+      {
+        "firmament:display_name": "Recipe Required"
+      }
+    ]
+  }
+}

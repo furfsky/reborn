@@ -1,0 +1,7 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/necromancer_lord_boots",
+    "layer1": "cittofirmgenerated:item/necromancer_lord_boots"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

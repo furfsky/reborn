@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/cactus_knife"
+  },
+  "parent": "minecraft:item/handheld"
+}

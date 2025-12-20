@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/gemstone_drill_lt_522_empty"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/drill"
+}

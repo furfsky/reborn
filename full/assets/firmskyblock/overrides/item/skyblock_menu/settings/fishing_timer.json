@@ -1,0 +1,8 @@
+{
+  "screen": "firmskyblock:settings",
+  "model": "cittofirmgenerated:ui/skyblock_menu/settings/fishing_timer",
+  "predicate": {
+    "firmament:item": "minecraft:clock",
+    "firmament:display_name": "Fishing Timer"
+  }
+}

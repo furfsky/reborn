@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/attack_speed_enrichment"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

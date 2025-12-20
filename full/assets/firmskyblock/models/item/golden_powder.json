@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/golden_powder"
+  },
+  "parent": "minecraft:item/handheld"
+}

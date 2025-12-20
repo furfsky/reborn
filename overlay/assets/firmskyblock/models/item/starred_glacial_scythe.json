@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/starred_glacial_scythe"
+  },
+  "parent": "minecraft:item/handheld"
+}

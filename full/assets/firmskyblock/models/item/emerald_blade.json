@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/emerald_blade"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/karambit"
+}

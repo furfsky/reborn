@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/very_official_yellow_rock_of_love"
+  },
+  "parent": "minecraft:item/handheld"
+}

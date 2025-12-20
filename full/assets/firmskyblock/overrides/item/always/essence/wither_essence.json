@@ -1,0 +1,10 @@
+{
+  "screen": "firmament:always",
+  "model": "cittofirmgenerated:ui/always/essence/wither_essence",
+  "predicate": {
+    "firmament:item": "minecraft:player_head",
+    "firmament:display_name": {
+      "regex": ".*Wither Essence.*"
+    }
+  }
+}

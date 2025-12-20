@@ -1,0 +1,12 @@
+{
+  "item_ids": [
+    "BERSERKER_CHESTPLATE",
+    "BERSERKER_LEGGINGS",
+    "BERSERKER_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:berserker"
+    }
+  ]
+}

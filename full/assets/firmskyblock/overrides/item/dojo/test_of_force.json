@@ -1,0 +1,10 @@
+{
+  "screen": "firmskyblock:challenges",
+  "model": "cittofirmgenerated:ui/dojo/test_of_force",
+  "predicate": {
+    "firmament:item": "minecraft:stick",
+    "firmament:display_name": {
+      "regex": "Test of Force"
+    }
+  }
+}

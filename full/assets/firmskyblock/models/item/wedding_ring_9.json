@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/legendary_ring_of_love"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

@@ -1,0 +1,8 @@
+{
+  "screen": "firmskyblock:booster_cookie",
+  "model": "cittofirmgenerated:ui/booster_cookie/auction_house",
+  "predicate": {
+    "firmament:item": "minecraft:golden_horse_armor",
+    "firmament:display_name": "Auction House"
+  }
+}

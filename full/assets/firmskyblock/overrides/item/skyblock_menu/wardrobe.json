@@ -1,0 +1,8 @@
+{
+  "screen": "firmskyblock:skyblock_menu",
+  "model": "cittofirmgenerated:ui/skyblock_menu/wardrobe",
+  "predicate": {
+    "firmament:item": "minecraft:leather_chestplate",
+    "firmament:display_name": "Wardrobe"
+  }
+}

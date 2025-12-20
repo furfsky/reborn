@@ -1,0 +1,10 @@
+{
+  "screen": ["firmskyblock:skill_taming", "firmskyblock:class_perks_archer"],
+  "model": "cittofirmgenerated:ui/skyblock_menu/milestone_green_partial_left",
+  "predicate": {
+    "firmament:item": "minecraft:yellow_stained_glass_pane",
+    "firmament:display_name": {
+      "regex": ".* ((V)|(5)|(X)|(10)|(XV)|(15)|(XX)|(20)|(XXX)|(30)|(XXXV)|(35)|(XL)|(40)|(XLV)|(45)|(LV)|(55)|(LX)|(60))"
+    }
+  }
+}

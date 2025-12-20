@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/demonslayer_gauntlet"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

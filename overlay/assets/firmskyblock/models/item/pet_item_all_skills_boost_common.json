@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/all_skills_exp_boost"
+  },
+  "parent": "minecraft:item/handheld"
+}

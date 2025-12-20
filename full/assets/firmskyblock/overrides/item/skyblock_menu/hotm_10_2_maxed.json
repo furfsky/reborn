@@ -1,0 +1,8 @@
+{
+  "screen": "firmskyblock:heart_of_the_mountain",
+  "model": "cittofirmgenerated:ui/skyblock_menu/hotm_10_2_maxed",
+  "predicate": {
+    "firmament:display_name": "Crystalline",
+    "firmament:item": "minecraft:diamond"
+  }
+}

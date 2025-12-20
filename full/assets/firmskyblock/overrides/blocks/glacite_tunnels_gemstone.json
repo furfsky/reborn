@@ -1,0 +1,47 @@
+{
+  "modes": ["mining_3"],
+  "area": [
+    {
+      "min": [-128, 174, 480],
+      "max": [128, 105, 240]
+    }
+  ],
+  "replacements": {
+    "minecraft:red_stained_glass": {
+      "block": "firmskyblock:gemstone_ruby",
+      "sound": "minecraft:block.amethyst_block.hit"
+    },
+    "minecraft:orange_stained_glass": {
+      "block": "firmskyblock:gemstone_amber",
+      "sound": "minecraft:block.amethyst_block.hit"
+    },
+    "minecraft:purple_stained_glass": {
+      "block": "firmskyblock:gemstone_amethyst",
+      "sound": "minecraft:block.amethyst_block.hit"
+    },
+    "minecraft:lime_stained_glass": {
+      "block": "firmskyblock:gemstone_jade",
+      "sound": "minecraft:block.amethyst_block.hit"
+    },
+    "minecraft:light_blue_stained_glass": {
+      "block": "firmskyblock:gemstone_sapphire",
+      "sound": "minecraft:block.amethyst_block.hit"
+    },
+    "minecraft:blue_stained_glass": {
+      "block": "firmskyblock:gemstone_aquamarine",
+      "sound": "minecraft:block.amethyst_block.hit"
+    },
+    "minecraft:brown_stained_glass": {
+      "block": "firmskyblock:gemstone_citrine",
+      "sound": "minecraft:block.amethyst_block.hit"
+    },
+    "minecraft:green_stained_glass": {
+      "block": "firmskyblock:gemstone_peridot",
+      "sound": "minecraft:block.amethyst_block.hit"
+    },
+    "minecraft:black_stained_glass": {
+      "block": "firmskyblock:gemstone_onyx",
+      "sound": "minecraft:block.amethyst_block.hit"
+    }
+  }
+}

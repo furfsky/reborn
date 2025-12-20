@@ -1,0 +1,77 @@
+{
+    "item_ids": [
+        "ADAPTIVE_CHESTPLATE",
+        "ADAPTIVE_LEGGINGS",
+        "ADAPTIVE_BOOTS",
+        "STARRED_ADAPTIVE_CHESTPLATE",
+        "STARRED_ADAPTIVE_LEGGINGS",
+        "STARRED_ADAPTIVE_BOOTS"
+    ],
+    "layers": [
+        {
+            "identifier": "cittofirmgenerated:adaptive/adaptive"
+        }
+    ],
+    "overrides": [
+        {
+            "layers": [
+                {
+                    "identifier": "cittofirmgenerated:adaptive/archer_adaptive"
+                }
+            ],
+            "predicate": {
+                "firmament:lore": {
+                    "regex": ".*Selected class: Archer.*"
+                }
+            }
+        },
+        {
+            "layers": [
+                {
+                    "identifier": "cittofirmgenerated:adaptive/berserk_adaptive"
+                }
+            ],
+            "predicate": {
+                "firmament:lore": {
+                    "regex": ".*Selected class: Berserk.*"
+                }
+            }
+        },
+        {
+            "layers": [
+                {
+                    "identifier": "cittofirmgenerated:adaptive/healer_adaptive"
+                }
+            ],
+            "predicate": {
+                "firmament:lore": {
+                    "regex": ".*Selected class: Healer.*"
+                }
+            }
+        },
+        {
+            "layers": [
+                {
+                    "identifier": "cittofirmgenerated:adaptive/mage_adaptive"
+                }
+            ],
+            "predicate": {
+                "firmament:lore": {
+                    "regex": ".*Selected class: Mage.*"
+                }
+            }
+        },
+        {
+            "layers": [
+                {
+                    "identifier": "cittofirmgenerated:adaptive/tank_adaptive"
+                }
+            ],
+            "predicate": {
+                "firmament:lore": {
+                    "regex": ".*Selected class: Tank.*"
+                }
+            }
+        }
+    ]
+}

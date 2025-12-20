@@ -1,0 +1,10 @@
+{
+  "item_ids": [
+    "SQUID_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:squid_boots"
+    }
+  ]
+}

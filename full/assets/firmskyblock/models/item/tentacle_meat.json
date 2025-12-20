@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/tentacle_meat"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

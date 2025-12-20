@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/enchanted_mycelium_cube"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

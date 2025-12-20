@@ -1,0 +1,17 @@
+{
+  "screen": ["firmskyblock:skill_taming", "firmskyblock:class_perks_archer"],
+  "model": "cittofirmgenerated:ui/skyblock_menu/milestone_green_full_up_right",
+  "predicate": {
+    "firmament:any": [
+      {
+        "firmament:item": "minecraft:golden_carrot"
+      },
+      {
+        "firmament:item": "minecraft:bow"
+      }
+    ],
+    "firmament:display_name": {
+      "regex": ".* ((XXV)|(25)|(L)|(50))"
+    }
+  }
+}

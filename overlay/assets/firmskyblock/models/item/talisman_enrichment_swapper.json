@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/accessory_enrichment_swapper"
+  },
+  "parent": "minecraft:item/handheld"
+}

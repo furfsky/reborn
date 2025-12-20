@@ -1,0 +1,12 @@
+{
+  "item_ids": [
+    "EMBER_CHESTPLATE",
+    "EMBER_LEGGINGS",
+    "EMBER_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:ember"
+    }
+  ]
+}

@@ -1,6 +1,10 @@
 {
   "pack": {
-    "pack_format": 1,
-    "description": "v1.7.3 \u00A78- \u00A7d\u00A7lFULL BLOOM\n\u00A7r\u00A78Optifine Version: \u00A77m6 1.8.9"
-  }
+    "pack_format": 64,
+    "supported_formats": [64,150],
+    "min_format": 64,
+    "max_format": 150,
+    "description": "\u00A7e         v1.9.2 New Leaf\n\u00A77Use Firmament 42+ for 1.21.8+"
+  },
+  "resource_pack_id": "FURFSKY_ITEMS"
 }

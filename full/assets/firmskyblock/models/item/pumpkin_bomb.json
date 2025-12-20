@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/blast_o_lantern"
+  },
+  "parent": "minecraft:item/handheld"
+}

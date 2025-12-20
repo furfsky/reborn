@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/glossy_gemstone"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/phone"
+}

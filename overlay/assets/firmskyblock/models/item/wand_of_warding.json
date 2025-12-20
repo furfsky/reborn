@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/warding_diamathame"
+  },
+  "parent": "minecraft:item/handheld"
+}

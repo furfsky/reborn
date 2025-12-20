@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/magma_fields"
+  },
+  "parent": "minecraft:item/handheld"
+}

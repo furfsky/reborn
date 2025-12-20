@@ -1,0 +1,8 @@
+{
+  "screen": "firmskyblock:skyblock_leveling",
+  "model": "cittofirmgenerated:ui/skyblock_menu/skyblock_levels_in_chat_enabled",
+  "predicate": {
+    "firmament:item": "minecraft:lime_dye",
+    "firmament:display_name": "SkyBlock Levels in Chat"
+  }
+}

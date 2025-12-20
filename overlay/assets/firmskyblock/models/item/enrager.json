@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/enrager"
+  },
+  "parent": "minecraft:item/handheld"
+}

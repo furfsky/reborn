@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/forest"
+  },
+  "parent": "minecraft:item/handheld"
+}

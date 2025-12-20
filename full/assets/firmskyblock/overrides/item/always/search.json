@@ -1,0 +1,17 @@
+{
+  "screen": "firmament:always",
+  "model": "cittofirmgenerated:ui/always/search",
+  "predicate": {
+    "firmament:all": [
+      {
+        "firmament:item": "minecraft:oak_sign",
+        "firmament:display_name": {
+          "regex": "Search.*"
+        }
+      }
+    ],
+    "firmament:not": {
+      "firmament:lore": "Find products by name!"
+    }
+  }
+}

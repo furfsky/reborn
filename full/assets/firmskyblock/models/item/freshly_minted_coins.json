@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/freshly_minted_coins"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

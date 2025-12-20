@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/revenant_falchion"
+  },
+  "parent": "minecraft:item/handheld"
+}

@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/compactor"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

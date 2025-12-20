@@ -1,0 +1,12 @@
+{
+  "item_ids": [
+    "OLD_DRAGON_CHESTPLATE",
+    "OLD_DRAGON_LEGGINGS",
+    "OLD_DRAGON_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:old_dragon"
+    }
+  ]
+}

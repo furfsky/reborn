@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/rose_bouquet"
+  },
+  "parent": "minecraft:item/handheld"
+}

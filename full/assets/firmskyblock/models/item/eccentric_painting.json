@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/eccentric_painting"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

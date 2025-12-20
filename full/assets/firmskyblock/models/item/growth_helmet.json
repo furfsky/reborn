@@ -1,0 +1,7 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/armor_of_growth_helmet",
+    "layer1": "cittofirmgenerated:item/armor_of_growth_helmet"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

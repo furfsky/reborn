@@ -1,0 +1,12 @@
+{
+  "item_ids": [
+    "DIVER_CHESTPLATE",
+    "DIVER_LEGGINGS",
+    "DIVER_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:diver_armor"
+    }
+  ]
+}

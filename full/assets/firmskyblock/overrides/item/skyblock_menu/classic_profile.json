@@ -1,0 +1,13 @@
+{
+  "screen": [
+    "firmskyblock:profile_management",
+    "firmskyblock:choose_a_skyblock_mode"
+  ],
+  "model": "cittofirmgenerated:ui/skyblock_menu/classic_profile",
+  "predicate": {
+    "firmament:item": "minecraft:grass_block",
+    "firmament:display_name": {
+      "regex": ".*Profile.*"
+    }
+  }
+}

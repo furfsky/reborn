@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/exp_share_core"
+  },
+  "parent": "minecraft:item/handheld"
+}

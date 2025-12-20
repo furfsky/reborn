@@ -1,0 +1,9 @@
+{
+  "screen": "firmament:always",
+  "model": "cittofirmgenerated:ui/always/skin_decouple/plasmaflux_power_orb",
+  "predicate": {
+    "firmament:skull": {
+      "textureValue": "ewogICJ0aW1lc3RhbXAiIDogMTYwMzIzMDc4NTkzNiwKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODNlZDRjZTIzOTMzZTY2ZTA0ZGYxNjA3MDY0NGY3NTk5ZWViNTUzMDdmN2VhZmU4ZDkyZjQwZmIzNTIwODYzYyIKICAgIH0KICB9Cn0="
+    }
+  }
+}

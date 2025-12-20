@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/red_claw_artifact"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

@@ -1,0 +1,12 @@
+{
+  "item_ids": [
+    "TERROR_CHESTPLATE",
+    "TERROR_LEGGINGS",
+    "TERROR_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:terror/terror"
+    }
+  ]
+}

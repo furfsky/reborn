@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/icy_sinker"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

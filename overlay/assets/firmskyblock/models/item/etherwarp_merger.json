@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/etherwarp_merger"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

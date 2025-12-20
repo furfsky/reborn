@@ -1,0 +1,13 @@
+{
+  "item_ids": [
+    "HARDENED_DIAMOND_HELMET",
+    "HARDENED_DIAMOND_CHESTPLATE",
+    "HARDENED_DIAMOND_LEGGINGS",
+    "HARDENED_DIAMOND_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:hardened_diamond"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/spectre_dust"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

@@ -1,0 +1,13 @@
+{
+  "screen": "firmskyblock:skills",
+  "model": "cittofirmgenerated:ui/skyblock_menu/carpentry_skill",
+  "predicate": {
+    "firmament:item": "minecraft:crafting_table",
+    "firmament:display_name": {
+      "regex": "(. )?Carpentry.*"
+    },
+    "firmament:lore": {
+      "regex": "Craft items to earn Carpentry XP!|Shows your Carpentry if.*"
+    }
+  }
+}

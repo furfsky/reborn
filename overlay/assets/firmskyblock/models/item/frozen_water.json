@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/frozen_water"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

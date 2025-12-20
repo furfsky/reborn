@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/full_chum_bucket"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/phone"
+}

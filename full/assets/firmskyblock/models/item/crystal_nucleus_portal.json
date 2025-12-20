@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/gemstone_mixture"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

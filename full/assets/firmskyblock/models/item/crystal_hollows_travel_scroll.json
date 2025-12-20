@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/crystal_hollows"
+  },
+  "parent": "minecraft:item/handheld"
+}

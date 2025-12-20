@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/superior_dragon_fragment"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

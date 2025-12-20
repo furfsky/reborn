@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/magic_find_enrichment"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

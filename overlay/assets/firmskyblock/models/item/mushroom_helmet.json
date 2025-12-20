@@ -1,0 +1,7 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/mushroom_helmet",
+    "layer1": "cittofirmgenerated:item/mushroom_helmet"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

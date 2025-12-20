@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/gauss_carrot_hoe_tier_2"
+  },
+  "parent": "minecraft:item/handheld"
+}

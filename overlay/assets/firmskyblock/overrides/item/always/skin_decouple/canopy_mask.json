@@ -1,0 +1,9 @@
+{
+  "screen": "firmament:always",
+  "model": "cittofirmgenerated:ui/always/skin_decouple/canopy_mask",
+  "predicate": {
+    "firmament:skull": {
+      "textureValue": "ewogICJ0aW1lc3RhbXAiIDogMTczMDMyMTI5MjU1NSwKICAicHJvZmlsZUlkIiA6ICJkMDlkOTg1NzRiNjM0ZmNiOWNiN2I5MWZhYmE4ZGIzYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJEdWNrVGVsbHoiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTNkYThjYTlhNjI4NTZkNWMwZWU3ODA4ZjEyZmE4NTA1OTQyOTRhOTc1NWNhNTI3ZGJjNjY3OWJhY2MzZjdiYiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+    }
+  }
+}

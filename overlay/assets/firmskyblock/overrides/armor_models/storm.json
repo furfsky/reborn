@@ -1,0 +1,12 @@
+{
+  "item_ids": [
+    "WISE_WITHER_CHESTPLATE",
+    "WISE_WITHER_LEGGINGS",
+    "WISE_WITHER_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:storm"
+    }
+  ]
+}

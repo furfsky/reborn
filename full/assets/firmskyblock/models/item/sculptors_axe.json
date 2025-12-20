@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/sculptor_axe"
+  },
+  "parent": "minecraft:item/handheld"
+}

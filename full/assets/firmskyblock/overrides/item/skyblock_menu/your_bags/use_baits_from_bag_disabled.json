@@ -1,0 +1,8 @@
+{
+  "screen": "firmskyblock:fishing_bag",
+  "model": "cittofirmgenerated:ui/skyblock_menu/your_bags/use_baits_from_bag_disabled",
+  "predicate": {
+    "firmament:item": "minecraft:gray_dye",
+    "firmament:display_name": "Use Baits From Bag"
+  }
+}

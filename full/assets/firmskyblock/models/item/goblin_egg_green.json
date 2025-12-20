@@ -1,0 +1,9 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/green_goblin_egg"
+  },
+  "parent": "minecraft:item/generated",
+  "firmament:tint_overrides": {
+        "0": -1
+    }
+}

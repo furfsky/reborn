@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/stone_platform"
+  },
+  "parent": "minecraft:item/handheld"
+}

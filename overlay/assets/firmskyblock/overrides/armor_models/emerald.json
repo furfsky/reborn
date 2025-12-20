@@ -1,0 +1,13 @@
+{
+  "item_ids": [
+    "EMERALD_ARMOR_HELMET",
+    "EMERALD_ARMOR_CHESTPLATE",
+    "EMERALD_ARMOR_LEGGINGS",
+    "EMERALD_ARMOR_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:emerald"
+    }
+  ]
+}

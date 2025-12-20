@@ -1,0 +1,20 @@
+{
+  "screen": [
+    "firmskyblock:collections",
+    "firmskyblock:slaying",
+    "firmskyblock:ways_to_level_up",
+    "firmskyblock:level_guide"
+  ],
+  "model": "cittofirmgenerated:ui/skyblock_menu/boss_collections",
+  "predicate": {
+    "firmament:display_name": "Boss Collections",
+    "firmament:any": [
+      {
+        "firmament:item": "minecraft:wither_skeleton_skull"
+      },
+      {
+        "firmament:item": "minecraft:player_head"
+      }
+    ]
+  }
+}

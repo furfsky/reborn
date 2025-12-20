@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/critical_damage_enrichment"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

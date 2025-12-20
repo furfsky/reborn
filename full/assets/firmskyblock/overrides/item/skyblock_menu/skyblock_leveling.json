@@ -1,0 +1,8 @@
+{
+  "screen": "firmskyblock:skyblock_menu",
+  "model": "cittofirmgenerated:ui/skyblock_menu/skyblock_leveling",
+  "predicate": {
+    "firmament:item": "minecraft:player_head",
+    "firmament:display_name": "SkyBlock Leveling"
+  }
+}

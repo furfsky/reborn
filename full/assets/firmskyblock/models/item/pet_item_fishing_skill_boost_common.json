@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/fishing_exp_boost_20"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

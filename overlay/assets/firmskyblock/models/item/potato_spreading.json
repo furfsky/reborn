@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/potato_spreading"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

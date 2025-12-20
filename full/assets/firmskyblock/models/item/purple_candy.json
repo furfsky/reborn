@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/purple_candy"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

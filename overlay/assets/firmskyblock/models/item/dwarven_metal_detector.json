@@ -1,0 +1,6 @@
+{
+  "parent": "cittofirmgenerated:item/skyblock/metal_detector",
+  "textures": {
+    "layer0": "cittofirmgenerated:item/metal_detector"
+  }
+}

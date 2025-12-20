@@ -1,0 +1,9 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/null_ovoid"
+  },
+  "parent": "minecraft:item/generated",
+  "firmament:tint_overrides": {
+        "0": -1
+  }
+}

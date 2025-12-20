@@ -1,0 +1,8 @@
+{
+  "screen": "firmskyblock:booster_cookie",
+  "model": "cittofirmgenerated:ui/booster_cookie/bits",
+  "predicate": {
+    "firmament:item": "minecraft:diamond",
+    "firmament:display_name": "Bits"
+  }
+}

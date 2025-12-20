@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/spooky_shard"
+  },
+  "parent": "minecraft:item/handheld"
+}

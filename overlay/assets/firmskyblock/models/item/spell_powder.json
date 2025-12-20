@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/spell_powder"
+  },
+  "parent": "minecraft:item/handheld"
+}

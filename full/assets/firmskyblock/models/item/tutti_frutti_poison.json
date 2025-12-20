@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/tutti_frutti_flavored_poison"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

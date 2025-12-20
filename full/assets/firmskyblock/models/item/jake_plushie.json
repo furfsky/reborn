@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/jake_plushie"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

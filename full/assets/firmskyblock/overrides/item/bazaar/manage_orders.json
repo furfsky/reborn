@@ -1,0 +1,8 @@
+{
+  "screen": "firmskyblock:bazaar_level_subcategory",
+  "model": "cittofirmgenerated:ui/bazaar/manage_orders",
+  "predicate": {
+    "firmament:item": "minecraft:book",
+    "firmament:display_name": "Manage Orders"
+  }
+}

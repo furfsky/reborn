@@ -1,0 +1,8 @@
+{
+  "screen": "firmskyblock:bazaar_level_subcategory",
+  "model": "cittofirmgenerated:ui/bazaar/create_buy_order",
+  "predicate": {
+    "firmament:item": "minecraft:filled_map",
+    "firmament:display_name": "Create Buy Order"
+  }
+}

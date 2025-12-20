@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/silver_hunter_helmet"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

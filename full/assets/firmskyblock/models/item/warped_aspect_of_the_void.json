@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/warped_aspect_of_the_void"
+  },
+  "parent": "minecraft:item/handheld"
+}

@@ -1,0 +1,13 @@
+{
+  "item_ids": [
+    "REAPER_HELMET",
+    "REAPER_CHESTPLATE",
+    "REAPER_LEGGINGS",
+    "REAPER_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:reaper/reaper"
+    }
+  ]
+}

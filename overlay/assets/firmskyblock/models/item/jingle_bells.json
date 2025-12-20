@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/jingle_bells"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

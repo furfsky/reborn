@@ -1,0 +1,8 @@
+{
+  "screen": "firmskyblock:skyblock_menu",
+  "model": "cittofirmgenerated:ui/skyblock_menu/storage/storage",
+  "predicate": {
+    "firmament:item": "minecraft:chest",
+    "firmament:display_name": "Storage"
+  }
+}

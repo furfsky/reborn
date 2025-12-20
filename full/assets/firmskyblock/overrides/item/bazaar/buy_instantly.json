@@ -1,0 +1,8 @@
+{
+  "screen": "firmskyblock:bazaar_level_subcategory",
+  "model": "cittofirmgenerated:ui/bazaar/buy_instantly",
+  "predicate": {
+    "firmament:item": "minecraft:golden_horse_armor",
+    "firmament:display_name": "Buy Instantly"
+  }
+}

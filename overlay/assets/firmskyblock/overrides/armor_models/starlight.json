@@ -1,0 +1,13 @@
+{
+  "item_ids": [
+    "STARLIGHT_HELMET",
+    "STARLIGHT_CHESTPLATE",
+    "STARLIGHT_LEGGINGS",
+    "STARLIGHT_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:starlight"
+    }
+  ]
+}

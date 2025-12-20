@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/phantom_hook"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

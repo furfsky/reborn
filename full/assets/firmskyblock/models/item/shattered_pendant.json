@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/shattered_pendant"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

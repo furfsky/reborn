@@ -1,0 +1,8 @@
+{
+  "screen": "firmskyblock:settings",
+  "model": "cittofirmgenerated:ui/skyblock_menu/settings/ferocity_sounds",
+  "predicate": {
+    "firmament:item": "minecraft:red_dye",
+    "firmament:display_name": "Ferocity Sounds"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/titanium_pickaxe"
+  },
+  "parent": "minecraft:item/handheld"
+}

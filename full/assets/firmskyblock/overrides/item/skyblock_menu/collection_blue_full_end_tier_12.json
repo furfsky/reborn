@@ -1,0 +1,13 @@
+{
+  "screen": [
+    "firmskyblock:collection_mining_tier_12",
+    "firmskyblock:collection_fishing_tier_12"
+  ],
+  "model": "cittofirmgenerated:ui/skyblock_menu/milestone_blue_full_right_end",
+  "predicate": {
+    "firmament:item": "minecraft:lime_stained_glass_pane",
+    "firmament:display_name": {
+      "regex": ".* XII"
+    }
+  }
+}

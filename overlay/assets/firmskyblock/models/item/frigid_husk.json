@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/frigid_husk"
+  },
+  "parent": "minecraft:item/handheld"
+}

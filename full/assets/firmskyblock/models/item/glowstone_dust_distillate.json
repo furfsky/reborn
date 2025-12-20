@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/glowstone_distillate"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

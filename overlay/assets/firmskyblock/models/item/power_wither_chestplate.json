@@ -1,0 +1,7 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/necron_chestplate",
+    "layer1": "cittofirmgenerated:item/necron_chestplate"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

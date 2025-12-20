@@ -1,0 +1,6 @@
+{
+  "parent": "cittofirmgenerated:item/skyblock/dagger",
+  "textures": {
+    "layer0": "cittofirmgenerated:item/deathripper_dagger_spirit"
+  }
+}

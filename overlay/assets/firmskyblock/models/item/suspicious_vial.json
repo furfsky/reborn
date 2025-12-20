@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/suspicious_vial"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

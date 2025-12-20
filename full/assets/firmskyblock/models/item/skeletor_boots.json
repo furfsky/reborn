@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/skeletor_boots"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

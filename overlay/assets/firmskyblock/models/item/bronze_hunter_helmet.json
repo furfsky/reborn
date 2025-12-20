@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "cittofirmgenerated:item/bronze_hunter_helmet",
+    "layer1": "cittofirmgenerated:item/bronze_hunter_helmet"
+  }
+}

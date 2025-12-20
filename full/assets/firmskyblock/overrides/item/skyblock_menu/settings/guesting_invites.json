@@ -1,0 +1,8 @@
+{
+  "screen": "firmskyblock:settings",
+  "model": "cittofirmgenerated:ui/skyblock_menu/settings/guesting_invites",
+  "predicate": {
+    "firmament:item": "minecraft:emerald",
+    "firmament:display_name": "Guesting Invites"
+  }
+}

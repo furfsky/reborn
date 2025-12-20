@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/vitamin_death"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

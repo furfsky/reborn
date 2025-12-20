@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "cittofirmgenerated:item/biohazard_leggings",
+    "layer1": "cittofirmgenerated:item/biohazard_leggings"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/rusty_anchor"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

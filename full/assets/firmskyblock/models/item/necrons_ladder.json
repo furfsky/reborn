@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/necrons_ladder"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

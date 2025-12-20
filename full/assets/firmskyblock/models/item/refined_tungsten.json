@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/refined_tungsten"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

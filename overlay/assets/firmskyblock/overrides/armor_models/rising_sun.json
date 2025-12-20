@@ -1,0 +1,12 @@
+{
+  "item_ids": [
+    "ARMOR_OF_THE_RESISTANCE_CHESTPLATE",
+    "ARMOR_OF_THE_RESISTANCE_LEGGINGS",
+    "ARMOR_OF_THE_RESISTANCE_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:rising_sun"
+    }
+  ]
+}

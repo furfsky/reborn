@@ -1,0 +1,12 @@
+{
+  "item_ids": [
+    "PROTECTOR_DRAGON_CHESTPLATE",
+    "PROTECTOR_DRAGON_LEGGINGS",
+    "PROTECTOR_DRAGON_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:protector_dragon"
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "cittofirmgenerated:item/starred_midas_sword_0"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "firmament:display_name": {
+          "regex": ".*Gilded.*"
+        }
+      },
+      "model": "firmskyblock:item/gilded_starred_midas_sword_0"
+    },
+    {
+      "predicate": {
+        "firmament:lore": {
+          "regex": ".*Price paid: ((([5-9])|(1[0-9])|(2[0-4]))(,[0-9]{3}){2}).*"
+        },
+        "firmament:not": {
+          "firmament:display_name": {
+            "regex": ".*Gilded.*"
+          }
+        }
+      },
+      "model": "firmskyblock:item/starred_midas_sword_1"
+    },
+    {
+      "predicate": {
+        "firmament:all": [
+          {
+            "firmament:display_name": {
+              "regex": ".*Gilded.*"
+            },
+            "firmament:lore": {
+              "regex": ".*Price paid: ((([5-9])|(1[0-9])|(2[0-4]))(,[0-9]{3}){2}).*"
+            }
+          }
+        ]
+      },
+      "model": "firmskyblock:item/gilded_starred_midas_sword_1"
+    },
+    {
+      "predicate": {
+        "firmament:lore": {
+          "regex": ".*Price paid: (((2[5-9])|([3-4][0-9]))(,[0-9]{3}){2}).*"
+        },
+        "firmament:not": {
+          "firmament:display_name": {
+            "regex": ".*Gilded.*"
+          }
+        }
+      },
+      "model": "firmskyblock:item/starred_midas_sword_2"
+    },
+    {
+      "predicate": {
+        "firmament:all": [
+          {
+            "firmament:display_name": {
+              "regex": ".*Gilded.*"
+            },
+            "firmament:lore": {
+              "regex": ".*Price paid: (((2[5-9])|([3-4][0-9]))(,[0-9]{3}){2}).*"
+            }
+          }
+        ]
+      },
+      "model": "firmskyblock:item/gilded_starred_midas_sword_2"
+    },
+    {
+      "predicate": {
+        "firmament:lore": {
+          "regex": ".*Price paid: (([5-9][0-9])(,[0-9]{3}){2}).*"
+        },
+        "firmament:not": {
+          "firmament:display_name": {
+            "regex": ".*Gilded.*"
+          }
+        }
+      },
+      "model": "firmskyblock:item/starred_midas_sword_3"
+    },
+    {
+      "predicate": {
+        "firmament:all": [
+          {
+            "firmament:display_name": {
+              "regex": ".*Gilded.*"
+            },
+            "firmament:lore": {
+              "regex": ".*Price paid: (([5-9][0-9])(,[0-9]{3}){2}).*"
+            }
+          }
+        ]
+      },
+      "model": "firmskyblock:item/gilded_starred_midas_sword_3"
+    },
+    {
+      "predicate": {
+        "firmament:lore": {
+          "regex": ".*Price paid: (((1[0-9]{2})|(2[0-4][0-9]))(,[0-9]{3}){2}).*"
+        },
+        "firmament:not": {
+          "firmament:display_name": {
+            "regex": ".*Gilded.*"
+          }
+        }
+      },
+      "model": "firmskyblock:item/starred_midas_sword_4"
+    },
+    {
+      "predicate": {
+        "firmament:all": [
+          {
+            "firmament:display_name": {
+              "regex": ".*Gilded.*"
+            },
+            "firmament:lore": {
+              "regex": ".*Price paid: (((1[0-9]{2})|(2[0-4][0-9]))(,[0-9]{3}){2}).*"
+            }
+          }
+        ]
+      },
+      "model": "firmskyblock:item/gilded_starred_midas_sword_4"
+    },
+    {
+      "predicate": {
+        "firmament:lore": {
+          "regex": ".*Price paid: (((2[5-9][0-9])|([3-9][0-9]{2})|([0-9]{1,},[0-9]{3}))(,[0-9]{3}){2,}).*"
+        },
+        "firmament:not": {
+          "firmament:display_name": {
+            "regex": ".*Gilded.*"
+          }
+        }
+      },
+      "model": "firmskyblock:item/starred_midas_sword_5"
+    },
+    {
+      "predicate": {
+        "firmament:all": [
+          {
+            "firmament:display_name": {
+              "regex": ".*Gilded.*"
+            },
+            "firmament:lore": {
+              "regex": ".*Price paid: (((2[5-9][0-9])|([3-9][0-9]{2})|([0-9]{1,},[0-9]{3}))(,[0-9]{3}){2,}).*"
+            }
+          }
+        ]
+      },
+      "model": "firmskyblock:item/gilded_starred_midas_sword_5"
+    }
+  ]
+}

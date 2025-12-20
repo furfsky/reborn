@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/magma_necklace"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

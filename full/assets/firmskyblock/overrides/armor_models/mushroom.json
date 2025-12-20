@@ -1,0 +1,13 @@
+{
+  "item_ids": [
+    "MUSHROOM_HELMET",
+    "MUSHROOM_CHESTPLATE",
+    "MUSHROOM_LEGGINGS",
+    "MUSHROOM_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:mushroom"
+    }
+  ]
+}

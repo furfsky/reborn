@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/lava_shell_necklace"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

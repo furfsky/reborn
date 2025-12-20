@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/jacobus_register"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

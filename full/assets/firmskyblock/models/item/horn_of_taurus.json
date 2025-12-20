@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/horn_of_taurus"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

@@ -1,0 +1,13 @@
+{
+  "item_ids": [
+    "SHIMMERING_LIGHT_HOOD",
+    "SHIMMERING_LIGHT_TUNIC",
+    "SHIMMERING_LIGHT_TROUSERS",
+    "SHIMMERING_LIGHT_SLIPPERS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:shimmering_light"
+    }
+  ]
+}

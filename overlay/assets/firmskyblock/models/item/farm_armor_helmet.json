@@ -1,0 +1,7 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/farm_armor_helmet",
+    "layer1": "cittofirmgenerated:item/farm_armor_helmet"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

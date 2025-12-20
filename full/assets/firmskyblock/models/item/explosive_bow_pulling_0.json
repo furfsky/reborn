@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/bow",
+  "textures": {
+    "layer0": "cittofirmgenerated:item/explosive_bow_pulling_0"
+  }
+}

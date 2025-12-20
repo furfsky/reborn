@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/necron_handle"
+  },
+  "parent": "minecraft:item/handheld"
+}

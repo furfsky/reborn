@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/future_calories_talisman"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

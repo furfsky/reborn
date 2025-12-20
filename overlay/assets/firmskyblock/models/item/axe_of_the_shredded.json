@@ -1,0 +1,6 @@
+{
+  "parent": "cittofirmgenerated:item/skyblock/big_sword",
+  "textures": {
+    "layer0": "cittofirmgenerated:item/axe_of_the_shredded"
+  }
+}

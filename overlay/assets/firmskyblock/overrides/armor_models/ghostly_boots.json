@@ -1,0 +1,10 @@
+{
+  "item_ids": [
+    "GHOST_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:ghostly_boots"
+    }
+  ]
+}

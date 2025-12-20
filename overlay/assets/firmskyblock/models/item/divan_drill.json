@@ -1,0 +1,14 @@
+{
+  "parent": "cittofirmgenerated:item/skyblock/drill",
+  "textures": {
+    "layer0": "cittofirmgenerated:item/divan_drill"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "firmament:lore": "EMPTY! Refuel to gain back"
+      },
+      "model": "firmskyblock:item/divan_drill_empty"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "item_ids": [
+    "GOBLIN_CHESTPLATE",
+    "GOBLIN_LEGGINGS",
+    "GOBLIN_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:goblin"
+    }
+  ]
+}

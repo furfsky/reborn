@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/yellow_rock"
+  },
+  "parent": "minecraft:item/handheld"
+}

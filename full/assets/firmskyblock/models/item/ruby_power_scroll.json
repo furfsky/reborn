@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/ruby_scroll"
+  },
+  "parent": "minecraft:item/handheld"
+}

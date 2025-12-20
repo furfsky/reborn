@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/pigman_sword"
+  },
+  "parent": "minecraft:item/handheld"
+}

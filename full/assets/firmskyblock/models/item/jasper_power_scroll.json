@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/jasper_scroll"
+  },
+  "parent": "minecraft:item/handheld"
+}

@@ -1,0 +1,8 @@
+{
+  "screen": "firmskyblock:buy_order",
+  "model": "cittofirmgenerated:ui/bazaar/of_spread_buy_order",
+  "predicate": {
+    "firmament:item": "minecraft:golden_horse_armor",
+    "firmament:display_name": "5% of Spread"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/experience_artifact"
+  },
+  "parent": "minecraft:item/handheld"
+}

@@ -1,0 +1,12 @@
+{
+  "item_ids": [
+    "STRONG_DRAGON_CHESTPLATE",
+    "STRONG_DRAGON_LEGGINGS",
+    "STRONG_DRAGON_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:strong_dragon"
+    }
+  ]
+}

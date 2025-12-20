@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/titanium_drill_dr_x655_empty"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/drill"
+}

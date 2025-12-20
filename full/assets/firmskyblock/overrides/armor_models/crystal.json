@@ -1,0 +1,13 @@
+{
+  "item_ids": [
+    "CRYSTAL_HELMET",
+    "CRYSTAL_CHESTPLATE",
+    "CRYSTAL_LEGGINGS",
+    "CRYSTAL_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:crystal"
+    }
+  ]
+}

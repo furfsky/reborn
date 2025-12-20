@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/perfect_3_boots"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

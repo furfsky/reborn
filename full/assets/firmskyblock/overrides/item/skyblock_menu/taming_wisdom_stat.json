@@ -1,0 +1,13 @@
+{
+  "screen": [
+    "firmskyblock:your_stats_breakdown",
+    "firmskyblock:stats"
+  ],
+  "model": "cittofirmgenerated:ui/skyblock_menu/taming_wisdom_stat",
+  "predicate": {
+    "firmament:item": "minecraft:polar_bear_spawn_egg",
+    "firmament:display_name": {
+      "regex": "☯ Taming Wisdom.*"
+    }
+  }
+}

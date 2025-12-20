@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "cittofirmgenerated:item/skyblocker_auction_browser_armor_selected"
+  }
+}

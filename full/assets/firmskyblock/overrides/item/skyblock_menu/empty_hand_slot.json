@@ -1,0 +1,8 @@
+{
+  "screen": "firmskyblock:your_equipment_and_stats",
+  "model": "cittofirmgenerated:ui/skyblock_menu/empty_hand_slot",
+  "predicate": {
+    "firmament:item": "minecraft:light_gray_stained_glass_pane",
+    "firmament:display_name": "Empty Hand Slot"
+  }
+}

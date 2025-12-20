@@ -1,0 +1,8 @@
+{
+  "screen": "firmskyblock:bazaar_level_subcategory",
+  "model": "cittofirmgenerated:ui/bazaar/sell_inventory_now",
+  "predicate": {
+    "firmament:item": "minecraft:chest",
+    "firmament:display_name": "Sell Inventory Now"
+  }
+}

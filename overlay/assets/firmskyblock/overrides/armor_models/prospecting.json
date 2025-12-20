@@ -1,0 +1,13 @@
+{
+  "item_ids": [
+    "MINER_OUTFIT_HELMET",
+    "MINER_OUTFIT_CHESTPLATE",
+    "MINER_OUTFIT_LEGGINGS",
+    "MINER_OUTFIT_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:miner_outfit"
+    }
+  ]
+}

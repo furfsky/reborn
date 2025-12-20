@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/shark_fin"
+  },
+  "parent": "minecraft:item/handheld"
+}

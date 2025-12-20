@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/doubloon_of_the_family"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/snow_shovel"
+  },
+  "parent": "minecraft:item/handheld"
+}

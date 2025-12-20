@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/lesser_orb_of_healing"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

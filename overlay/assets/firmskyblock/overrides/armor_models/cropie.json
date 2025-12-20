@@ -1,0 +1,13 @@
+{
+  "item_ids": [
+    "CROPIE_HELMET",
+    "CROPIE_CHESTPLATE",
+    "CROPIE_LEGGINGS",
+    "CROPIE_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:cropie"
+    }
+  ]
+}

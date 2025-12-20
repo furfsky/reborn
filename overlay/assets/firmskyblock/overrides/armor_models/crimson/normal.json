@@ -1,0 +1,12 @@
+{
+  "item_ids": [
+    "CRIMSON_CHESTPLATE",
+    "CRIMSON_LEGGINGS",
+    "CRIMSON_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:crimson/crimson"
+    }
+  ]
+}

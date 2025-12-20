@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/livid_fragment"
+  },
+  "parent": "minecraft:item/handheld"
+}

@@ -1,0 +1,167 @@
+{
+  "match": {
+    "regex": "((- 1x|By|Seller):? )?(\\[[0-9]+\\]|\\[MVP\\+\\]) TraitorAlmighty( \\[\u270C\\])?(\\: [0-9\\.,]+[kM]| .| [0-9\\.,]+[smh] ago)?.?"
+  },
+  "replacements": [
+    {
+      "match": "[",
+      "style": {
+        "color": "dark_gray"
+      },
+      "replace": {
+        "text": ""
+      }
+    },
+    {
+      "match": "[",
+      "style": {
+        "color": "aqua"
+      },
+      "replace": {
+        "text": ""
+      }
+    },
+    {
+      "match": {
+        "regex": "^(?<xeroc>[0-9]+)$"
+      },
+      "style": {
+        "color": "green"
+      },
+      "replace": {
+        "text": "",
+        "extra": [
+          {
+            "color": "white",
+            "text": "${xeroc}\uFFFF"
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "regex": "^(?<xeroc>[0-9]+)$"
+      },
+      "replace": {
+        "text": "",
+        "extra": [
+          {
+            "color": "gold",
+            "text": "["
+          },
+          {
+            "color": "white",
+            "obfuscated": "true",
+            "text": "${xeroc}"
+          },
+          {
+            "color": "gold",
+            "text": "]"
+          }
+        ]
+      }
+    },
+    {
+      "match": {
+        "regex": "^(?<xeroc>[0-9]+)\uFFFF$"
+      },
+      "style": {
+        "color": "green"
+      },
+      "replace": {
+        "text": "",
+        "extra": [
+          {
+            "color": "white",
+            "text": "${xeroc}"
+          }
+        ]
+      }
+    },
+    {
+      "match": "MVP",
+      "style": {
+        "color": "aqua"
+      },
+      "replace": {
+        "text": "",
+        "extra": [
+          {
+            "color": "gold",
+            "text": "["
+          },
+          {
+            "color": "white",
+            "obfuscated": "true",
+            "text": "FSR"
+          }
+        ]
+      }
+    },
+    {
+      "match": "+",
+      "style": {
+        "color": "light_purple"
+      },
+      "replace": {
+        "color": "gold",
+        "text": "]"
+      }
+    },
+    {
+      "match": "]",
+      "style": {
+        "color": "aqua"
+      },
+      "replace": {
+        "text": ""
+      }
+    },
+    {
+      "match": "]",
+      "style": {
+        "color": "dark_gray"
+      },
+      "replace": {
+        "text": ""
+      }
+    },
+    {
+      "match": "TraitorAlmighty",
+      "replace": {
+        "color": "white",
+        "text": "TraitorAlmighty \uE0FF"
+      }
+    },
+    {
+      "match": "\u2600",
+      "style": {
+        "color": "gold"
+      },
+      "replace": {
+        "text": ""
+      }
+    },
+    {
+      "match": "\u2692",
+      "style": {
+        "color": "red"
+      },
+      "replace": {
+        "text": ""
+      }
+    },
+    {
+      "match": {
+        "regex": "^[0-9\\.,]+[kMB]$"
+      },
+      "style": {
+        "color": "yellow"
+      },
+      "replace": {
+        "color": "white",
+        "text": "\u221E"
+      }
+    }
+  ]
+}

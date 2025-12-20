@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/grand_experience_bottle"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

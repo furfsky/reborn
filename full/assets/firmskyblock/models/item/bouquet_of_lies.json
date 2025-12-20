@@ -1,0 +1,6 @@
+{
+  "parent": "cittofirmgenerated:item/skyblock/upright_staff",
+  "textures": {
+    "layer0": "cittofirmgenerated:item/bouquet_of_lies"
+  }
+}

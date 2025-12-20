@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/gold_magmafish"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

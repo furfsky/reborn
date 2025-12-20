@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/lucky_clover"
+  },
+  "parent": "minecraft:item/handheld"
+}

@@ -1,0 +1,30 @@
+{
+  "screen": [
+    "firmskyblock:select_floor",
+    "firmskyblock:select_type",
+    "firmskyblock:search_settings",
+    "firmskyblock:level_guide"
+  ],
+  "model": "cittofirmgenerated:ui/skyblock_menu/the_catacombs_door_any",
+  "predicate": {
+    "firmament:display_name": {
+      "regex": "[\u2716\u2714] Dungeon Floors|Any"
+    },
+    "firmament:any": [
+      {
+        "firmament:item": "minecraft:grass_block"
+      },
+      {
+        "firmament:item": "minecraft:orange_stained_glass_pane"
+      },
+      {
+        "firmament:item": "minecraft:cobblestone"
+      },
+      {
+        "firmament:skull": {
+          "textureValue": "ewogICJ0aW1lc3RhbXAiIDogMTYwMjAzOTQ4MTEzMywKICAicHJvZmlsZUlkIiA6ICJjNTBhZmE4YWJlYjk0ZTQ1OTRiZjFiNDI1YTk4MGYwMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUd29FQmFlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE3YjhlZjdlOGUwYWYxOTM5OWNjMzI0ODVmMmVlNDdiMmJiNGQ1ODAyYzcxYjMwMjFmNGQ1ZDZiNWYzYWZlMDMiCiAgICB9CiAgfQp9"
+        }
+      }
+    ]
+  }
+}

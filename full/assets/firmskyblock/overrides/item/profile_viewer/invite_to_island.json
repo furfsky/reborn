@@ -1,0 +1,8 @@
+{
+  "screen": "firmskyblock:profile",
+  "model": "cittofirmgenerated:ui/profile_viewer/invite_to_island",
+  "predicate": {
+    "firmament:item": "minecraft:poppy",
+    "firmament:display_name": "Invite to Island"
+  }
+}

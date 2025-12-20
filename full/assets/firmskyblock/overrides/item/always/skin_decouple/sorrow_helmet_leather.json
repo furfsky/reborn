@@ -1,0 +1,11 @@
+{
+  "screen": "firmament:always",
+  "model": "cittofirmgenerated:ui/always/skin_decouple/sorrow_helmet",
+  "predicate": {
+    "firmament:extra_attributes": {
+      "path": "id",
+      "string": "SORROW_HELMET"
+    },
+    "firmament:item": "minecraft:leather_helmet"
+  }
+}

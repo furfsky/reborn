@@ -1,0 +1,8 @@
+{
+  "screen": "firmament:always",
+  "model": "cittofirmgenerated:ui/always/locked",
+  "predicate": {
+    "firmament:item": "minecraft:coal_block",
+    "firmament:display_name": "???"
+  }
+}

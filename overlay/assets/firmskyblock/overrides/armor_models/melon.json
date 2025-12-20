@@ -1,0 +1,12 @@
+{
+  "item_ids": [
+    "MELON_CHESTPLATE",
+    "MELON_LEGGINGS",
+    "MELON_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:melon"
+    }
+  ]
+}

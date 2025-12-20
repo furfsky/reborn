@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/sparkling_rune"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

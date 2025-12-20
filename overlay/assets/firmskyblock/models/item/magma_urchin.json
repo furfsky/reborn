@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/magma_urchin"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}
