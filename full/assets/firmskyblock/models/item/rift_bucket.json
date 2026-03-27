@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/plumber_bucket"
-  },
-  "parent": "minecraft:item/handheld"
-}

@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/fel_pearl"
-  },
-  "parent": "minecraft:item/handheld"
-}

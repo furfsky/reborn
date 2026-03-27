@@ -1,7 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/fiery_fervor_boots",
-    "layer1": "cittofirmgenerated:item/fiery_fervor_boots"
-  },
-  "parent": "cittofirmgenerated:item/skyblock/item"
-}

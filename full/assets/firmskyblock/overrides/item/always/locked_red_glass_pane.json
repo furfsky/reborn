@@ -1,8 +1,0 @@
-{
-  "screen": "firmament:always",
-  "model": "cittofirmgenerated:ui/always/locked",
-  "predicate": {
-    "firmament:item": "minecraft:red_stained_glass_pane",
-    "firmament:display_name": "Locked Page"
-  }
-}

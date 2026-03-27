@@ -1,8 +1,0 @@
-{
-  "screen": "firmskyblock:bazaar_level_subcategory",
-  "model": "cittofirmgenerated:ui/bazaar/direct_mode",
-  "predicate": {
-    "firmament:item": "minecraft:iron_ore",
-    "firmament:display_name": "Direct Mode"
-  }
-}

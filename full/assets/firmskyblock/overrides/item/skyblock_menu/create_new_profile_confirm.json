@@ -1,8 +1,0 @@
-{
-  "screen": "firmskyblock:create_a_profile",
-  "model": "cittofirmgenerated:ui/skyblock_menu/create_new_profile_confirm",
-  "predicate": {
-    "firmament:item": "minecraft:green_terracotta",
-    "firmament:display_name": "Create New Profile"
-  }
-}

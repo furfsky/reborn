@@ -1,0 +1,1 @@
+{"model":{"type":"select","property":"component","component":"minecraft:item_model","cases":[{"when":"minecraft:iron_sword","model":{"type":"model","model":"item_melee:item/burstmaw_dagger_spirit"}},{"when":"minecraft:diamond_sword","model":{"type":"model","model":"item_melee:item/burstmaw_dagger_crystal"}}]}}

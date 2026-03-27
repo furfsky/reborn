@@ -1,8 +1,0 @@
-{
-  "screen": "firmskyblock:flat_bonuses",
-  "model": "cittofirmgenerated:ui/skyblock_menu/flatten_stats_menu_enabled",
-  "predicate": {
-    "firmament:item": "minecraft:cobblestone_slab",
-    "firmament:lore": "Enabled: ON!"
-  }
-}

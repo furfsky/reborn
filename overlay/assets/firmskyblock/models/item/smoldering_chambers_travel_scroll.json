@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/smoldering_tomb"
-  },
-  "parent": "minecraft:item/handheld"
-}

@@ -1,7 +1,0 @@
-{
-  "parent": "cittofirmgenerated:item/skyblock/item",
-  "textures": {
-    "layer0": "cittofirmgenerated:item/healer_adaptive_leggings",
-    "layer1": "cittofirmgenerated:item/healer_adaptive_leggings"
-  }
-}

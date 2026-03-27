@@ -1,7 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/goldor_leggings",
-    "layer1": "cittofirmgenerated:item/goldor_leggings"
-  },
-  "parent": "cittofirmgenerated:item/skyblock/item"
-}

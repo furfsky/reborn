@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/flycatcher"
-  },
-  "parent": "minecraft:item/handheld"
-}

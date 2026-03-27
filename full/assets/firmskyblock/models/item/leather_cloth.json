@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/leather_cloth"
-  },
-  "parent": "minecraft:item/handheld"
-}

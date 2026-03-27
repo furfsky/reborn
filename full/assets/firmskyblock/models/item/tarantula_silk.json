@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/tarantula_silk"
-  },
-  "parent": "minecraft:item/handheld"
-}

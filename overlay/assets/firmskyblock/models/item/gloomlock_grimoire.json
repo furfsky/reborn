@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/gloomlock_grimoire"
-  },
-  "parent": "minecraft:item/generated"
-}

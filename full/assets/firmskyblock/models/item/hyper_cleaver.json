@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/hyper_cleaver"
-  },
-  "parent": "minecraft:item/handheld"
-}

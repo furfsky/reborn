@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/squire_sword"
-  },
-  "parent": "minecraft:item/handheld"
-}

@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "cittofirmgenerated:item/bouncy_chestplate",
-    "layer1": "cittofirmgenerated:item/bouncy_chestplate"
-  }
-}

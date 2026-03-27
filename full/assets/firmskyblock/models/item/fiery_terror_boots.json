@@ -1,7 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/fiery_terror_boots",
-    "layer1": "cittofirmgenerated:item/fiery_terror_boots"
-  },
-  "parent": "cittofirmgenerated:item/skyblock/item"
-}

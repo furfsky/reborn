@@ -1,8 +1,0 @@
-{
-  "screen": "firmskyblock:bazaar_level_subcategory",
-  "model": "cittofirmgenerated:ui/bazaar/graphs",
-  "predicate": {
-    "firmament:item": "minecraft:paper",
-    "firmament:display_name": "View Graphs"
-  }
-}

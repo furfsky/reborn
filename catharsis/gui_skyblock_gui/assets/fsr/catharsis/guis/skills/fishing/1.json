@@ -1,0 +1,1 @@
+{"target":{"conditions":[{"title":"Fishing Skill","type":"catharsis:title"},{"type":"catharsis:slot","index":9,"condition":{"name":["Fishing Level 1","Fishing Level I"],"mode":"equals","type":"catharsis:name"}}],"type":"catharsis:all"},"layout":[]}

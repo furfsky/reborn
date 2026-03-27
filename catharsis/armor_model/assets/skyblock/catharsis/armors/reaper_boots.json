@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:component","component":"dyed_color","cases":[{"when":16711680,"model":{"type":"catharsis:texture","layers":["armor_model:textures/entity/equipment/humanoid/reaper_enraged.png"]}}],"fallback":{"type":"catharsis:texture","layers":["armor_model:textures/entity/equipment/humanoid/reaper.png"]}}}

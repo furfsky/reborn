@@ -1,0 +1,1 @@
+{"target":{"conditions":[{"title":"Foraging Skill","type":"catharsis:title"},{"type":"catharsis:slot","index":9,"condition":{"name":["Foraging Level 51","Foraging Level LI"],"mode":"equals","type":"catharsis:name"}}],"type":"catharsis:all"},"layout":[{"id":"skyblock_gui:generic/navigation/first_page","target":{"type":"name","mode":"equals","name":"Levels 1 - 25"}}]}

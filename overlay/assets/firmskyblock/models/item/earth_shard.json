@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/earth_shard"
-  },
-  "parent": "minecraft:item/handheld"
-}

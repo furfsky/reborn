@@ -1,6 +1,0 @@
-{
-  "parent": "cittofirmgenerated:item/skyblock/staff",
-  "textures": {
-    "layer0": "cittofirmgenerated:item/bonzo_staff"
-  }
-}

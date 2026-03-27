@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:condition","property":"catharsis:data_type","data_type":"has_skin_fallback","on_true":{"type":"catharsis:fallthrough"},"on_false":{"type":"catharsis:model","model":"item_utility:armors/plasmaflux_power_orb.geo.json","layers":["item_utility:textures/item/plasmaflux_power_orb_model.png"]}}}

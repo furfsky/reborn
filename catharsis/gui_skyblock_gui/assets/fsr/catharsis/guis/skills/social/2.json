@@ -1,0 +1,1 @@
+{"target":{"conditions":[{"title":"Social Skill","type":"catharsis:title"},{"type":"catharsis:slot","index":9,"condition":{"name":["Social Level 51","Social Level LI"],"mode":"equals","type":"catharsis:name"}}],"type":"catharsis:all"},"layout":[]}

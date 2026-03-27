@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/fractured_mithril_pickaxe"
-  },
-  "parent": "minecraft:item/handheld"
-}

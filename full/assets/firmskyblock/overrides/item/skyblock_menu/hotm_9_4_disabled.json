@@ -1,8 +1,0 @@
-{
-  "screen": "firmskyblock:heart_of_the_mountain",
-  "model": "cittofirmgenerated:ui/skyblock_menu/hotm_9_4_disabled",
-  "predicate": {
-    "firmament:display_name": "Rags to Riches",
-    "firmament:item": "minecraft:redstone_block"
-  }
-}

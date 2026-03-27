@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/savanna"
-  },
-  "parent": "minecraft:item/handheld"
-}

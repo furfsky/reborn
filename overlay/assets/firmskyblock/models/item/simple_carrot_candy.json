@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/simple_carrot_candy"
-  },
-  "parent": "minecraft:item/handheld"
-}

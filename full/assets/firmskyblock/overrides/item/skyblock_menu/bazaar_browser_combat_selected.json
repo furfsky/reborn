@@ -1,9 +1,0 @@
-{
-  "screen": "firmskyblock:bazaar",
-  "model": "cittofirmgenerated:ui/skyblock_menu/bazaar_browser_combat_selected",
-  "predicate": {
-    "firmament:item": "minecraft:iron_sword",
-    "firmament:display_name": "Combat",
-    "firmament:lore": "Currently viewing!"
-  }
-}

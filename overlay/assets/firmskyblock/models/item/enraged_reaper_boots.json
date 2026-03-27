@@ -1,7 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/enraged_reaper_boots",
-    "layer1": "cittofirmgenerated:item/enraged_reaper_boots"
-  },
-  "parent": "cittofirmgenerated:item/skyblock/item"
-}

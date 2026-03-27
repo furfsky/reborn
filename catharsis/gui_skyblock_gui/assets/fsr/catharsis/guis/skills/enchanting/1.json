@@ -1,0 +1,1 @@
+{"target":{"conditions":[{"title":"Enchanting Skill","type":"catharsis:title"},{"type":"catharsis:slot","index":9,"condition":{"name":["Enchanting Level 1","Enchanting Level I","Enchanting Level 26","Enchanting Level XXVI"],"mode":"equals","type":"catharsis:name"}}],"type":"catharsis:all"},"layout":[]}

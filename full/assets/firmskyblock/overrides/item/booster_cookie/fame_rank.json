@@ -1,8 +1,0 @@
-{
-  "screen": "firmskyblock:booster_cookie",
-  "model": "cittofirmgenerated:ui/booster_cookie/fame_rank",
-  "predicate": {
-    "firmament:item": "minecraft:golden_helmet",
-    "firmament:display_name": "Fame Rank"
-  }
-}

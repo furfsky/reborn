@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/inferno_fuel_block"
-  },
-  "parent": "cittofirmgenerated:item/skyblock/item"
-}

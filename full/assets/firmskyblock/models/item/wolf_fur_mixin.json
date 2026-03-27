@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/wolf_fur_mixin"
-  },
-  "parent": "cittofirmgenerated:item/skyblock/item"
-}

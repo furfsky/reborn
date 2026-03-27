@@ -1,7 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/pumpkin_helmet",
-    "layer1": "cittofirmgenerated:item/pumpkin_helmet"
-  },
-  "parent": "cittofirmgenerated:item/skyblock/item"
-}

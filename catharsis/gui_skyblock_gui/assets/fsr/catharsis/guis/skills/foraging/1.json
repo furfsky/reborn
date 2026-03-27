@@ -1,0 +1,1 @@
+{"target":{"conditions":[{"title":"Foraging Skill","type":"catharsis:title"},{"type":"catharsis:slot","index":9,"condition":{"name":["Foraging Level 1","Foraging Level I","Foraging Level 26","Foraging Level XXVI"],"mode":"equals","type":"catharsis:name"}}],"type":"catharsis:all"},"layout":[]}

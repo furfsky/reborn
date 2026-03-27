@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/wand_of_strength"
-  },
-  "parent": "minecraft:item/handheld"
-}

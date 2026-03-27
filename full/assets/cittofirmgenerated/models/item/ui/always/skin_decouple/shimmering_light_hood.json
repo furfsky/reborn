@@ -1,7 +1,0 @@
-{
-	"parent": "minecraft:item/generated",
-	"textures": {
-		"layer0": "cittofirmgenerated:item/shimmering_light_hood"
-	},
-	"firmament:head_model": "cittofirmgenerated:item/helmet_icon/shimmering_light_hood"
-}

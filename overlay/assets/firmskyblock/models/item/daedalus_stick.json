@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/daedalus_stick"
-  },
-  "parent": "minecraft:item/handheld"
-}

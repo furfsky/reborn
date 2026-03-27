@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/saving_grace"
-  },
-  "parent": "minecraft:item/handheld"
-}

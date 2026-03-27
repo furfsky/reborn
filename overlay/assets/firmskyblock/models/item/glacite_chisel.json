@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/glacite_chisel"
-  },
-  "parent": "minecraft:item/handheld"
-}

@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/roofed_forest"
-  },
-  "parent": "minecraft:item/handheld"
-}

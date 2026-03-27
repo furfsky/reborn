@@ -1,0 +1,1 @@
+{"model":{"type":"condition","property":"catharsis:data_type","data_type":"has_skin_fallback","on_true":{"type":"catharsis:fallthrough"},"on_false":{"type":"model","model":"helmet_icon:item/fervor_helmet"}}}

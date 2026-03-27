@@ -1,0 +1,1 @@
+{"type":"conditional","condition":{"type":"in_island","island":"mineshaft"},"definition":{"type":"redirect","virtual_state":"block_glacitemineshafts_umber:umber_tier0"}}

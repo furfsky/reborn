@@ -1,8 +1,0 @@
-{
-  "screen": "firmskyblock:heart_of_the_mountain",
-  "model": "cittofirmgenerated:ui/skyblock_menu/hotm_6_2_disabled",
-  "predicate": {
-    "firmament:display_name": "Blockhead",
-    "firmament:item": "minecraft:redstone_block"
-  }
-}

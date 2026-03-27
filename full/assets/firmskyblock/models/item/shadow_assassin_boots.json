@@ -1,7 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/shadow_assassin_boots",
-    "layer1": "cittofirmgenerated:item/shadow_assassin_boots"
-  },
-  "parent": "cittofirmgenerated:item/skyblock/item"
-}

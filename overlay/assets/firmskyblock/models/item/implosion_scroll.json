@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/implosion"
-  },
-  "parent": "minecraft:item/handheld"
-}

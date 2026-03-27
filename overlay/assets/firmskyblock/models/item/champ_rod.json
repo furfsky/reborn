@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/rod_of_champions"
-  },
-  "parent": "minecraft:item/fishing_rod"
-}

@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/scavenged_emerald_hammer"
-  },
-  "parent": "minecraft:item/handheld"
-}

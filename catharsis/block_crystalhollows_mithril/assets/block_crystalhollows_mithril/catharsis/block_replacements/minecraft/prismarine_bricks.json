@@ -1,0 +1,1 @@
+{"type":"conditional","condition":{"type":"in_island","island":"crystal_hollows"},"definition":{"type":"redirect","virtual_state":"block_crystalhollows_mithril:mithril_tier1"}}

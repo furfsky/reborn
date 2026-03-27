@@ -1,7 +1,0 @@
-{
-  "parent": "cittofirmgenerated:item/skyblock/item",
-  "textures": {
-    "layer0": "cittofirmgenerated:item/mage_adaptive_chestplate",
-    "layer1": "cittofirmgenerated:item/mage_adaptive_chestplate"
-  }
-}

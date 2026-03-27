@@ -1,8 +1,0 @@
-{
-  "screen": "firmskyblock:profile_management",
-  "model": "cittofirmgenerated:ui/skyblock_menu/historical_members",
-  "predicate": {
-    "firmament:item": "minecraft:diamond",
-    "firmament:display_name": "Historical Members"
-  }
-}

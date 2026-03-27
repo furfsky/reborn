@@ -1,9 +1,0 @@
-{
-  "screen": "firmskyblock:item_frame",
-  "model": "cittofirmgenerated:ui/skyblock_menu/menu_toggle_disabled",
-  "predicate": {
-    "firmament:item": "minecraft:item_frame",
-    "firmament:display_name": "Menu Toggle",
-    "firmament:lore": "Status: Disabled"
-  }
-}

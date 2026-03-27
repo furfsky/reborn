@@ -1,0 +1,1 @@
+{"target":{"conditions":[{"title":"Farming Skill","type":"catharsis:title"},{"type":"catharsis:slot","index":9,"condition":{"name":["Farming Level 1","Farming Level I","Farming Level 26","Farming Level XXVI"],"mode":"equals","type":"catharsis:name"}}],"type":"catharsis:all"},"layout":[]}

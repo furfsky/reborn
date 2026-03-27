@@ -1,8 +1,0 @@
-{
-  "screen": "firmskyblock:auction_house",
-  "model": "cittofirmgenerated:ui/skyblock_menu/auctions_browser",
-  "predicate": {
-    "firmament:item": "minecraft:gold_block",
-    "firmament:display_name": "Auctions Browser"
-  }
-}

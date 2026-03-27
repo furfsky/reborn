@@ -1,0 +1,1 @@
+{"model":{"type":"select","property":"component","component":"minecraft:item_model","cases":[{"when":"minecraft:stone_sword","model":{"type":"model","model":"item_melee:item/burstfire_dagger_ashen"}},{"when":"minecraft:golden_sword","model":{"type":"model","model":"item_melee:item/burstfire_dagger_auric"}}]}}

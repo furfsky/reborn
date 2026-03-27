@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/half_eaten_carrot"
-  },
-  "parent": "minecraft:item/handheld"
-}

@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/null_sphere"
-  },
-  "parent": "minecraft:item/generated"
-}

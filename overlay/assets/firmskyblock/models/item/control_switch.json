@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/control_switch"
-  },
-  "parent": "cittofirmgenerated:item/skyblock/item"
-}

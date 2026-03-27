@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/empty_odonata_bottle"
-  },
-  "parent": "minecraft:item/handheld"
-}

@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/scylla"
-  },
-  "parent": "minecraft:item/handheld"
-}

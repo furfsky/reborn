@@ -1,9 +1,0 @@
-{
-  "screen": "firmament:always",
-  "model": "cittofirmgenerated:ui/always/skin_decouple/final_destination_helmet",
-  "predicate": {
-    "firmament:skull": {
-      "textureValue": "eyJ0aW1lc3RhbXAiOjE1NzE5NDEwNzI1MzEsInByb2ZpbGVJZCI6ImIwZDczMmZlMDBmNzQwN2U5ZTdmNzQ2MzAxY2Q5OGNhIiwicHJvZmlsZU5hbWUiOiJPUHBscyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjIxN2M1NmJiZDc3ZjY0N2I4NDAzODAzZWQ3ZWQ5ODJkZDdhZmNmOGEyY2E0MTMzZDJjMzU3ZWUwODk2ZWZlMiJ9fX0="
-    }
-  }
-}

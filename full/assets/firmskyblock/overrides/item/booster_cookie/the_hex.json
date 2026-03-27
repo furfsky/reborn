@@ -1,8 +1,0 @@
-{
-  "screen": "firmskyblock:booster_cookie",
-  "model": "cittofirmgenerated:ui/booster_cookie/the_hex",
-  "predicate": {
-    "firmament:item": "minecraft:player_head",
-    "firmament:display_name": "The Hex"
-  }
-}

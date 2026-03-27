@@ -1,0 +1,1 @@
+{"target":{"type":"catharsis:definition","definition":"catharsis:npc/mort/catacombs_gate"},"overrideBackground":false,"bounds":{"width":100,"height":100},"slots":{"skyblock_gui:skills/dungeoneering/catacombs/icon/master_entrance/locked":{"slot":11,"highlightable":false,"clickable":false}}}

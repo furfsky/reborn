@@ -1,8 +1,0 @@
-{
-  "screen": "firmskyblock:settings",
-  "model": "cittofirmgenerated:ui/skyblock_menu/settings/api_museum",
-  "predicate": {
-    "firmament:item": "minecraft:gold_block",
-    "firmament:display_name": "API: Museum"
-  }
-}

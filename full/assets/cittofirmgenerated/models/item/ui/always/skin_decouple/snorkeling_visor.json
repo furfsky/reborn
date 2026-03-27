@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "cittofirmgenerated:item/snorkeling_visor"
-  },
-  "firmament:head_model": "cittofirmgenerated:item/helmet_icon/snorkeling_visor"
-}

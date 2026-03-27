@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/mushroom_island"
-  },
-  "parent": "minecraft:item/handheld"
-}

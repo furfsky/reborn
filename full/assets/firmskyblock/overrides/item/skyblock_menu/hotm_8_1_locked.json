@@ -1,8 +1,0 @@
-{
-  "screen": "firmskyblock:heart_of_the_mountain",
-  "model": "cittofirmgenerated:ui/skyblock_menu/hotm_8_1_locked",
-  "predicate": {
-    "firmament:display_name": "Miner's Blessing",
-    "firmament:item": "minecraft:coal"
-  }
-}

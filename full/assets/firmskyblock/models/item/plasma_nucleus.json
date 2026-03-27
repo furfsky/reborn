@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/plasma_nucleus"
-  },
-  "parent": "minecraft:item/handheld"
-}

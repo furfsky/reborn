@@ -1,8 +1,0 @@
-{
-  "screen": "firmskyblock:auction_house",
-  "model": "cittofirmgenerated:ui/skyblock_menu/auction_stats",
-  "predicate": {
-    "firmament:item": "minecraft:map",
-    "firmament:display_name": "Auction Stats"
-  }
-}

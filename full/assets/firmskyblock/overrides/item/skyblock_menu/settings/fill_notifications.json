@@ -1,8 +1,0 @@
-{
-  "screen": "firmskyblock:settings",
-  "model": "cittofirmgenerated:ui/skyblock_menu/settings/fill_notifications",
-  "predicate": {
-    "firmament:item": "minecraft:hopper",
-    "firmament:display_name": "Fill Notifications"
-  }
-}

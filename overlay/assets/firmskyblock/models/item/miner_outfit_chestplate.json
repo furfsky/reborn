@@ -1,7 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/miner_outfit_chestplate",
-    "layer1": "cittofirmgenerated:item/miner_outfit_chestplate"
-  },
-  "parent": "cittofirmgenerated:item/skyblock/item"
-}

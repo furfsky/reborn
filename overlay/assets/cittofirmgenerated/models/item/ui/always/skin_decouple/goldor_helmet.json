@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "cittofirmgenerated:item/goldor_helmet"
-  },
-  "firmament:head_model": "cittofirmgenerated:item/helmet_icon/goldor_helmet"
-}

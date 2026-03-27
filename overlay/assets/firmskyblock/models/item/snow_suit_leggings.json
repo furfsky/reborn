@@ -1,7 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/snow_suit_leggings",
-    "layer1": "cittofirmgenerated:item/snow_suit_leggings"
-  },
-  "parent": "cittofirmgenerated:item/skyblock/item"
-}

@@ -1,0 +1,1 @@
+{"model":{"type":"select","property":"component","component":"dyed_color","cases":[{"when":16711680,"model":{"type":"model","model":"armor_icon:item/reaper_leggings_enraged"}}],"fallback":{"type":"minecraft:model","model":"armor_icon:item/reaper_leggings"}}}

@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/crimson_isle"
-  },
-  "parent": "minecraft:item/handheld"
-}

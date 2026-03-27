@@ -1,8 +1,0 @@
-{
-  "screen": "firmskyblock:recipes",
-  "model": "cittofirmgenerated:ui/skyblock_menu/fishing_recipes",
-  "predicate": {
-    "firmament:item": "minecraft:fishing_rod",
-    "firmament:display_name": "Fishing Recipes"
-  }
-}

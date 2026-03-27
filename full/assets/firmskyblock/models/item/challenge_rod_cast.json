@@ -1,6 +1,0 @@
-{
-	"textures": {
-		"layer0": "cittofirmgenerated:item/challenging_rod_cast"
-	},
-	"parent": "firmskyblock:item/challenge_rod"
-}

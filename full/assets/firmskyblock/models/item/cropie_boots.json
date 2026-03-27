@@ -1,7 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/cropie_boots",
-    "layer1": "cittofirmgenerated:item/cropie_boots"
-  },
-  "parent": "cittofirmgenerated:item/skyblock/item"
-}

@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/pumpkin_guts"
-  },
-  "parent": "minecraft:item/handheld"
-}

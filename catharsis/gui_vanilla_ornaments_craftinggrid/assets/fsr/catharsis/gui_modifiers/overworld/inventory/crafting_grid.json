@@ -1,0 +1,1 @@
+{"target":{"type":"catharsis:definition","definition":"fsr_assets:inventory"},"overrideLabels":true,"overrideBackground":false,"bounds":{"width":100,"height":100},"elements":[{"type":"catharsis:sprite","sprite":"fsr:gui_modifiers/ornaments/overworld/crafting_grid","layer":"BACKGROUND","width":100,"height":98,"x":79,"y":1}]}

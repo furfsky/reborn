@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/werewolf_skin"
-  },
-  "parent": "minecraft:item/handheld"
-}

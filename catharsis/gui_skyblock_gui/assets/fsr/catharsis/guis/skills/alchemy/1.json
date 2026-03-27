@@ -1,0 +1,1 @@
+{"target":{"conditions":[{"title":"Alchemy Skill","type":"catharsis:title"},{"type":"catharsis:slot","index":9,"condition":{"name":["Alchemy Level 1","Alchemy Level I"],"mode":"equals","type":"catharsis:name"}}],"type":"catharsis:all"},"layout":[]}

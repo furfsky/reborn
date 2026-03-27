@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/mushroom_and_warts_stew"
-  },
-  "parent": "minecraft:item/handheld"
-}

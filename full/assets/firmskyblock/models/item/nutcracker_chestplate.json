@@ -1,7 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/nutcracker_chestplate",
-    "layer1": "cittofirmgenerated:item/nutcracker_chestplate"
-  },
-  "parent": "cittofirmgenerated:item/skyblock/item"
-}

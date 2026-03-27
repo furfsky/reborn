@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/aurora_staff"
-  },
-  "parent": "minecraft:item/handheld"
-}

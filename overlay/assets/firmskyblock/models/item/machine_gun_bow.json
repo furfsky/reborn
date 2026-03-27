@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/machine_gun_shortbow"
-  },
-  "parent": "minecraft:item/bow"
-}

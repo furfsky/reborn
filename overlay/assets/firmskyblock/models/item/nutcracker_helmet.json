@@ -1,7 +1,0 @@
-{
-  "parent": "cittofirmgenerated:item/helmet_icon/nutcracker_helmet",
-  "textures": {
-    "layer0": "cittofirmgenerated:item/nutcracker_helmet_model"
-  },
-  "firmament:head_model": "cittofirmgenerated:item/helmet_icon/nutcracker_helmet"
-}

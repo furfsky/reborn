@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/leaping_sword"
-  },
-  "parent": "minecraft:item/handheld"
-}

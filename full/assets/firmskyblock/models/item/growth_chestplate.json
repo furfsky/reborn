@@ -1,7 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/armor_of_growth_chestplate",
-    "layer1": "cittofirmgenerated:item/armor_of_growth_chestplate"
-  },
-  "parent": "cittofirmgenerated:item/skyblock/item"
-}

@@ -1,8 +1,0 @@
-{
-  "screen": "firmskyblock:settings",
-  "model": "cittofirmgenerated:ui/skyblock_menu/settings/pristine_chat",
-  "predicate": {
-    "firmament:item": "minecraft:red_stained_glass",
-    "firmament:display_name": "Pristine Chat"
-  }
-}

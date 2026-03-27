@@ -1,6 +1,0 @@
-{
-	"textures": {
-		"layer0": "cittofirmgenerated:item/giant_fishing_rod_cast"
-	},
-	"parent": "firmskyblock:item/giant_fishing_rod"
-}

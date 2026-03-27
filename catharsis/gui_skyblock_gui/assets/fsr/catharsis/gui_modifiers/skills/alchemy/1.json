@@ -1,0 +1,1 @@
+{"target":{"type":"catharsis:definition","definition":"fsr:skills/alchemy/1"},"overrideBackground":true,"bounds":{"width":100,"height":100},"elements":[{"type":"catharsis:sprite","sprite":"fsr:gui_modifiers/skills/alchemy/1","layer":"BACKGROUND","width":176,"height":221}],"slots":{"skyblock_gui:generic/miscellaneous/filler":{"slot":{"min":0,"max":53},"hidden":true}}}

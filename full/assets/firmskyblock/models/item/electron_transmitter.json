@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/electron_transmitter"
-  },
-  "parent": "cittofirmgenerated:item/skyblock/item"
-}

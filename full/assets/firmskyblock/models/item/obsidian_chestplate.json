@@ -1,7 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/obsidian_chestplate",
-    "layer1": "cittofirmgenerated:item/obsidian_chestplate"
-  },
-  "parent": "cittofirmgenerated:item/skyblock/item"
-}

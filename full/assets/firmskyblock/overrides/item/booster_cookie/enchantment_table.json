@@ -1,8 +1,0 @@
-{
-  "screen": "firmskyblock:booster_cookie",
-  "model": "cittofirmgenerated:ui/booster_cookie/enchantment_table",
-  "predicate": {
-    "firmament:item": "minecraft:enchanting_table",
-    "firmament:display_name": "Enchantment Table"
-  }
-}

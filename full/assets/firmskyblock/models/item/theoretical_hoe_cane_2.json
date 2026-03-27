@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/turing_sugar_cane_hoe_tier_2"
-  },
-  "parent": "minecraft:item/handheld"
-}

@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/thorn_fragment"
-  },
-  "parent": "minecraft:item/handheld"
-}

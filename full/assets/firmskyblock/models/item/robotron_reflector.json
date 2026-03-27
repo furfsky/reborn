@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/robotron_reflector"
-  },
-  "parent": "cittofirmgenerated:item/skyblock/item"
-}

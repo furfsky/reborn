@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/wilson_engineering_plans"
-  },
-  "parent": "minecraft:item/handheld"
-}

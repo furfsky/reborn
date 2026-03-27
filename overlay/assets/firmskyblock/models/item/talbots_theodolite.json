@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/talbot_theodolite"
-  },
-  "parent": "minecraft:item/handheld"
-}

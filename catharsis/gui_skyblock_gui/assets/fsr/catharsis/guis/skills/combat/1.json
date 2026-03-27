@@ -1,0 +1,1 @@
+{"target":{"conditions":[{"title":"Combat Skill","type":"catharsis:title"},{"type":"catharsis:slot","index":9,"condition":{"name":["Combat Level 1","Combat Level I","Combat Level 26","Combat Level XXVI"],"mode":"equals","type":"catharsis:name"}}],"type":"catharsis:all"},"layout":[]}

@@ -1,8 +1,0 @@
-{
-  "screen": "firmskyblock:bazaar_level_subcategory",
-  "model": "cittofirmgenerated:ui/bazaar/advanced_mode",
-  "predicate": {
-    "firmament:item": "minecraft:gold_ore",
-    "firmament:display_name": "Advanced Mode"
-  }
-}

@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/tactician_murder_weapon"
-  },
-  "parent": "minecraft:item/handheld"
-}

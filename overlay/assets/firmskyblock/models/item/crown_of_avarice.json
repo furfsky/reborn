@@ -1,7 +1,0 @@
-{
-  "parent": "cittofirmgenerated:item/helmet_icon/crown_of_avarice",
-  "textures": {
-    "layer0": "cittofirmgenerated:item/crown_of_avarice_model"
-  },
-  "firmament:head_model": "cittofirmgenerated:item/helmet_icon/crown_of_avarice"
-}

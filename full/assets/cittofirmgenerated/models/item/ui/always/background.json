@@ -1,6 +1,0 @@
-{
-  "parent": "cittofirmgenerated:item/skyblock/menu_background",
-  "textures": {
-    "layer0": "cittofirmgenerated:item/background"
-  }
-}

@@ -1,6 +1,0 @@
-{
-  "parent": "cittofirmgenerated:item/skyblock/vacuum",
-  "textures": {
-    "layer0": "cittofirmgenerated:item/infini_vacuum_hooverius"
-  }
-}

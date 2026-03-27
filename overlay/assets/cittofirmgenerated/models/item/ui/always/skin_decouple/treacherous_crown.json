@@ -1,7 +1,0 @@
-{
-  "parent": "cittofirmgenerated:item/helmet_icon/treacherous_crown",
-  "textures": {
-    "layer0": "cittofirmgenerated:item/treacherous_crown_model"
-  },
-  "firmament:head_model": "cittofirmgenerated:item/helmet_icon/treacherous_crown"
-}

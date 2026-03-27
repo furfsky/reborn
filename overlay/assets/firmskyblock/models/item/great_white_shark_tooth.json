@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/great_white_shark_tooth"
-  },
-  "parent": "minecraft:item/handheld"
-}

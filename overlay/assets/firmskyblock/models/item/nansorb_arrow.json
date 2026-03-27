@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/nansorb_arrow"
-  },
-  "parent": "minecraft:item/handheld"
-}

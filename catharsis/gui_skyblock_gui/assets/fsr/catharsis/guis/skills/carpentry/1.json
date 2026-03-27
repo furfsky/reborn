@@ -1,0 +1,1 @@
+{"target":{"conditions":[{"title":"Carpentry Skill","type":"catharsis:title"},{"type":"catharsis:slot","index":9,"condition":{"name":["Carpentry Level 1","Carpentry Level I"],"mode":"equals","type":"catharsis:name"}}],"type":"catharsis:all"},"layout":[]}

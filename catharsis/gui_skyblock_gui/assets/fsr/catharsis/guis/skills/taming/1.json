@@ -1,0 +1,1 @@
+{"target":{"conditions":[{"title":"Taming Skill","type":"catharsis:title"},{"type":"catharsis:slot","index":9,"condition":{"name":["Taming Level 1","Taming Level I","Taming Level 26","Taming Level XXVI"],"mode":"equals","type":"catharsis:name"}}],"type":"catharsis:all"},"layout":[]}

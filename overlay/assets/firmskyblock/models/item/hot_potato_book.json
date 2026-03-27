@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/hot_potato_book"
-  },
-  "parent": "minecraft:item/handheld"
-}

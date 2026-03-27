@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/ectoplasm"
-  },
-  "parent": "minecraft:item/handheld"
-}

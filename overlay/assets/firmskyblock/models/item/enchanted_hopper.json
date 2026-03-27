@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/enchanted_hopper"
-  },
-  "parent": "minecraft:item/handheld"
-}

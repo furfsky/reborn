@@ -1,8 +1,0 @@
-{
-  "screen": "firmskyblock:settings",
-  "model": "cittofirmgenerated:ui/skyblock_menu/settings/click_to_enable",
-  "predicate": {
-    "firmament:item": "minecraft:lime_dye",
-    "firmament:lore": "Click to disable!"
-  }
-}

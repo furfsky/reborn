@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/textbook"
-  },
-  "parent": "minecraft:item/handheld"
-}

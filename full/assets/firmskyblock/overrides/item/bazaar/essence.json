@@ -1,9 +1,0 @@
-{
-  "screen": "firmskyblock:bazaar",
-  "model": "cittofirmgenerated:ui/bazaar/essence",
-  "predicate": {
-    "firmament:item": "minecraft:player_head",
-    "firmament:display_name": "Essence",
-    "firmament:lore": "Click to view products!"
-  }
-}

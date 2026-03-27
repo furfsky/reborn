@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/silk_edge_sword"
-  },
-  "parent": "minecraft:item/handheld"
-}

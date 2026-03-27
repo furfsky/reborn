@@ -1,7 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/shimmering_light_slippers",
-    "layer1": "cittofirmgenerated:item/shimmering_light_slippers"
-  },
-  "parent": "minecraft:item/handheld"
-}

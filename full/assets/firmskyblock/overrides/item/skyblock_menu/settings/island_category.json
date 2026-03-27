@@ -1,8 +1,0 @@
-{
-  "screen": "firmskyblock:island",
-  "model": "cittofirmgenerated:ui/skyblock_menu/settings/island_category",
-  "predicate": {
-    "firmament:item": "minecraft:player_head",
-    "firmament:display_name": "Island Category"
-  }
-}

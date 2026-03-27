@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/bow",
-  "textures": {
-    "layer0": "cittofirmgenerated:item/soulstealer_bow_pulling_1"
-  }
-}

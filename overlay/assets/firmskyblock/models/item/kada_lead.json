@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/kada_lead"
-  },
-  "parent": "minecraft:item/handheld"
-}

@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:condition","property":"catharsis:is_data_type_present","data_type":"helmet_skin","on_true":{"type":"catharsis:fallthrough"},"on_false":{"type":"catharsis:texture","layers":["armor_model:textures/entity/equipment/humanoid/heat.png"]}}}

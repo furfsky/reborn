@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/rabbit_axe"
-  },
-  "parent": "minecraft:item/handheld"
-}

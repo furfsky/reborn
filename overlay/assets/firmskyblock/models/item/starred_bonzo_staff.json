@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/starred_bonzo_staff"
-  },
-  "parent": "minecraft:item/handheld"
-}

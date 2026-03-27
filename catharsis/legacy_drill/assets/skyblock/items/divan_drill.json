@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"catharsis:data_type","data_type":"fuel","entries":[{"threshold":1,"model":{"type":"model","model":"legacy_drill:item/divan_drill"}}],"fallback":{"type":"model","model":"legacy_drill:item/divan_drill_empty"}}}

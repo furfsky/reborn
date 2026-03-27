@@ -1,8 +1,0 @@
-{
-  "screen": "firmskyblock:fast_travel",
-  "model": "cittofirmgenerated:ui/skyblock_menu/settings/click_to_enable",
-  "predicate": {
-    "firmament:display_name": "Advanced Mode",
-    "firmament:lore": "Enabled: ON"
-  }
-}

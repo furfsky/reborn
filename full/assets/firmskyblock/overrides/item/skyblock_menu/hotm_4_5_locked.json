@@ -1,8 +1,0 @@
-{
-  "screen": "firmskyblock:heart_of_the_mountain",
-  "model": "cittofirmgenerated:ui/skyblock_menu/hotm_4_5_locked",
-  "predicate": {
-    "firmament:display_name": "Gem Lover",
-    "firmament:item": "minecraft:coal"
-  }
-}

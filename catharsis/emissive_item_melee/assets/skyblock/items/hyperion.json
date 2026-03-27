@@ -1,0 +1,1 @@
+{"model":{"type":"composite","models":[{"type":"model","model":"emissive_item_melee:item/hyperion"},{"type":"model","model":"emissive_item_melee:item/hyperion_backlight"},{"type":"model","model":"emissive_item_melee:item/hyperion_emissive"}]}}

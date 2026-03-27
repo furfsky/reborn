@@ -1,8 +1,0 @@
-{
-  "screen": "firmskyblock:settings",
-  "model": "cittofirmgenerated:ui/skyblock_menu/settings/api_collections",
-  "predicate": {
-    "firmament:item": "minecraft:painting",
-    "firmament:display_name": "API: Collections"
-  }
-}

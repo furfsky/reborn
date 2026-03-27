@@ -1,6 +1,0 @@
-{
-	"textures": {
-		"layer0": "cittofirmgenerated:item/yeti_rod_cast"
-	},
-	"parent": "firmskyblock:item/yeti_rod"
-}

@@ -1,0 +1,1 @@
+{"model":{"type":"condition","property":"minecraft:fishing_rod/cast","on_false":{"type":"model","model":"item_item:item/mirrored_fishing_rod"},"on_true":{"type":"model","model":"item_item:item/mirrored_fishing_rod_cast"}}}

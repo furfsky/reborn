@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/cocoa_chopper"
-  },
-  "parent": "minecraft:item/handheld"
-}

@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/tier_boost_core"
-  },
-  "parent": "minecraft:item/handheld"
-}

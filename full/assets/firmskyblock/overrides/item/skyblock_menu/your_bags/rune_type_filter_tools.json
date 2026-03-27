@@ -1,8 +1,0 @@
-{
-  "screen": "firmskyblock:runes_sack",
-  "model": "cittofirmgenerated:ui/skyblock_menu/your_bags/rune_type_filter_tools",
-  "predicate": {
-    "firmament:item": "minecraft:golden_pickaxe",
-    "firmament:display_name": "Rune Type Filter"
-  }
-}

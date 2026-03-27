@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/wand_of_mending"
-  },
-  "parent": "minecraft:item/handheld"
-}

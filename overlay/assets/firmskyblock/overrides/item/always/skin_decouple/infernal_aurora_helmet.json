@@ -1,9 +1,0 @@
-{
-  "screen": "firmament:always",
-  "model": "cittofirmgenerated:ui/always/skin_decouple/infernal_aurora_helmet",
-  "predicate": {
-    "firmament:skull": {
-      "textureValue": "ewogICJ0aW1lc3RhbXAiIDogMTY0NTUwNDQ1MDU0MCwKICAicHJvZmlsZUlkIiA6ICJjNTZlMjI0MmNiZWY0MWE2ODdlMzI2MGRjMGNmOTM2MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJMSlI3MzEwMCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yY2MzZWE1MzQ1YzI4OGMyNGYxYWE3ZGQ4ZmM2MzI5NTU5N2QzZmIzNzRlMzE0ZjYwNTY0MGI4ZGVhMDZmZTNmIgogICAgfQogIH0KfQ=="
-    }
-  }
-}

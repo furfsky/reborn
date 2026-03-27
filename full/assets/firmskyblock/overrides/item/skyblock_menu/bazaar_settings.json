@@ -1,8 +1,0 @@
-{
-  "screen": "firmskyblock:bazaar",
-  "model": "cittofirmgenerated:ui/skyblock_menu/bazaar_settings",
-  "predicate": {
-    "firmament:item": "minecraft:redstone_torch",
-    "firmament:display_name": "Bazaar Settings"
-  }
-}

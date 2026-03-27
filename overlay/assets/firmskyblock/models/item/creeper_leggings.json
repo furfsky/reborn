@@ -1,7 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/creeper_pants",
-    "layer1": "cittofirmgenerated:item/creeper_pants"
-  },
-  "parent": "cittofirmgenerated:item/skyblock/item"
-}

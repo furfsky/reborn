@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/poem_of_true_love"
-  },
-  "parent": "minecraft:item/handheld"
-}

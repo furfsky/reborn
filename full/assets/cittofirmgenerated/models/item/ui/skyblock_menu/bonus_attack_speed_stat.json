@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/handheld",
-  "textures": {
-    "layer0": "cittofirmgenerated:item/bonus_attack_speed_stat"
-  }
-}

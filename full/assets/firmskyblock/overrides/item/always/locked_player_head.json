@@ -1,8 +1,0 @@
-{
-  "screen": "firmament:always",
-  "model": "cittofirmgenerated:ui/always/locked",
-  "predicate": {
-    "firmament:item": "minecraft:player_head",
-    "firmament:display_name": "???"
-  }
-}

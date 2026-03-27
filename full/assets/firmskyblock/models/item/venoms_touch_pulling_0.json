@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/bow",
-  "textures": {
-    "layer0": "cittofirmgenerated:item/venom_touch_pulling_0"
-  }
-}

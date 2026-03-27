@@ -1,0 +1,1 @@
+{"model":{"type":"select","property":"component","component":"item_model","cases":[{"when":"minecraft:diamond_sword","model":{"type":"model","model":"legacy_voidgloom2:item/vorpal_katana"}},{"when":"minecraft:golden_sword","model":{"type":"model","model":"legacy_voidgloom2:item/vorpal_katana_ability"}}]}}

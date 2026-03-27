@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/ragnarock"
-  },
-  "parent": "minecraft:item/handheld"
-}

@@ -1,0 +1,1 @@
+{"model":{"type":"composite","models":[{"type":"model","model":"emissive_item_melee:item/dark_claymore"},{"type":"model","model":"emissive_item_melee:item/dark_claymore_backlight"},{"type":"model","model":"emissive_item_melee:item/dark_claymore_emissive"}]}}

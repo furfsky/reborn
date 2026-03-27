@@ -1,9 +1,0 @@
-{
-  "screen": "firmskyblock:bazaar",
-  "model": "cittofirmgenerated:ui/skyblock_menu/bazaar_browser_search",
-  "predicate": {
-    "firmament:item": "minecraft:oak_sign",
-    "firmament:display_name": "Search",
-    "firmament:lore": "Find products by name!"
-  }
-}

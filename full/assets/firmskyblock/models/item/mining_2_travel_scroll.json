@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/deep_caverns"
-  },
-  "parent": "minecraft:item/handheld"
-}

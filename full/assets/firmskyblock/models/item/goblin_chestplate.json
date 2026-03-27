@@ -1,7 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/goblin_chestplate",
-    "layer1": "cittofirmgenerated:item/goblin_chestplate"
-  },
-  "parent": "cittofirmgenerated:item/skyblock/item"
-}

@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/bow",
-  "textures": {
-    "layer0": "cittofirmgenerated:item/soul_rebound_pulling_2"
-  }
-}

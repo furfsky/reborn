@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/soul_string"
-  },
-  "parent": "minecraft:item/handheld"
-}

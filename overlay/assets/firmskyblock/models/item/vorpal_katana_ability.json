@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/vorpal_katana_ability"
-  },
-  "parent": "minecraft:item/handheld"
-}

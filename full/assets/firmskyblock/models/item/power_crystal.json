@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/power_crystal"
-  },
-  "parent": "minecraft:item/handheld"
-}

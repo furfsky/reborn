@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/melon_dicer"
-  },
-  "parent": "minecraft:item/handheld"
-}

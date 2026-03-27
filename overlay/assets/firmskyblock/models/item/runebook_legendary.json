@@ -1,6 +1,0 @@
-{
-  "parent": "cittofirmgenerated:item/skyblock/item",
-  "textures": {
-    "layer0": "cittofirmgenerated:item/runebook_legendary"
-  }
-}

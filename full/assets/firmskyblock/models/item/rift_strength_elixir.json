@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/strength_elixir"
-  },
-  "parent": "cittofirmgenerated:item/skyblock/item"
-}

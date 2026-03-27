@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/rogue_sword"
-  },
-  "parent": "minecraft:item/handheld"
-}

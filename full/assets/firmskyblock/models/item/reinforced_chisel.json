@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/reinforced_chisel"
-  },
-  "parent": "minecraft:item/handheld"
-}

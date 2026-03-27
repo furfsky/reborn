@@ -1,0 +1,1 @@
+{"model":{"type":"condition","property":"minecraft:fishing_rod/cast","on_false":{"type":"model","model":"item_melee:item/zombie_commander_whip"},"on_true":{"type":"model","model":"item_melee:item/zombie_commander_whip_cast"}}}

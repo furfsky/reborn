@@ -1,8 +1,0 @@
-{
-  "screen": "firmament:always",
-  "model": "cittofirmgenerated:ui/always/background",
-  "predicate": {
-    "firmament:item": "minecraft:black_stained_glass_pane",
-    "firmament:display_name": " "
-  }
-}

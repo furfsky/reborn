@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/bow",
-  "textures": {
-    "layer0": "cittofirmgenerated:item/last_breath_pulling_0"
-  }
-}

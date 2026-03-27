@@ -1,0 +1,1 @@
+{"target":{"type":"catharsis:definition","definition":"fsr_assets:beacon"},"overrideBackground":false,"bounds":{"width":100,"height":100},"elements":[{"type":"catharsis:sprite","sprite":"fsr:gui_modifiers/ornaments/overworld/skyblock_menu","layer":"BACKGROUND","width":20,"height":27,"x":178,"y":192}]}

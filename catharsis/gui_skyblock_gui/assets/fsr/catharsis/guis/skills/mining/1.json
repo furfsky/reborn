@@ -1,0 +1,1 @@
+{"target":{"conditions":[{"title":"Mining Skill","type":"catharsis:title"},{"type":"catharsis:slot","index":9,"condition":{"name":["Mining Level 1","Mining Level I","Mining Level 26","Mining Level XXVI"],"mode":"equals","type":"catharsis:name"}}],"type":"catharsis:all"},"layout":[]}

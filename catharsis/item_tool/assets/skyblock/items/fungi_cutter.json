@@ -1,0 +1,1 @@
+{"model":{"type":"select","property":"catharsis:data_type","data_type":"fungi_cutter_mode","cases":[{"when":"RED","model":{"type":"model","model":"item_tool:item/fungi_cutter_red"}}],"fallback":{"type":"minecraft:model","model":"item_tool:item/fungi_cutter_brown"}}}

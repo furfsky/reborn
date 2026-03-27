@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/toxic_arrow_poison"
-  },
-  "parent": "minecraft:item/handheld"
-}

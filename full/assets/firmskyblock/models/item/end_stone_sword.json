@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/end_stone_sword"
-  },
-  "parent": "minecraft:item/handheld"
-}

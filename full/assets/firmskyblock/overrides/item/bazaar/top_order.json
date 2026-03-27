@@ -1,8 +1,0 @@
-{
-  "screen": "firmskyblock:buy_order",
-  "model": "cittofirmgenerated:ui/bazaar/top_order",
-  "predicate": {
-    "firmament:item": "minecraft:gold_nugget",
-    "firmament:display_name": "Top Order +0.1"
-  }
-}

@@ -1,7 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/rampart_leggings",
-    "layer1": "cittofirmgenerated:item/rampart_leggings"
-  },
-  "parent": "cittofirmgenerated:item/skyblock/item"
-}

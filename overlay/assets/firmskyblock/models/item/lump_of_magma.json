@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/lump_of_magma"
-  },
-  "parent": "minecraft:item/handheld"
-}

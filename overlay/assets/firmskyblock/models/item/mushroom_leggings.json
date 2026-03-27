@@ -1,7 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/mushroom_leggings",
-    "layer1": "cittofirmgenerated:item/mushroom_leggings"
-  },
-  "parent": "cittofirmgenerated:item/skyblock/item"
-}

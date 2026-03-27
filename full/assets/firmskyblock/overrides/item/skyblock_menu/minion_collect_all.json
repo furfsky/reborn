@@ -1,8 +1,0 @@
-{
-  "screen": "firmskyblock:minion",
-  "model": "cittofirmgenerated:ui/skyblock_menu/minion_collect_all",
-  "predicate": {
-    "firmament:item": "minecraft:chest",
-    "firmament:display_name": "Collect All"
-  }
-}

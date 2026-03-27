@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/ice_spray_wand"
-  },
-  "parent": "minecraft:item/handheld"
-}

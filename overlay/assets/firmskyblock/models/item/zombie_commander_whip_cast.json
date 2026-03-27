@@ -1,6 +1,0 @@
-{
-	"textures": {
-		"layer0": "cittofirmgenerated:item/zombie_commander_whip_cast"
-	},
-	"parent": "firmskyblock:item/zombie_commander_whip"
-}

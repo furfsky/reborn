@@ -1,8 +1,0 @@
-{
-  "screen": "firmskyblock:recipes",
-  "model": "cittofirmgenerated:ui/skyblock_menu/special_recipes",
-  "predicate": {
-    "firmament:item": "minecraft:nether_star",
-    "firmament:display_name": "Special Recipes"
-  }
-}

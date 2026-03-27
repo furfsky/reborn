@@ -1,0 +1,1 @@
+{"target":{"type":"catharsis:definition","definition":"catharsis:generic/generic"},"overrideBackground":false,"bounds":{"width":100,"height":100},"slots":{"skyblock_gui:generic/miscellaneous/filler":{"slot":{"min":0,"max":53},"highlightable":false,"clickable":false}}}

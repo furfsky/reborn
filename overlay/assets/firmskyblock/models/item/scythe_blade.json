@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/scythe_blade"
-  },
-  "parent": "minecraft:item/handheld"
-}

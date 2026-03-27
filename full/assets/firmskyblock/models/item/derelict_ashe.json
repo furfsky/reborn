@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/derelict_ashe"
-  },
-  "parent": "minecraft:item/handheld"
-}

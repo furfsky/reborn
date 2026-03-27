@@ -1,7 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/shark_scale_boots",
-    "layer1": "cittofirmgenerated:item/shark_scale_boots"
-  },
-  "parent": "cittofirmgenerated:item/skyblock/item"
-}

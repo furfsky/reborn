@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/self_recursive_pickaxe"
-  },
-  "parent": "minecraft:item/handheld"
-}

@@ -1,8 +1,0 @@
-{
-  "screen": "firmskyblock:settings",
-  "model": "cittofirmgenerated:ui/skyblock_menu/settings/zones_in_action_bar",
-  "predicate": {
-    "firmament:item": "minecraft:light_weighted_pressure_plate",
-    "firmament:display_name": "Zones in Action Bar"
-  }
-}

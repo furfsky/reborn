@@ -1,6 +1,0 @@
-{
-	"textures": {
-		"layer0": "cittofirmgenerated:item/prismarine_rod_cast"
-	},
-	"parent": "firmskyblock:item/prismarine_rod"
-}

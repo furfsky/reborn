@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/griffin_feather"
-  },
-  "parent": "minecraft:item/handheld"
-}

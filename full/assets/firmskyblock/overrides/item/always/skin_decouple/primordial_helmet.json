@@ -1,9 +1,0 @@
-{
-  "screen": "firmament:always",
-  "model": "cittofirmgenerated:ui/always/skin_decouple/primordial_helmet",
-  "predicate": {
-    "firmament:skull": {
-      "textureValue": "ewogICJ0aW1lc3RhbXAiIDogMTczOTc4OTMxMjY2NCwKICAicHJvZmlsZUlkIiA6ICIwZWQ2MDFlMDhjZTM0YjRkYWUxZmI4MDljZmEwNTM5NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJOZWVkTW9yZUFjY291bnRzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzMwN2NlZmEyMDAyODg3OGVmNTI5ZDZiOTIwOGQyODEyMDEwZDA4NmY5NjFiOTY0YzMyOGYwOWIzZjY1NzNkNiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
-    }
-  }
-}

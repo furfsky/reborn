@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/pythagorean_potato_hoe_tier_1"
-  },
-  "parent": "minecraft:item/handheld"
-}

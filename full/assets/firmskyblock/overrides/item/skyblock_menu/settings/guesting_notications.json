@@ -1,8 +1,0 @@
-{
-  "screen": "firmskyblock:settings",
-  "model": "cittofirmgenerated:ui/skyblock_menu/settings/guesting_notifications",
-  "predicate": {
-    "firmament:item": "minecraft:paper",
-    "firmament:display_name": "Guesting Notifications"
-  }
-}

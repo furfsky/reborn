@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/recall_potion"
-  },
-  "parent": "minecraft:item/handheld"
-}

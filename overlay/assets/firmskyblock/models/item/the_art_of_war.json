@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/the_art_of_war"
-  },
-  "parent": "minecraft:item/handheld"
-}

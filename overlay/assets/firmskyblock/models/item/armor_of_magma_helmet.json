@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "cittofirmgenerated:item/armor_of_magma_helmet",
-    "layer1": "cittofirmgenerated:item/armor_of_magma_helmet"
-  }
-}

@@ -1,7 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/armor_of_growth_leggings",
-    "layer1": "cittofirmgenerated:item/armor_of_growth_leggings"
-  },
-  "parent": "cittofirmgenerated:item/skyblock/item"
-}

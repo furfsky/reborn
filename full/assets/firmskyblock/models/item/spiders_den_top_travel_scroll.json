@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/spider_den_top_of_nest"
-  },
-  "parent": "minecraft:item/handheld"
-}

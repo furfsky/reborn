@@ -1,7 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/enraged_reaper_chestplate",
-    "layer1": "cittofirmgenerated:item/enraged_reaper_chestplate"
-  },
-  "parent": "cittofirmgenerated:item/skyblock/item"
-}

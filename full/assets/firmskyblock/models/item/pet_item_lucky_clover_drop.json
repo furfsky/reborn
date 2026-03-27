@@ -1,6 +1,0 @@
-{
-  "textures": {
-    "layer0": "cittofirmgenerated:item/lucky_clover_core"
-  },
-  "parent": "minecraft:item/handheld"
-}

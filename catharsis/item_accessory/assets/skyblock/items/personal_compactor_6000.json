@@ -1,0 +1,1 @@
+{"model":{"type":"condition","property":"catharsis:data_type","data_type":"personal_accessory_active","on_false":{"type":"model","model":"item_accessory:item/personal_compactor_6000_off"},"on_true":{"type":"model","model":"item_accessory:item/personal_compactor_6000"}}}

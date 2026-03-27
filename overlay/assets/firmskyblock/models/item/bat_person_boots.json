@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "cittofirmgenerated:item/bat_person_boots",
-    "layer1": "cittofirmgenerated:item/bat_person_boots"
-  }
-}
