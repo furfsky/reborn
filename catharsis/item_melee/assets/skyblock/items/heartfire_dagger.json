@@ -1,1 +1,1 @@
-{"model":{"type":"select","property":"component","component":"minecraft:item_model","cases":[{"when":"minecraft:stone_sword","model":{"type":"model","model":"item_melee:item/heartfire_dagger_ashen"}},{"when":"minecraft:golden_sword","model":{"type":"model","model":"item_melee:item/heartfire_dagger_auric"}}]}}
+{"model":{"type":"condition","property":"component","predicate":"custom_data","value":"{td_attune_mode:1}","on_false":{"type":"model","model":"item_melee:item/heartfire_dagger_ashen"},"on_true":{"type":"model","model":"item_melee:item/heartfire_dagger_auric"}}}

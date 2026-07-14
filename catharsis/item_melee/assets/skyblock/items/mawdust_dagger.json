@@ -1,1 +1,1 @@
-{"model":{"type":"select","property":"component","component":"minecraft:item_model","cases":[{"when":"minecraft:iron_sword","model":{"type":"model","model":"item_melee:item/mawdust_dagger_spirit"}},{"when":"minecraft:diamond_sword","model":{"type":"model","model":"item_melee:item/mawdust_dagger_crystal"}}]}}
+{"model":{"type":"condition","property":"component","predicate":"custom_data","value":"{td_attune_mode:3}","on_false":{"type":"model","model":"item_melee:item/mawdust_dagger_spirit"},"on_true":{"type":"model","model":"item_melee:item/mawdust_dagger_crystal"}}}
