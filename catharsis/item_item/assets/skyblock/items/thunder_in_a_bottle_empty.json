@@ -1,1 +1,1 @@
-{"model":{"type":"model","model":"item_item:item/thunder_in_a_bottle_empty"}}
+{"model":{"type":"range_dispatch","property":"catharsis:data_type","data_type":"thunder_charge","entries":[{"threshold":1,"model":{"type":"model","model":"item_item:item/thunder_in_a_bottle_progress"}}],"fallback":{"type":"model","model":"item_item:item/thunder_in_a_bottle_empty"}}}

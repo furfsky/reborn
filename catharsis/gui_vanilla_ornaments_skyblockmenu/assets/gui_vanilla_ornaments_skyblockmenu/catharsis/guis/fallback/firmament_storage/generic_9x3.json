@@ -1,0 +1,1 @@
+{"target":{"type":"all","conditions":[{"type":"catharsis:title","title":"(Ender Chest \\([\\d]+\\/[\\d]+\\))|(.+Backpack \\(Slot #[\\d]+\\))"},{"type":"catharsis:type","menu":"generic_9x3"},{"type":"catharsis:external_mod_config","modId":"firmament","file":"firmament/storage-overlay.json","path":"always-replace","value":true}]},"layout":[]}

@@ -1,0 +1,1 @@
+{"model":{"type":"condition","property":"catharsis:timespan","timespan":"catharsis:is_day","on_true":{"type":"model","model":"item_tool:item/theoretical_hoe_sunflower_2_day"},"on_false":{"type":"model","model":"item_tool:item/theoretical_hoe_sunflower_2_night"}}}
